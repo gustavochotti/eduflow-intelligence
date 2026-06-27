@@ -7,7 +7,7 @@
 
 ## Demonstração
 
-[![EduFlow Intelligence — Demo](./assets/thumb_demo.png)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+[![EduFlow Intelligence — Demo](./assets/thumb_demo.png)](https://youtu.be/eU8OJLux_hE)
 
 > Clique na imagem para assistir à demonstração completa (2 min).
 
