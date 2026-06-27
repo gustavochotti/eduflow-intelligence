@@ -1,17 +1,24 @@
 # EduFlow Intelligence
-
 ### Sistema de Scoring Preditivo de Leads com Assistente de Abordagem por IA Generativa
 
 > Franquias de ensino convertem menos de 2% dos leads captados. O problema raramente é falta de contato — é falta de priorização e contexto. Este sistema resolve os dois.
 
 ---
 
+## Demonstração
+
+[![EduFlow Intelligence — Demo](./assets/thumb_demo.png)](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+
+> Clique na imagem para assistir à demonstração completa (2 min).
+
+---
+
 ## Impacto Simulado
 
-|Abordagem|Leads contatados|Matrículas estimadas|Taxa de conversão|
+| Abordagem | Leads contatados | Matrículas estimadas | Taxa de conversão |
 |---|---|---|---|
-|Sem o sistema (contato aleatório)|1.200 / mês|~22|1,8%|
-|Com o sistema (top 22% por score)|264 / mês|~19|7,3%|
+| Sem o sistema (contato aleatório) | 1.200 / mês | ~22 | 1,8% |
+| Com o sistema (top 22% por score) | 264 / mês | ~19 | 7,3% |
 
 **Mesma quantidade de matrículas. Um terço do esforço comercial.**
 
@@ -31,11 +38,39 @@ O EduFlow Intelligence transforma o departamento comercial de **reativo** para *
 
 ## A Solução em 3 Camadas
 
-**1. Motor Preditivo (ML + SHAP)** Modelo de classificação treinado sobre características do lead — canal de origem, histórico de contatos, curso de interesse, tempo de resposta — que gera uma probabilidade de conversão entre 0 e 1 para cada contato. O SHAP decompõe esse score em fatores concretos e legíveis.
+**1. Motor Preditivo (ML + SHAP)**
+Modelo de classificação treinado sobre características do lead — canal de origem, histórico de contatos, curso de interesse, tempo de resposta — que gera uma probabilidade de conversão entre 0 e 1 para cada contato. O SHAP decompõe esse score em fatores concretos e legíveis.
 
-**2. Backend de Alta Performance (FastAPI)** API REST que serve os scores, as explicações SHAP e orquestra as chamadas ao LLM. Arquitetura separada do frontend por design — permite que o modelo seja atualizado ou substituído sem tocar na interface.
+**2. Backend de Alta Performance (FastAPI)**
+API REST que serve os scores, as explicações SHAP e orquestra as chamadas ao LLM. Arquitetura separada do frontend por design — permite que o modelo seja atualizado ou substituído sem tocar na interface.
 
-**3. Assistente de Abordagem por LLM (IA Generativa)** Com o perfil do lead e as razões matemáticas do score em mãos, o sistema chama um LLM via OpenRouter para gerar um script de WhatsApp personalizado. Não é um template genérico — a mensagem menciona o curso certo, reconhece o canal de origem e usa o comportamento anterior do lead como argumento de abordagem.
+**3. Assistente de Abordagem por LLM (IA Generativa)**
+Com o perfil do lead e as razões matemáticas do score em mãos, o sistema chama um LLM via OpenRouter para gerar um script de WhatsApp personalizado. Não é um template genérico — a mensagem menciona o curso certo, reconhece o canal de origem e usa o comportamento anterior do lead como argumento de abordagem.
+
+---
+
+## Interface
+
+O dashboard é dividido em três visões com responsabilidades distintas.
+
+### Visão de Gestão
+KPIs agregados: distribuição de scores na base, taxa de conversão simulada por canal e volume de leads por período. Projetada para o gerente acompanhar a saúde do funil.
+
+![Visão de Gestão — KPIs e distribuição de scores](./assets/screenshots/visao_gestao.png)
+
+---
+
+### Visão Operacional
+Tabela de leads ordenada por probabilidade de conversão, com filtros por canal de origem, curso de interesse e faixa de score. O vendedor vê imediatamente quem contatar primeiro.
+
+![Visão Operacional — tabela de leads por score](./assets/screenshots/visao_operacional.png)
+
+---
+
+### Visão de Ação
+Perfil completo do lead selecionado, explicação visual dos fatores SHAP que geraram o score e geração do script de abordagem via LLM com um clique.
+
+![Visão de Ação — perfil do lead, SHAP e script gerado](./assets/screenshots/visao_acao.png)
 
 ---
 
@@ -70,7 +105,6 @@ A solução foi encapsular todas as transformações em um `Pipeline` do scikit-
 **Stack:** `scikit-learn` (`Pipeline`, `ColumnTransformer`, `SimpleImputer`, `OneHotEncoder`, `StandardScaler`)
 
 **Features de negócio criadas:**
-
 - `score_engajamento` — combina velocidade de resposta, número de tentativas e interação prévia
 - `is_indicacao` — flag binária que isola o canal de maior conversão histórica
 - `urgencia_estimada` — produto entre dias sem contato e tentativas acumuladas
@@ -83,11 +117,11 @@ O desafio do desbalanceamento de classes: um modelo que prevê "não vai convert
 
 Três modelos foram comparados:
 
-|Modelo|AUC-ROC|Average Precision|Interpretabilidade|
+| Modelo | AUC-ROC | Average Precision | Interpretabilidade |
 |---|---|---|---|
-|Logistic Regression|✦ mais alto|✦ mais alto|Alta (coeficientes diretos)|
-|Random Forest|intermediário|intermediário|Média (feature importance)|
-|XGBoost|intermediário|intermediário|Média (SHAP necessário)|
+| Logistic Regression | ✦ mais alto | ✦ mais alto | Alta (coeficientes diretos) |
+| Random Forest | intermediário | intermediário | Média (feature importance) |
+| XGBoost | intermediário | intermediário | Média (SHAP necessário) |
 
 **Decisão:** Regressão Logística apresentou melhor capacidade de separação e, para este problema específico, a interpretabilidade nativa é um ativo — o modelo precisa ser auditável pelo time comercial, não apenas pelo analista.
 
@@ -115,19 +149,8 @@ A API expõe três endpoints:
 
 O prompt enviado ao LLM é externalizado em `prompts/script_template.txt` — separado do código Python por decisão de arquitetura. Prompts são peças de engenharia que precisam ser versionadas, testadas e iteradas independentemente da lógica da aplicação.
 
-**Stack:** `FastAPI`, `uvicorn`, `pydantic`, `python-dotenv`, `httpx` **LLM:** OpenRouter API (Mistral Nemo) — configurável via `.env`, não acoplado ao provedor
-
----
-
-### Etapa 6 — Dashboard Interativo
-
-Interface construída em três visões:
-
-- **Visão de Gestão** — KPIs agregados: distribuição de scores, taxa de conversão simulada por canal, volume de leads por semana
-- **Visão Operacional** — tabela de leads ordenada por score com filtros por canal, curso e faixa de probabilidade
-- **Visão de Ação** — perfil completo do lead, visualização SHAP e geração do script de abordagem via LLM com um clique
-
-**Stack:** `streamlit`, `plotly`, `requests`
+**Stack:** `FastAPI`, `uvicorn`, `pydantic`, `python-dotenv`, `httpx`
+**LLM:** OpenRouter API (Mistral Nemo) — configurável via `.env`, não acoplado ao provedor
 
 ---
 
@@ -136,28 +159,35 @@ Interface construída em três visões:
 ```
 eduflow-intelligence/
 │
+├── assets/
+│   ├── thumb_demo.png              # Thumbnail clicável do vídeo de demonstração
+│   └── screenshots/
+│       ├── visao_gestao.png        # Dashboard — KPIs e distribuição de scores
+│       ├── visao_operacional.png   # Dashboard — tabela de leads por score
+│       └── visao_acao.png          # Dashboard — perfil, SHAP e script gerado
+│
 ├── src/
-│   ├── data_generation.py      # Gerador de dataset sintético (seed fixo)
-│   ├── preprocessing.py        # ColumnTransformer e features de negócio
-│   ├── model_training.py       # Treino, comparação e serialização do modelo
-│   └── model_evaluation.py     # Métricas, curvas e simulação de impacto
+│   ├── data_generation.py          # Gerador de dataset sintético (seed fixo)
+│   ├── preprocessing.py            # ColumnTransformer e features de negócio
+│   ├── model_training.py           # Treino, comparação e serialização do modelo
+│   └── model_evaluation.py         # Métricas, curvas e simulação de impacto
 │
 ├── api/
-│   └── main.py                 # FastAPI: /leads, /score, /script
+│   └── main.py                     # FastAPI: /leads, /score, /script
 │
 ├── dashboard/
-│   └── app.py                  # Streamlit: 3 visões (gestão, operacional, ação)
+│   └── app.py                      # Streamlit: 3 visões (gestão, operacional, ação)
 │
 ├── prompts/
-│   └── script_template.txt     # Template do prompt LLM (versionado separadamente)
+│   └── script_template.txt         # Template do prompt LLM (versionado separadamente)
 │
 ├── notebooks/
-│   ├── eda.ipynb               # Análise exploratória com narrativa de negócio
-│   └── model_evaluation.ipynb  # Avaliação de modelos e simulação de impacto
+│   ├── eda.ipynb                   # Análise exploratória com narrativa de negócio
+│   └── model_evaluation.ipynb      # Avaliação de modelos e simulação de impacto
 │
-├── model.pkl                   # Pipeline serializado (preprocessamento + modelo)
-├── leads_raw.csv               # Dataset gerado (reproduzível via data_generation.py)
-├── .env.example                # Variáveis de ambiente necessárias (sem valores reais)
+├── model.pkl                       # Pipeline serializado (preprocessamento + modelo)
+├── leads_raw.csv                   # Dataset gerado (reproduzível via data_generation.py)
+├── .env.example                    # Variáveis de ambiente necessárias (sem valores reais)
 ├── requirements.txt
 └── README.md
 ```
@@ -166,29 +196,27 @@ eduflow-intelligence/
 
 ## Stack Tecnológico
 
-|Camada|Tecnologia|Por que esta escolha|
+| Camada | Tecnologia | Por que esta escolha |
 |---|---|---|
-|Linguagem|Python 3.10+|Padrão do mercado para DS/ML|
-|ML & Pipeline|scikit-learn, XGBoost|Pipeline serializado evita data leakage em produção|
-|Explicabilidade|SHAP|Padrão corporativo para auditabilidade de modelos|
-|IA Generativa|OpenRouter (Mistral Nemo)|Agnóstico a provedor, configurável via `.env`|
-|Backend|FastAPI + Uvicorn|Validação automática via Pydantic, Swagger nativo|
-|Frontend|Streamlit + Plotly|Padrão para dashboards analíticos em Python|
-|Dados|pandas, numpy, scipy, Faker|Geração estatisticamente plausível com locale BR|
+| Linguagem | Python 3.10+ | Padrão do mercado para DS/ML |
+| ML & Pipeline | scikit-learn, XGBoost | Pipeline serializado evita data leakage em produção |
+| Explicabilidade | SHAP | Padrão corporativo para auditabilidade de modelos |
+| IA Generativa | OpenRouter (Mistral Nemo) | Agnóstico a provedor, configurável via `.env` |
+| Backend | FastAPI + Uvicorn | Validação automática via Pydantic, Swagger nativo |
+| Frontend | Streamlit + Plotly | Padrão para dashboards analíticos em Python |
+| Dados | pandas, numpy, scipy, Faker | Geração estatisticamente plausível com locale BR |
 
 ---
 
 ## Como Executar Localmente
 
 **1. Clone e acesse o projeto:**
-
 ```bash
 git clone https://github.com/SeuUsuario/eduflow-intelligence.git
 cd eduflow-intelligence
 ```
 
 **2. Ambiente virtual e dependências:**
-
 ```bash
 python -m venv .venv
 
@@ -201,27 +229,23 @@ pip install -r requirements.txt
 ```
 
 **3. Variáveis de ambiente:**
-
 ```bash
 cp .env.example .env
 # Edite o .env e insira sua chave OpenRouter
 ```
 
 **4. Gere os dados e treine o modelo:**
-
 ```bash
 python src/data_generation.py
 python src/model_training.py
 ```
 
 **5. Inicie o backend (mantenha este terminal aberto):**
-
 ```bash
 python -m uvicorn api.main:app --host 0.0.0.0 --port 8000
 ```
 
 **6. Inicie o dashboard (novo terminal, mesmo ambiente virtual):**
-
 ```bash
 python -m streamlit run dashboard/app.py
 ```
@@ -234,4 +258,4 @@ Acesse `http://localhost:8501` — o dashboard conecta automaticamente à API.
 
 Construído por alguém que viveu o problema antes de modelá-lo.
 
-Se quiser conversar sobre o projeto, dados, ou como adaptar o sistema para outros contextos de negócio — me encontra no [LinkedIn](https://claude.ai/chat/bb4f78d9-ffaf-4746-9da9-eba5f7782527#).
+Se quiser conversar sobre o projeto, dados, ou como adaptar o sistema para outros contextos de negócio — me encontra no [LinkedIn](#).
