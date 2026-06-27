@@ -1,0 +1,76 @@
+{
+  "projeto": "EduFlow Intelligence",
+  "melhor_modelo": "LogisticRegression",
+  "auc_roc": 0.7921123433296148,
+  "avg_precision": 0.4588820257731672,
+  "feature_names": [
+    "dias_sem_contato",
+    "n_tentativas",
+    "renda_estimada",
+    "score_engajamento",
+    "urgencia_estimada",
+    "canal_captacao",
+    "curso_interesse",
+    "faixa_etaria",
+    "turno_preferencia",
+    "respondeu_contato",
+    "is_indicacao",
+    "is_evento",
+    "contato_rapido",
+    "tentativas_ideal",
+    "turno_noite",
+    "curso_adulto"
+  ],
+  "transformed_feature_names": [
+    "numericas__dias_sem_contato",
+    "numericas__n_tentativas",
+    "numericas__renda_estimada",
+    "numericas__score_engajamento",
+    "numericas__urgencia_estimada",
+    "categoricas__canal_captacao_Evento Presencial",
+    "categoricas__canal_captacao_Facebook Ads",
+    "categoricas__canal_captacao_Google Ads",
+    "categoricas__canal_captacao_Indicação",
+    "categoricas__canal_captacao_Instagram",
+    "categoricas__canal_captacao_Tráfego Orgânico",
+    "categoricas__curso_interesse_Espanhol",
+    "categoricas__curso_interesse_Francês",
+    "categoricas__curso_interesse_Inglês Adulto",
+    "categoricas__curso_interesse_Inglês Básico",
+    "categoricas__curso_interesse_Inglês Intermediário",
+    "categoricas__curso_interesse_Inglês Teens",
+    "categoricas__faixa_etaria_18-24",
+    "categoricas__faixa_etaria_25-34",
+    "categoricas__faixa_etaria_35-44",
+    "categoricas__faixa_etaria_45-54",
+    "categoricas__faixa_etaria_55+",
+    "categoricas__turno_preferencia_Manhã",
+    "categoricas__turno_preferencia_Noite",
+    "categoricas__turno_preferencia_Tarde",
+    "binarias__respondeu_contato",
+    "binarias__is_indicacao",
+    "binarias__is_evento",
+    "binarias__contato_rapido",
+    "binarias__tentativas_ideal",
+    "binarias__turno_noite",
+    "binarias__curso_adulto"
+  ],
+  "n_features": 16,
+  "n_treino": 1440,
+  "n_teste": 360,
+  "data_treinamento": "2026-06-25T19:26:05.413426",
+  "comparacao_modelos": {
+    "LogisticRegression": {
+      "auc_roc": 0.7921123433296148,
+      "avg_precision": 0.4588820257731672
+    },
+    "RandomForest": {
+      "auc_roc": 0.7146138198044492,
+      "avg_precision": 0.2578867139038572
+    },
+    "XGBoost": {
+      "auc_roc": 0.6993241026314062,
+      "avg_precision": 0.26456259038872415
+    }
+  }
+}

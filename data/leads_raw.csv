@@ -1,0 +1,1801 @@
+﻿lead_id,nome_ficticio,municipio,canal_captacao,curso_interesse,faixa_etaria,turno_preferencia,dia_semana_contato,dias_sem_contato,n_tentativas,respondeu_contato,renda_estimada,converteu
+1,Brenda Alves,Garcia do Oeste,Tráfego Orgânico,Inglês Adulto,,Noite,Quarta-feira,6,0,1,2073.43,0
+2,Sra. Isabelly Câmara,Sousa,Google Ads,Inglês Adulto,18-24,Manhã,Quarta-feira,7,1,0,4724.03,0
+3,Cauã Rocha,Melo,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Segunda-feira,6,1,0,4072.79,0
+4,Dra. Aurora Pastor,Cavalcanti,Facebook Ads,Inglês Adulto,25-34,Manhã,Domingo,7,3,0,,0
+5,Ana Beatriz Alves,Monteiro Grande,Indicação,Inglês Adulto,55+,Noite,Quinta-feira,7,3,0,2925.25,0
+6,Henrique da Conceição,Viana do Amparo,Evento Presencial,Inglês Adulto,18-24,Noite,Quarta-feira,4,0,1,2104.67,1
+7,Amanda Novais,da Cunha da Prata,Tráfego Orgânico,Inglês Básico,,Tarde,Quinta-feira,12,2,0,5801.57,0
+8,Yago Leão,Gonçalves,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Segunda-feira,2,1,1,,0
+9,Pietro Pastor,Sales,Indicação,Inglês Intermediário,18-24,Manhã,Terça-feira,7,5,1,3878.17,0
+10,André Teixeira,Araújo,Google Ads,Inglês Básico,25-34,Noite,Quinta-feira,5,1,0,1492.28,0
+11,Otávio Fernandes,da Cunha,Instagram,Inglês Básico,35-44,Tarde,Quinta-feira,7,2,0,2558.36,0
+12,Eduardo Cunha,Pires de Brito,Evento Presencial,Inglês Intermediário,25-34,Noite,Sexta-feira,6,0,0,6097.82,1
+13,Sr. Caleb Garcia,Souza de Farias,Facebook Ads,Inglês Teens,35-44,Tarde,Quinta-feira,10,5,1,2360.35,0
+14,Luiz Henrique Ferreira,Fonseca da Praia,Tráfego Orgânico,Inglês Básico,,Manhã,Quinta-feira,3,1,0,,0
+15,Julia Aparecida,Ferreira do Sul,Google Ads,Inglês Teens,35-44,Noite,Sexta-feira,6,2,1,971.13,0
+16,Sra. Zoe Campos,Campos da Praia,Instagram,Inglês Adulto,35-44,Tarde,Segunda-feira,12,3,1,2573.06,0
+17,Anna Liz Novaes,Oliveira,Google Ads,Inglês Teens,,Manhã,Sexta-feira,5,2,1,3185.21,0
+18,Luiz Miguel Oliveira,Vasconcelos,Indicação,Inglês Intermediário,18-24,Noite,Sexta-feira,6,4,0,,0
+19,Bernardo Aparecida,Fogaça Alegre,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Terça-feira,9,4,1,1840.02,1
+20,Heloísa Vargas,Vasconcelos de Sousa,Facebook Ads,Inglês Adulto,55+,Tarde,Terça-feira,6,1,1,5062.24,0
+21,Bruno da Conceição,Barros de Garcia,Tráfego Orgânico,Espanhol,35-44,,Terça-feira,10,2,0,,0
+22,Mateus da Mota,Martins Grande,Instagram,Inglês Intermediário,,Tarde,Terça-feira,4,2,1,2353.59,0
+23,Maria Clara Castro,Porto,Evento Presencial,Inglês Adulto,25-34,Noite,Quinta-feira,4,1,1,2850.02,0
+24,Dr. Gustavo Henrique Rios,Leão Verde,Tráfego Orgânico,Inglês Adulto,45-54,Manhã,Segunda-feira,7,2,0,,0
+25,Brayan Pereira,Barbosa de Minas,Tráfego Orgânico,Inglês Teens,35-44,Noite,Quinta-feira,8,3,1,1549.52,0
+26,Eloá Nascimento,Fernandes,Instagram,Inglês Básico,35-44,Noite,Segunda-feira,11,3,0,2724.97,0
+27,Srta. Elisa Martins,Dias,Google Ads,Inglês Adulto,45-54,Noite,Segunda-feira,3,3,1,7061.27,0
+28,Júlia Porto,Rezende da Mata,Indicação,Inglês Intermediário,35-44,Noite,Terça-feira,2,2,1,4665.63,1
+29,Dra. Hellena Rodrigues,Pereira das Flores,Instagram,Espanhol,35-44,Noite,Terça-feira,10,1,0,3210.9,0
+30,Sr. Ian Andrade,Macedo da Praia,Facebook Ads,Inglês Intermediário,18-24,Noite,Domingo,6,5,0,3724.58,0
+31,Dr. João Felipe Azevedo,Jesus de Cavalcante,Facebook Ads,Inglês Intermediário,18-24,Tarde,Terça-feira,9,2,0,4817.53,0
+32,Levi Cunha,Almeida,Evento Presencial,Francês,55+,Tarde,Terça-feira,6,2,1,5352.63,1
+33,Sara Gonçalves,Siqueira,Instagram,Inglês Intermediário,35-44,Noite,Terça-feira,10,1,0,,0
+34,Natália Casa Grande,Ribeiro,Instagram,Inglês Básico,25-34,Tarde,Quarta-feira,10,4,1,8140.56,0
+35,Davi Miguel da Cruz,Souza de Minas,Google Ads,Inglês Básico,35-44,Noite,Quinta-feira,14,2,0,7219.27,0
+36,Dra. Zoe da Luz,Cavalcante,Instagram,Inglês Básico,18-24,Manhã,Sexta-feira,3,5,0,5079.71,0
+37,Dra. Mariane Pacheco,Caldeira do Campo,Indicação,Inglês Básico,45-54,Noite,Quarta-feira,5,2,1,2201.49,0
+38,Maria Cecília Câmara,Melo,Google Ads,Inglês Intermediário,25-34,Manhã,Quinta-feira,7,1,1,1996.99,0
+39,Thomas Monteiro,Alves,Instagram,Inglês Teens,45-54,Noite,Quarta-feira,8,1,0,2924.52,0
+40,Benicio Camargo,Moura de Minas,Facebook Ads,Inglês Teens,25-34,Manhã,Sábado,3,0,0,,0
+41,Emanuel Vieira,da Luz,Google Ads,Inglês Básico,25-34,Manhã,Quinta-feira,7,3,0,1323.25,0
+42,Mariana Peixoto,Barros,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Terça-feira,10,0,0,4594.43,0
+43,Matheus Garcia,das Neves de Goiás,Facebook Ads,Inglês Básico,45-54,,Sexta-feira,2,0,0,7105.49,0
+44,Nina Moura,Sousa,Instagram,Espanhol,18-24,Noite,Sexta-feira,5,2,1,4805.8,0
+45,Yuri Albuquerque,Macedo Grande,Tráfego Orgânico,Inglês Básico,18-24,Noite,Quarta-feira,6,2,0,2413.15,0
+46,Bruna Rodrigues,Moura,Tráfego Orgânico,Inglês Adulto,35-44,Tarde,Domingo,6,3,0,2261.08,0
+47,Juliana Vargas,Alves,Instagram,Inglês Intermediário,25-34,Noite,Sábado,7,0,0,4127.54,0
+48,Manuela Camargo,Ribeiro,Instagram,Inglês Adulto,25-34,Tarde,Terça-feira,7,2,0,3216.99,0
+49,Pedro Henrique Castro,Duarte do Amparo,Facebook Ads,Inglês Intermediário,25-34,Tarde,Sexta-feira,3,0,1,,0
+50,Agatha Silveira,Nogueira de da Mata,Indicação,Inglês Teens,45-54,Tarde,Quinta-feira,5,2,0,4873.0,0
+51,Sra. Sarah Teixeira,Carvalho de Sampaio,Instagram,Inglês Básico,25-34,Manhã,Quinta-feira,12,0,0,6380.86,0
+52,Thiago Caldeira,Pastor,Indicação,Espanhol,25-34,Noite,Quinta-feira,10,3,1,1877.79,0
+53,Letícia Porto,Pires de Souza,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Sábado,4,0,1,3953.71,0
+54,Fernanda Cassiano,Moura da Prata,Facebook Ads,Inglês Teens,25-34,Manhã,Quinta-feira,12,4,1,2865.81,0
+55,Sr. Vitor Hugo Vasconcelos,Ferreira do Amparo,Facebook Ads,Inglês Teens,25-34,Noite,Quinta-feira,6,2,1,3315.19,0
+56,Agatha Peixoto,Borges,Tráfego Orgânico,Francês,18-24,Tarde,Segunda-feira,4,1,1,5630.44,0
+57,Dr. Antony Camargo,das Neves de Fonseca,Google Ads,Inglês Básico,18-24,Manhã,Quarta-feira,5,2,1,5977.38,1
+58,Dr. Isaque Araújo,da Luz Grande,Google Ads,Inglês Básico,25-34,Noite,Sábado,11,6,1,7552.71,0
+59,Bruno Barros,Albuquerque do Sul,Indicação,Inglês Básico,45-54,,Sexta-feira,3,0,0,4423.09,0
+60,Sra. Ana Lívia Teixeira,Ferreira,Indicação,Inglês Básico,18-24,Manhã,Segunda-feira,3,3,1,3294.5,1
+61,Carolina Cardoso,Melo da Prata,Facebook Ads,Inglês Adulto,25-34,Noite,Sábado,9,2,1,3045.54,0
+62,Olívia Novaes,Sales,Google Ads,Francês,45-54,Manhã,Sexta-feira,6,1,1,1348.03,1
+63,João Moura,Sá de Mendes,Google Ads,Francês,45-54,Manhã,Quinta-feira,9,3,0,7312.73,0
+64,Mariana Cunha,Albuquerque das Pedras,Tráfego Orgânico,Inglês Adulto,35-44,Noite,Segunda-feira,9,1,1,2932.1,1
+65,Gabriela Silva,Peixoto de Goiás,Facebook Ads,Inglês Adulto,25-34,Manhã,Quinta-feira,16,1,0,4622.83,0
+66,Murilo Rios,Novaes,Google Ads,Espanhol,25-34,Noite,Segunda-feira,5,4,1,5084.57,0
+67,Maria Fernanda Macedo,Correia das Pedras,Google Ads,Espanhol,25-34,Noite,Terça-feira,7,0,0,1764.45,0
+68,Milena Campos,Gonçalves de Goiás,Instagram,Inglês Básico,18-24,Manhã,Quinta-feira,13,6,0,2106.28,0
+69,Henry Gabriel Azevedo,Silva,Indicação,Inglês Adulto,25-34,Tarde,Sábado,10,0,0,8195.82,0
+70,Sr. Yuri da Conceição,Garcia de Goiás,Google Ads,Inglês Teens,35-44,Manhã,Quarta-feira,5,4,0,4106.22,0
+71,Hellena Abreu,Barros das Pedras,Instagram,Inglês Intermediário,25-34,,Sábado,3,1,0,2543.25,1
+72,Bento da Conceição,Moreira,Google Ads,Inglês Intermediário,35-44,Manhã,Sábado,11,1,0,3265.04,0
+73,Arthur Gabriel Farias,da Paz da Prata,Tráfego Orgânico,Francês,25-34,Noite,Segunda-feira,8,2,1,6361.05,0
+74,Théo da Costa,Jesus do Oeste,Instagram,Francês,25-34,Manhã,Terça-feira,3,1,1,5851.14,0
+75,Ryan Cunha,Cirino,Indicação,Espanhol,35-44,Noite,Sexta-feira,4,3,1,,0
+76,Caroline Silveira,da Rocha,Instagram,Inglês Teens,,Manhã,Sexta-feira,5,0,0,8598.77,0
+77,Olívia da Cruz,Porto,Instagram,Inglês Básico,25-34,,Quarta-feira,3,0,1,5954.48,0
+78,Maria Luísa Correia,Pinto de Machado,Facebook Ads,Inglês Intermediário,35-44,Tarde,Quinta-feira,6,3,1,3218.46,0
+79,Calebe Ribeiro,Sampaio do Amparo,Google Ads,Inglês Adulto,25-34,,Quinta-feira,6,3,0,1817.23,0
+80,Maria Lima,Duarte,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Sexta-feira,8,3,0,6249.29,0
+81,Nina Siqueira,Cassiano,Facebook Ads,Inglês Adulto,35-44,,Sexta-feira,7,1,0,4548.5,0
+82,Carlos Eduardo Araújo,Nascimento,Google Ads,Inglês Adulto,18-24,Manhã,Segunda-feira,5,0,0,1569.84,0
+83,Maitê Caldeira,Cirino,Tráfego Orgânico,Inglês Intermediário,25-34,Tarde,Segunda-feira,7,2,0,3080.59,0
+84,Gael Correia,da Paz,Instagram,Inglês Teens,25-34,Tarde,Segunda-feira,6,0,0,19534.03,1
+85,Melissa Carvalho,Cardoso dos Dourados,Indicação,Inglês Intermediário,18-24,,Domingo,8,2,0,3531.91,0
+86,Emilly da Mota,da Conceição,Indicação,Inglês Intermediário,18-24,Noite,Sábado,4,3,0,2327.23,0
+87,Isadora Barbosa,Cassiano,Facebook Ads,Inglês Básico,25-34,Noite,Sexta-feira,6,1,0,2009.91,1
+88,Beatriz Aragão,Monteiro,Google Ads,Inglês Básico,55+,Manhã,Segunda-feira,10,5,1,9275.88,0
+89,Ágatha Albuquerque,Fernandes,Instagram,Espanhol,35-44,Tarde,Quinta-feira,6,2,0,5579.12,0
+90,Isaac Cavalcante,das Neves do Amparo,Google Ads,Inglês Intermediário,25-34,Noite,Terça-feira,6,1,0,,0
+91,Raquel Mendes,Martins do Norte,Instagram,Inglês Básico,18-24,Tarde,Quarta-feira,5,4,1,4011.9,0
+92,Murilo Araújo,Barros Grande,Facebook Ads,Inglês Teens,,Noite,Terça-feira,10,1,0,6975.99,0
+93,Mateus Abreu,da Mata,Google Ads,Inglês Adulto,18-24,Manhã,Sexta-feira,7,1,0,2195.01,0
+94,Julia Viana,Barbosa da Prata,Instagram,Inglês Básico,25-34,Tarde,Segunda-feira,7,0,0,3827.41,0
+95,Laura Lima,Cirino de Correia,Instagram,Inglês Intermediário,35-44,Noite,Quinta-feira,9,1,0,4098.59,0
+96,Dra. Raquel Cassiano,Garcia do Sul,Facebook Ads,Inglês Básico,25-34,Tarde,Domingo,9,2,1,7486.56,1
+97,Juan Cunha,Vargas,Instagram,Inglês Adulto,25-34,Noite,Sexta-feira,9,1,0,,0
+98,Vitor Hugo Araújo,Gomes,Indicação,Inglês Básico,18-24,Tarde,Segunda-feira,8,5,0,2481.17,1
+99,Sra. Ana Laura Aragão,da Cruz de Sousa,Indicação,Inglês Básico,18-24,Manhã,Sábado,8,2,0,3625.54,1
+100,Pietra Montenegro,Costa,Evento Presencial,Inglês Básico,25-34,Tarde,Quinta-feira,7,2,1,,1
+101,Eduarda Araújo,Sousa de Vargas,Evento Presencial,Inglês Adulto,45-54,Manhã,Quarta-feira,9,1,0,976.51,0
+102,Anna Liz Cirino,Moreira,Facebook Ads,Inglês Básico,25-34,Tarde,Quinta-feira,8,2,0,5528.97,0
+103,Bernardo Rocha,Melo,Instagram,Inglês Teens,35-44,Manhã,Sábado,8,2,0,2848.1,0
+104,Nathan Campos,Rodrigues da Mata,Evento Presencial,Inglês Básico,,Noite,Quarta-feira,3,1,1,,1
+105,Isadora Pacheco,Castro do Norte,Tráfego Orgânico,Inglês Adulto,18-24,,Quinta-feira,8,4,1,5527.77,0
+106,Ana Cecília Pinto,da Cunha,Facebook Ads,Inglês Intermediário,18-24,Tarde,Quarta-feira,7,3,1,,0
+107,Otto Ribeiro,Porto de da Rosa,Google Ads,Inglês Intermediário,25-34,Manhã,Segunda-feira,4,4,0,4696.1,0
+108,Stephany Dias,Fonseca,Instagram,Inglês Básico,35-44,,Sexta-feira,5,0,0,10106.75,0
+109,Gustavo Rios,Rios,Indicação,Inglês Teens,25-34,Noite,Segunda-feira,5,4,1,4614.68,0
+110,Sra. Isabella da Luz,Camargo,Evento Presencial,Espanhol,35-44,Noite,Quarta-feira,7,3,0,4132.9,0
+111,Caroline Rios,Porto,Google Ads,Inglês Básico,45-54,Manhã,Quarta-feira,7,2,1,,0
+112,Letícia Marques,Duarte do Sul,Instagram,Inglês Básico,35-44,Tarde,Terça-feira,4,1,0,1725.89,0
+113,Sr. Anthony Marques,Vieira,Instagram,Espanhol,,Tarde,Quarta-feira,4,4,0,5921.34,0
+114,Beatriz Barbosa,Pacheco do Campo,Google Ads,Inglês Adulto,35-44,Tarde,Quinta-feira,5,2,0,911.88,0
+115,Hadassa Montenegro,Vieira de Goiás,Instagram,Inglês Básico,45-54,Manhã,Terça-feira,9,0,0,2535.33,0
+116,Davi Lucca Ferreira,Aparecida,Tráfego Orgânico,Inglês Básico,45-54,Noite,Terça-feira,2,2,1,3544.42,1
+117,Joaquim Freitas,Sales de Peixoto,Tráfego Orgânico,Inglês Adulto,35-44,,Sábado,8,1,0,2266.86,0
+118,Emanuel Macedo,Freitas,Facebook Ads,Inglês Teens,45-54,Manhã,Domingo,8,2,1,2729.99,0
+119,Liz Pimenta,da Cruz,Google Ads,Inglês Adulto,55+,,Quarta-feira,6,3,1,9625.54,0
+120,Vitória Albuquerque,Monteiro,Facebook Ads,Francês,25-34,Noite,Terça-feira,8,1,1,6423.58,0
+121,Letícia Ribeiro,Rodrigues,Google Ads,Inglês Intermediário,35-44,Tarde,Segunda-feira,4,1,1,2400.21,0
+122,Davi Luiz da Luz,Teixeira do Norte,Facebook Ads,Inglês Intermediário,25-34,Manhã,Segunda-feira,4,2,1,2703.38,0
+123,Cauê Souza,Fogaça,Indicação,Inglês Intermediário,45-54,Tarde,Quarta-feira,9,3,1,1733.97,1
+124,Daniela da Mata,Sampaio,Google Ads,Inglês Intermediário,25-34,Noite,Domingo,4,0,0,5157.8,0
+125,Gustavo Henrique Silva,Cardoso,Indicação,Inglês Básico,45-54,Tarde,Sexta-feira,7,0,1,3050.8,0
+126,Sr. João Montenegro,da Conceição de Dias,Google Ads,Inglês Básico,,Noite,Quarta-feira,6,0,1,,0
+127,Isis Aragão,Macedo do Oeste,Instagram,Inglês Intermediário,55+,Tarde,Domingo,6,1,0,3699.49,0
+128,Otávio da Mota,Sales,Indicação,Inglês Teens,25-34,,Quarta-feira,8,2,1,4455.78,0
+129,Alexandre Farias,Fogaça Grande,Indicação,Inglês Básico,35-44,Noite,Terça-feira,5,3,0,5944.64,0
+130,João Castro,Aparecida do Amparo,Google Ads,Inglês Intermediário,35-44,Noite,Quarta-feira,12,1,1,3361.6,0
+131,Sra. Mariane Novais,Novais de da Rocha,Instagram,Inglês Adulto,55+,Tarde,Terça-feira,8,1,0,2851.35,1
+132,Daniel Barbosa,Correia de Nunes,Evento Presencial,Inglês Adulto,45-54,Noite,Sábado,10,0,1,10435.45,0
+133,Srta. Ísis Andrade,Nogueira,Google Ads,Inglês Teens,35-44,Tarde,Quarta-feira,4,1,0,3512.7,0
+134,Sr. Pedro Cardoso,Duarte dos Dourados,Instagram,Inglês Teens,35-44,Tarde,Quinta-feira,6,1,1,5199.29,0
+135,Leandro Fonseca,Peixoto da Prata,Google Ads,Inglês Teens,18-24,Noite,Quarta-feira,6,4,0,2601.31,0
+136,Luiz Henrique Costela,Azevedo,Indicação,Inglês Básico,,Noite,Sábado,16,4,1,5115.18,0
+137,Isadora Rios,Machado,Evento Presencial,Inglês Intermediário,,Tarde,Quinta-feira,4,1,0,1571.71,0
+138,Luiz Gustavo Vasconcelos,da Luz da Prata,Google Ads,Inglês Adulto,35-44,Noite,Quarta-feira,1,3,1,2714.55,0
+139,Maria Luísa Pinto,Marques do Sul,Tráfego Orgânico,Inglês Básico,35-44,Tarde,Segunda-feira,8,4,0,,0
+140,Srta. Isabela Castro,Siqueira da Serra,Indicação,Inglês Básico,25-34,Manhã,Sábado,11,2,0,2509.36,0
+141,Noah Alves,Pinto,Google Ads,Inglês Básico,25-34,Noite,Quinta-feira,5,0,0,6962.38,0
+142,Lucas Gabriel Viana,Vasconcelos de Goiás,Google Ads,Inglês Intermediário,18-24,Tarde,Terça-feira,10,2,1,2499.23,0
+143,Isadora da Mata,Silveira de Minas,Evento Presencial,Inglês Intermediário,45-54,Noite,Sábado,6,3,0,5195.56,0
+144,Cauê Garcia,Correia do Galho,Google Ads,Inglês Básico,25-34,Noite,Segunda-feira,9,2,1,,0
+145,Ravy Câmara,Vargas de Novaes,Google Ads,Inglês Teens,18-24,Noite,Terça-feira,6,2,0,3447.31,0
+146,Raul Ferreira,Pimenta,Instagram,Espanhol,35-44,Tarde,Quinta-feira,14,5,1,6045.63,0
+147,Ian Câmara,Duarte das Pedras,Instagram,Inglês Básico,25-34,Noite,Terça-feira,8,4,0,4687.32,0
+148,Gael Guerra,Camargo do Campo,Google Ads,Espanhol,45-54,Noite,Quarta-feira,8,2,0,3731.47,0
+149,Dr. Bernardo Vargas,Aparecida,Google Ads,Inglês Básico,25-34,Noite,Terça-feira,8,2,0,5287.98,0
+150,Luiz Fernando Ramos,Cavalcanti,Indicação,Espanhol,25-34,Tarde,Segunda-feira,9,2,0,9628.51,0
+151,Maria Liz Rocha,Costa,Tráfego Orgânico,Francês,18-24,Tarde,Segunda-feira,6,3,0,2465.18,1
+152,Luísa Alves,Mendonça,Tráfego Orgânico,Inglês Básico,25-34,,Segunda-feira,7,1,0,2065.15,0
+153,José Pedro Cavalcanti,Brito,Indicação,Inglês Teens,25-34,Tarde,Domingo,9,0,0,1999.53,0
+154,Julia Andrade,Oliveira,Google Ads,Francês,35-44,Manhã,Quinta-feira,8,6,1,6047.82,0
+155,Pedro Henrique Ferreira,Ribeiro do Amparo,Indicação,Espanhol,25-34,Noite,Quarta-feira,10,0,0,,0
+156,Sra. Maya Pereira,Aragão da Praia,Facebook Ads,Francês,25-34,Noite,Quarta-feira,6,2,1,2604.9,0
+157,Bruna Gomes,Pereira,Instagram,Inglês Adulto,,Tarde,Sexta-feira,7,2,0,1081.07,0
+158,Esther da Cunha,Albuquerque,Facebook Ads,Inglês Básico,,Tarde,Segunda-feira,8,1,0,2414.87,0
+159,Pedro Henrique Abreu,Rezende,Facebook Ads,Inglês Teens,45-54,Noite,Terça-feira,6,2,0,4730.75,0
+160,Zoe Rodrigues,Barros de Martins,Tráfego Orgânico,Inglês Adulto,18-24,Manhã,Quinta-feira,1,1,0,3373.89,0
+161,Dra. Fernanda Fonseca,Fonseca,Indicação,Inglês Adulto,55+,Noite,Quarta-feira,7,3,0,3864.97,1
+162,Ana Lívia Rios,Freitas do Norte,Evento Presencial,Inglês Intermediário,25-34,Tarde,Sexta-feira,5,2,1,2624.59,1
+163,Dr. Davi Silveira,Moura do Norte,Instagram,Inglês Adulto,18-24,,Sábado,4,5,1,6113.58,0
+164,Thiago das Neves,da Rosa,Indicação,Inglês Básico,25-34,Manhã,Sexta-feira,3,4,1,4227.11,0
+165,Maria Luísa Duarte,Cunha,Google Ads,Inglês Teens,,Noite,Terça-feira,6,1,0,4832.28,0
+166,Laís Novaes,Brito,Instagram,Inglês Básico,35-44,Manhã,Segunda-feira,4,3,0,3819.99,0
+167,Gael Leão,Nascimento,Tráfego Orgânico,Inglês Teens,25-34,Noite,Segunda-feira,9,1,1,4670.03,1
+168,Maria Helena Rocha,Correia do Oeste,Tráfego Orgânico,Inglês Teens,25-34,Manhã,Sexta-feira,8,2,0,4504.05,0
+169,Srta. Liz Guerra,Nunes,Instagram,Inglês Intermediário,,Manhã,Sábado,6,2,0,2100.81,1
+170,Agatha da Rosa,Novais,Evento Presencial,Inglês Adulto,,,Sábado,11,1,0,4297.13,1
+171,Gustavo Henrique Lopes,Souza do Campo,Instagram,Inglês Intermediário,55+,Manhã,Terça-feira,6,0,0,5409.15,0
+172,Luna Martins,Rocha dos Dourados,Google Ads,Francês,55+,Manhã,Sábado,7,1,1,6606.74,0
+173,Melina Rocha,Caldeira da Serra,Instagram,Inglês Teens,35-44,Tarde,Quinta-feira,11,1,0,4400.08,0
+174,Thomas Melo,Novaes,Evento Presencial,Inglês Intermediário,45-54,Noite,Sexta-feira,8,3,0,2058.29,0
+175,Srta. Antonella da Paz,Montenegro Alegre,Instagram,Inglês Básico,35-44,,Quinta-feira,8,0,1,2240.14,0
+176,Lívia Borges,Nascimento,Indicação,Inglês Básico,25-34,Manhã,Segunda-feira,7,2,1,2755.04,0
+177,Leonardo Câmara,Fogaça de Dias,Google Ads,Inglês Intermediário,35-44,Noite,Segunda-feira,8,1,0,3884.4,0
+178,Diogo Alves,Freitas das Pedras,Evento Presencial,Espanhol,18-24,Noite,Domingo,7,1,0,3272.43,1
+179,Joaquim Melo,Silveira Alegre,Tráfego Orgânico,Inglês Teens,35-44,Noite,Quarta-feira,4,2,1,1886.48,0
+180,Ana Sophia Marques,Nunes,Facebook Ads,Inglês Básico,55+,Noite,Quarta-feira,6,2,0,1880.27,0
+181,Evelyn Silva,Garcia,Tráfego Orgânico,Espanhol,18-24,Noite,Quarta-feira,5,2,0,1103.6,0
+182,Sra. Sabrina Guerra,Fonseca dos Dourados,Tráfego Orgânico,Inglês Intermediário,45-54,Tarde,Quarta-feira,8,2,0,629.43,0
+183,Diogo Rezende,Gonçalves de Abreu,Google Ads,Espanhol,55+,Tarde,Domingo,7,0,0,3255.3,0
+184,Srta. Bianca Vasconcelos,da Paz,Instagram,Inglês Básico,25-34,,Segunda-feira,10,2,1,12539.58,0
+185,Hellena Cavalcanti,Moreira,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Segunda-feira,10,0,1,9402.65,1
+186,Dra. Nicole Aragão,da Rosa,Facebook Ads,Espanhol,45-54,Noite,Sexta-feira,15,1,1,2043.65,0
+187,Isadora Campos,da Rosa,Instagram,Inglês Básico,,Noite,Quinta-feira,3,1,1,3800.79,1
+188,Catarina Martins,Cunha,Indicação,Inglês Adulto,18-24,Tarde,Segunda-feira,7,1,1,1564.0,0
+189,Vitória Novais,Almeida Paulista,Facebook Ads,Francês,,Tarde,Segunda-feira,8,4,1,1700.81,0
+190,Luiza Sá,Brito,Instagram,Inglês Básico,35-44,Noite,Terça-feira,10,1,1,,0
+191,Sofia Lima,Marques,Evento Presencial,Inglês Básico,,Tarde,Terça-feira,3,4,0,3091.75,0
+192,Melissa Castro,Cassiano Grande,Instagram,Inglês Adulto,25-34,Noite,Segunda-feira,5,3,0,3165.81,0
+193,Sra. Milena da Luz,Fonseca Verde,Indicação,Inglês Intermediário,18-24,Noite,Terça-feira,7,4,0,4021.88,0
+194,João Guilherme Vargas,da Conceição,Tráfego Orgânico,Inglês Básico,18-24,Manhã,Sexta-feira,6,2,0,5040.63,0
+195,Raquel Pires,da Rosa de Minas,Instagram,Inglês Intermediário,35-44,Noite,Sábado,9,2,0,2908.04,0
+196,João Guilherme Macedo,Nunes do Oeste,Instagram,Inglês Teens,35-44,Noite,Sábado,11,2,0,3570.39,0
+197,João Pedro da Costa,Silveira,Google Ads,Inglês Básico,35-44,Noite,Quarta-feira,7,3,1,1917.78,0
+198,Lucas Gabriel Dias,Vieira do Amparo,Tráfego Orgânico,Inglês Intermediário,35-44,Tarde,Terça-feira,6,3,0,1670.78,0
+199,Anna Liz Carvalho,Mendonça,Instagram,Inglês Teens,25-34,Noite,Domingo,5,1,0,1534.69,0
+200,Igor Gomes,Peixoto,Instagram,Inglês Adulto,,Tarde,Sexta-feira,10,4,0,5002.06,0
+201,Srta. Hadassa Azevedo,Andrade Verde,Tráfego Orgânico,Inglês Teens,18-24,Tarde,Quinta-feira,5,2,0,2906.4,0
+202,Maria Luísa Farias,Barros do Norte,Evento Presencial,Inglês Intermediário,,Manhã,Terça-feira,5,1,1,1250.63,0
+203,Nina Leão,Ferreira das Pedras,Google Ads,Francês,25-34,Noite,Terça-feira,8,0,0,3380.64,0
+204,Gustavo Leão,Campos de Goiás,Indicação,Inglês Adulto,18-24,Noite,Quinta-feira,9,3,0,1761.05,0
+205,Alícia Teixeira,Porto,Indicação,Inglês Básico,18-24,Tarde,Quinta-feira,5,1,0,8723.07,0
+206,Maria Helena Mendes,Aragão da Mata,Instagram,Espanhol,18-24,Noite,Segunda-feira,11,2,1,2545.71,0
+207,Luiz Gustavo da Rosa,Dias,Indicação,Inglês Intermediário,35-44,Manhã,Domingo,8,1,1,5091.6,0
+208,Mariah Nascimento,Duarte,Facebook Ads,Inglês Básico,35-44,Noite,Quinta-feira,6,2,0,,0
+209,Dra. Ísis Pereira,Cassiano,Indicação,Inglês Básico,55+,Tarde,Quinta-feira,10,1,0,2070.01,0
+210,Ryan Câmara,Rocha,Google Ads,Inglês Adulto,35-44,Noite,Terça-feira,9,0,1,3649.5,0
+211,Pedro Henrique Mendonça,Machado Verde,Facebook Ads,Inglês Básico,35-44,Manhã,Sexta-feira,11,4,1,4745.37,0
+212,Mathias Fernandes,Câmara,Google Ads,Inglês Básico,18-24,Noite,Sexta-feira,4,1,0,3729.65,1
+213,Maria Luiza Silveira,da Rocha das Flores,Instagram,Inglês Básico,35-44,Tarde,Segunda-feira,5,2,0,4268.95,0
+214,Ravi Lucca Cardoso,Cardoso,Tráfego Orgânico,Inglês Intermediário,18-24,,Quinta-feira,6,3,0,1684.5,0
+215,Yasmin Alves,Barros do Amparo,Facebook Ads,Inglês Intermediário,25-34,Noite,Quinta-feira,5,0,0,,0
+216,Amanda Barros,Novaes,Facebook Ads,Inglês Adulto,25-34,,Sábado,6,2,1,2678.81,0
+217,Mariane Carvalho,da Luz de Minas,Indicação,Inglês Básico,25-34,Tarde,Terça-feira,4,2,1,4241.69,1
+218,Emilly Aragão,Montenegro das Pedras,Indicação,Inglês Básico,25-34,Noite,Sábado,10,3,1,5805.22,0
+219,Mateus Duarte,Teixeira,Evento Presencial,Inglês Adulto,35-44,Noite,Quarta-feira,5,3,1,5056.16,1
+220,Rafael Duarte,Mendes,Instagram,Inglês Intermediário,45-54,Manhã,Segunda-feira,4,4,0,4239.98,0
+221,Dr. João Lucas Sá,Mendonça,Instagram,Inglês Adulto,35-44,Tarde,Segunda-feira,3,3,1,4982.51,0
+222,Isis Barros,Rezende Verde,Google Ads,Inglês Básico,35-44,,Terça-feira,9,1,0,5110.97,0
+223,Allana Souza,Novais,Facebook Ads,Inglês Básico,25-34,,Terça-feira,7,2,0,7966.85,0
+224,Ana Júlia Ferreira,da Cruz,Evento Presencial,Inglês Básico,18-24,,Quarta-feira,9,2,1,,0
+225,Bernardo Vasconcelos,da Mata,Instagram,Inglês Intermediário,35-44,Manhã,Sexta-feira,9,2,0,3830.29,0
+226,Ana Cecília Sá,Duarte Verde,Evento Presencial,Inglês Intermediário,25-34,Noite,Terça-feira,4,2,1,5843.91,1
+227,Josué Costa,Camargo,Indicação,Inglês Teens,25-34,Noite,Domingo,3,2,1,2672.59,0
+228,Eduardo da Costa,Lima da Praia,Google Ads,Inglês Intermediário,25-34,Noite,Segunda-feira,8,3,1,1679.28,0
+229,Renan Rios,Correia Alegre,Facebook Ads,Inglês Adulto,55+,Manhã,Quinta-feira,4,3,1,4590.73,0
+230,Henrique Martins,Peixoto do Sul,Indicação,Inglês Adulto,35-44,,Sábado,6,2,0,3125.05,0
+231,Sra. Maria Eduarda Cavalcante,Cavalcante da Praia,Indicação,Inglês Básico,,Tarde,Sábado,5,5,0,1801.51,0
+232,Bruna Vasconcelos,Pinto de Casa Grande,Google Ads,Inglês Adulto,35-44,Manhã,Quinta-feira,12,2,1,4609.23,0
+233,Leonardo Caldeira,Aparecida de da Conceição,Evento Presencial,Inglês Intermediário,25-34,Tarde,Sexta-feira,7,4,1,7689.73,0
+234,Amanda das Neves,Rodrigues,Google Ads,Inglês Intermediário,25-34,Manhã,Segunda-feira,14,3,1,1428.19,0
+235,Maria Flor Gonçalves,Cassiano de Minas,Evento Presencial,Inglês Básico,25-34,Manhã,Segunda-feira,5,2,0,6141.33,1
+236,Srta. Ana Vitória Pastor,Sousa,Tráfego Orgânico,Inglês Teens,25-34,Noite,Quarta-feira,11,3,0,867.08,0
+237,Dra. Isabelly Caldeira,da Cruz,Google Ads,Espanhol,35-44,Tarde,Segunda-feira,5,2,0,2808.37,0
+238,Sra. Bárbara Vieira,da Paz,Tráfego Orgânico,Inglês Básico,18-24,Noite,Quarta-feira,7,5,1,9631.57,0
+239,Ana Cecília Ferreira,Fernandes,Indicação,Inglês Adulto,35-44,,Terça-feira,6,1,1,2921.76,0
+240,Mariane Ribeiro,das Neves,Indicação,Inglês Teens,25-34,,Sábado,6,0,1,3677.48,0
+241,Sr. Thiago Ramos,Melo de Almeida,Tráfego Orgânico,Inglês Básico,35-44,Tarde,Sábado,10,0,0,5324.61,0
+242,Sr. Otto Mendonça,Costela da Prata,Tráfego Orgânico,Inglês Teens,35-44,Noite,Sexta-feira,3,1,0,1361.66,0
+243,Pedro Fonseca,Costela,Instagram,Inglês Adulto,35-44,Noite,Sexta-feira,5,1,0,3641.57,0
+244,Natália Santos,Novaes do Amparo,Google Ads,Espanhol,35-44,Tarde,Segunda-feira,9,0,0,3625.82,0
+245,Pedro Henrique Cavalcanti,Sales,Facebook Ads,Francês,55+,Noite,Segunda-feira,7,1,0,9747.78,0
+246,Dra. Júlia Pimenta,Garcia,Tráfego Orgânico,Inglês Básico,25-34,Manhã,Quinta-feira,8,1,1,1773.77,1
+247,Rafaela Martins,da Cunha,Facebook Ads,Inglês Intermediário,35-44,Noite,Quinta-feira,9,1,0,2837.48,0
+248,Juliana Duarte,Araújo,Google Ads,Inglês Adulto,35-44,Manhã,Quarta-feira,3,3,0,2100.48,0
+249,Caio da Mota,Costa Paulista,Instagram,Inglês Básico,,Tarde,Quarta-feira,9,3,1,1981.47,1
+250,Isabelly Sá,Martins,Google Ads,Inglês Intermediário,25-34,Manhã,Quarta-feira,6,1,1,6506.71,0
+251,Maria Helena Fernandes,Azevedo,Facebook Ads,Francês,25-34,Noite,Terça-feira,9,6,0,3551.68,0
+252,Thales Duarte,Ribeiro Paulista,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Terça-feira,5,2,0,,0
+253,Ryan Cunha,Caldeira do Sul,Google Ads,Inglês Intermediário,25-34,Noite,Quarta-feira,6,4,1,2632.54,0
+254,Dr. Luigi da Mota,Rezende das Flores,Instagram,Inglês Teens,25-34,,Quinta-feira,5,1,1,2567.64,0
+255,Kamilly Novais,Garcia,Instagram,Inglês Intermediário,35-44,Tarde,Domingo,6,0,1,,0
+256,Valentim Correia,Dias,Facebook Ads,Inglês Intermediário,25-34,,Quinta-feira,8,7,0,1745.98,0
+257,Isaque Silveira,Peixoto de Nascimento,Tráfego Orgânico,Francês,45-54,Noite,Sexta-feira,5,4,0,3035.76,0
+258,Rebeca Novais,Cirino,Indicação,Inglês Intermediário,25-34,Noite,Sexta-feira,7,1,1,2872.55,1
+259,Renan Ramos,Montenegro,Indicação,Inglês Básico,35-44,Manhã,Segunda-feira,8,0,0,2307.06,0
+260,Sra. Melissa Vieira,Novais de Silva,Google Ads,Inglês Básico,18-24,Noite,Quinta-feira,7,0,0,3811.56,0
+261,Caleb da Rocha,Aparecida,Indicação,Espanhol,25-34,,Quarta-feira,4,3,1,3993.64,1
+262,Nathan Sales,Moura,Tráfego Orgânico,Inglês Básico,18-24,Manhã,Quinta-feira,11,1,0,2576.95,0
+263,Leandro Ribeiro,Farias do Amparo,Instagram,Inglês Adulto,35-44,Tarde,Segunda-feira,5,3,1,3233.25,0
+264,Maria Eduarda Melo,Souza da Serra,Indicação,Inglês Básico,25-34,Manhã,Sábado,12,0,1,11473.11,1
+265,Vitória Ferreira,Ferreira,Evento Presencial,Inglês Intermediário,55+,Manhã,Domingo,10,3,0,11234.63,0
+266,Luísa Fogaça,Fogaça da Mata,Instagram,Espanhol,25-34,Noite,Segunda-feira,6,1,1,1960.14,0
+267,Sra. Júlia das Neves,Montenegro,Instagram,Inglês Adulto,35-44,Tarde,Terça-feira,9,2,0,2116.61,0
+268,Igor Campos,Araújo Paulista,Instagram,Francês,25-34,Noite,Terça-feira,3,2,1,1954.42,0
+269,Srta. Luara Campos,Alves da Prata,Indicação,Inglês Básico,35-44,Noite,Sexta-feira,9,2,1,6259.76,0
+270,Dra. Ester Correia,Câmara Grande,Indicação,Inglês Adulto,25-34,,Quinta-feira,9,5,1,,0
+271,Rodrigo da Mota,Gonçalves Grande,Indicação,Espanhol,25-34,Noite,Terça-feira,5,4,0,3993.16,0
+272,Dra. Valentina Peixoto,Siqueira,Instagram,Inglês Intermediário,25-34,Noite,Sexta-feira,11,2,1,10497.06,0
+273,Carlos Eduardo Correia,Moreira de Goiás,Indicação,Inglês Básico,18-24,Tarde,Quarta-feira,6,3,1,3479.91,1
+274,Ian Fonseca,da Costa Verde,Google Ads,Espanhol,18-24,Tarde,Quarta-feira,5,2,1,5161.36,1
+275,Kevin Albuquerque,Lima,Facebook Ads,Inglês Intermediário,,Tarde,Quarta-feira,11,1,1,4659.9,0
+276,Dra. Carolina da Mota,Pereira Alegre,Instagram,Inglês Adulto,25-34,Noite,Quinta-feira,8,4,0,2532.59,0
+277,Benjamim Novaes,Nogueira de Cardoso,Instagram,Francês,,Manhã,Quarta-feira,8,3,1,6267.03,0
+278,Davi Lucas Porto,Rezende,Google Ads,Inglês Básico,55+,,Terça-feira,9,4,0,2193.34,0
+279,Bella Albuquerque,Pacheco,Tráfego Orgânico,Inglês Intermediário,18-24,Noite,Quarta-feira,3,0,0,7313.32,0
+280,Larissa Melo,Carvalho,Tráfego Orgânico,Inglês Básico,,Tarde,Sábado,8,2,1,2533.66,0
+281,Maysa Fernandes,Sales do Galho,Indicação,Inglês Intermediário,35-44,Noite,Quarta-feira,5,5,1,2690.91,1
+282,Benjamim da Cunha,Lopes,Instagram,Inglês Básico,45-54,Tarde,Sábado,8,2,1,1923.4,0
+283,Bruna Azevedo,Rezende,Instagram,Inglês Adulto,35-44,Manhã,Quinta-feira,13,5,0,2105.22,0
+284,Rebeca Barbosa,Dias,Instagram,Inglês Básico,25-34,Noite,Sexta-feira,7,0,0,,0
+285,Ana Júlia Cassiano,Novais,Google Ads,Inglês Adulto,55+,Tarde,Terça-feira,8,0,0,918.99,0
+286,Kevin Barros,Cirino,Google Ads,Inglês Básico,18-24,Manhã,Sexta-feira,3,1,0,3078.46,0
+287,Dante Novais,Casa Grande do Sul,Indicação,Inglês Intermediário,55+,Manhã,Terça-feira,7,1,1,2646.87,0
+288,Heloisa Vasconcelos,Jesus das Pedras,Instagram,Inglês Intermediário,45-54,Manhã,Segunda-feira,1,4,1,,0
+289,Maria Helena Machado,Macedo Paulista,Google Ads,Inglês Teens,45-54,,Segunda-feira,2,4,0,,0
+290,Letícia Pastor,Vasconcelos,Indicação,Inglês Intermediário,25-34,Noite,Segunda-feira,7,2,0,,0
+291,Lorena Nunes,Caldeira,Tráfego Orgânico,Inglês Intermediário,,Tarde,Domingo,8,2,0,2719.8,0
+292,Ana Liz Pimenta,Cirino,Indicação,Espanhol,35-44,Manhã,Domingo,11,2,1,3076.29,0
+293,Srta. Giovanna Pires,Teixeira,Evento Presencial,Inglês Adulto,25-34,Tarde,Sexta-feira,3,2,1,7925.13,0
+294,João Ribeiro,Pereira Verde,Indicação,Inglês Básico,25-34,Noite,Segunda-feira,6,0,0,2226.64,0
+295,Emanuel da Costa,Peixoto,Tráfego Orgânico,Espanhol,45-54,Noite,Sábado,4,1,0,2355.83,1
+296,Yuri Barbosa,da Conceição,Evento Presencial,Inglês Intermediário,35-44,Tarde,Sexta-feira,6,2,0,1881.45,0
+297,Alexandre Jesus,Fogaça,Evento Presencial,Inglês Básico,25-34,,Terça-feira,8,1,0,1549.05,0
+298,Olivia da Rocha,Sales,Tráfego Orgânico,Inglês Intermediário,25-34,,Quarta-feira,3,7,1,4143.81,0
+299,Igor da Paz,Carvalho de Montenegro,Tráfego Orgânico,Inglês Básico,18-24,Noite,Quinta-feira,4,3,1,3913.22,0
+300,Sra. Mirella Barbosa,Silva de Rezende,Facebook Ads,Inglês Básico,18-24,Manhã,Segunda-feira,14,5,0,,0
+301,Isabel da Luz,Cirino das Flores,Tráfego Orgânico,Inglês Teens,18-24,Noite,Quarta-feira,8,0,1,6206.13,0
+302,Fernanda Lima,Melo de Carvalho,Indicação,Inglês Básico,45-54,,Sexta-feira,4,2,0,13081.21,0
+303,Yago Câmara,Correia,Google Ads,Inglês Teens,35-44,Manhã,Terça-feira,6,3,0,3360.65,0
+304,Clarice da Mata,Andrade,Google Ads,Espanhol,25-34,Noite,Quarta-feira,8,1,1,3032.76,0
+305,Brayan Araújo,Teixeira do Sul,Tráfego Orgânico,Inglês Adulto,25-34,,Quinta-feira,4,0,0,1711.96,0
+306,Leandro Peixoto,Jesus de Goiás,Google Ads,Inglês Teens,35-44,Tarde,Sexta-feira,4,2,0,5133.98,0
+307,Dra. Laura Macedo,Sá,Instagram,Inglês Teens,45-54,Noite,Domingo,11,2,1,3735.78,0
+308,Ravi Lucca Sales,Azevedo,Facebook Ads,Francês,45-54,Noite,Sábado,9,1,1,5007.61,0
+309,Nathan da Mata,Macedo,Instagram,Inglês Intermediário,25-34,,Quinta-feira,4,3,0,1870.57,0
+310,Ágatha Monteiro,Sales de Duarte,Indicação,Inglês Básico,45-54,Noite,Quinta-feira,8,1,1,4246.71,0
+311,Anna Liz Peixoto,da Cruz de Lima,Google Ads,Inglês Adulto,25-34,Noite,Quinta-feira,7,2,0,3918.16,0
+312,Pedro Sousa,Vasconcelos do Norte,Google Ads,Inglês Adulto,25-34,Noite,Quinta-feira,10,1,0,3778.14,0
+313,Dr. Apollo Borges,Silveira Alegre,Instagram,Inglês Básico,45-54,Noite,Segunda-feira,11,5,0,2403.6,0
+314,Antônio Teixeira,Pimenta Verde,Instagram,Inglês Adulto,25-34,Noite,Sexta-feira,13,3,0,6732.13,0
+315,Juliana Oliveira,Moreira,Instagram,Inglês Básico,25-34,Manhã,Sexta-feira,7,2,0,10809.57,1
+316,Erick Melo,Machado,Instagram,Espanhol,,Manhã,Quinta-feira,8,1,1,,0
+317,Melina da Mota,Aparecida de da Cruz,Instagram,Inglês Básico,,Noite,Sábado,6,1,1,5201.81,0
+318,Pedro Henrique Porto,Sousa do Norte,Facebook Ads,Inglês Básico,25-34,Noite,Quinta-feira,8,3,0,718.88,0
+319,Ayla Melo,Moreira do Norte,Instagram,Inglês Básico,35-44,Manhã,Quarta-feira,8,2,1,5055.61,1
+320,Dr. Lucas Gabriel Duarte,da Rocha,Evento Presencial,Inglês Básico,25-34,Manhã,Segunda-feira,4,4,0,,0
+321,Bella Castro,Gonçalves de da Rosa,Evento Presencial,Inglês Básico,25-34,Noite,Segunda-feira,6,2,1,2622.25,0
+322,Dr. Thales da Paz,Martins da Serra,Google Ads,Inglês Básico,45-54,,Quarta-feira,5,4,0,1699.95,0
+323,Maria Liz Teixeira,da Rocha do Norte,Instagram,Inglês Básico,,Manhã,Quarta-feira,8,2,0,,0
+324,Ana Carolina Marques,Martins,Google Ads,Inglês Básico,45-54,Noite,Segunda-feira,9,1,1,5551.67,0
+325,Levi da Cunha,Borges de Silveira,Tráfego Orgânico,Inglês Intermediário,25-34,Noite,Terça-feira,9,2,0,1260.16,0
+326,Sr. Nathan Moraes,Cirino,Facebook Ads,Inglês Intermediário,35-44,Noite,Terça-feira,5,1,0,2872.12,0
+327,Vitor Hugo Martins,Gonçalves,Tráfego Orgânico,Inglês Intermediário,25-34,,Sexta-feira,4,3,0,2639.03,0
+328,Ana Júlia Correia,Duarte dos Dourados,Google Ads,Inglês Intermediário,45-54,Tarde,Sexta-feira,4,6,0,8350.65,0
+329,Maria Cecília Pinto,Cavalcanti,Facebook Ads,Inglês Básico,,Noite,Quarta-feira,2,2,0,4438.12,0
+330,Melina Teixeira,Pastor de Silva,Instagram,Inglês Básico,45-54,Tarde,Terça-feira,6,1,1,,0
+331,Gustavo da Mata,Marques,Facebook Ads,Inglês Básico,25-34,Tarde,Segunda-feira,10,3,1,2700.81,0
+332,Caroline da Paz,da Cunha,Instagram,Inglês Teens,35-44,Noite,Segunda-feira,2,3,0,8236.87,0
+333,Raquel Campos,Sales da Serra,Facebook Ads,Francês,25-34,Noite,Quarta-feira,10,1,0,5184.45,0
+334,Isaque Santos,Borges,Tráfego Orgânico,Espanhol,18-24,Noite,Segunda-feira,8,1,1,2112.21,0
+335,Leonardo Novaes,Santos,Indicação,Inglês Adulto,,Manhã,Terça-feira,11,2,1,3021.86,0
+336,Yuri Jesus,Porto de Fonseca,Facebook Ads,Inglês Adulto,25-34,Noite,Domingo,7,5,1,3075.46,0
+337,Henry Gabriel Camargo,Moura,Indicação,Inglês Intermediário,25-34,Noite,Quarta-feira,4,1,0,,1
+338,Bárbara Ramos,Siqueira do Galho,Facebook Ads,Inglês Teens,35-44,Noite,Sexta-feira,4,2,1,,0
+339,Theo Silva,Garcia,Indicação,Inglês Teens,25-34,Noite,Segunda-feira,2,1,1,2411.07,0
+340,Thomas Santos,Aparecida da Serra,Evento Presencial,Inglês Teens,18-24,Tarde,Terça-feira,5,0,0,,0
+341,Oliver Mendes,Nunes Grande,Indicação,Espanhol,18-24,Noite,Domingo,10,0,0,2838.1,0
+342,Isabelly Marques,Casa Grande,Evento Presencial,Inglês Intermediário,,Noite,Quarta-feira,4,3,0,3306.78,0
+343,Clara Gomes,Vargas,Tráfego Orgânico,Inglês Teens,18-24,Noite,Quinta-feira,5,1,1,,0
+344,Thomas Souza,Leão,Google Ads,Inglês Teens,35-44,Noite,Domingo,9,1,0,11854.89,0
+345,Bernardo da Mota,das Neves dos Dourados,Tráfego Orgânico,Inglês Intermediário,18-24,Noite,Quinta-feira,4,4,1,3517.13,0
+346,Manuela Viana,Pires da Serra,Tráfego Orgânico,Espanhol,45-54,Manhã,Terça-feira,9,1,1,,0
+347,Juliana Abreu,Cardoso,Evento Presencial,Inglês Básico,25-34,Manhã,Quinta-feira,6,2,0,2518.75,0
+348,Kaique Pastor,Abreu,Instagram,Francês,18-24,Noite,Segunda-feira,8,2,1,3034.64,0
+349,Rebeca Cassiano,Albuquerque dos Dourados,Google Ads,Inglês Teens,45-54,Noite,Segunda-feira,5,1,1,3524.25,0
+350,Zoe Mendes,Monteiro de Nogueira,Indicação,Inglês Básico,25-34,Noite,Segunda-feira,8,4,0,2286.43,0
+351,Dr. Yuri Teixeira,Pereira,Facebook Ads,Inglês Adulto,,Manhã,Sábado,6,1,1,3129.01,0
+352,Maria Flor Marques,da Costa de Cunha,Instagram,Inglês Básico,55+,Tarde,Quinta-feira,7,2,0,5704.13,0
+353,Sr. Isaque Oliveira,Marques de Jesus,Google Ads,Inglês Teens,55+,Noite,Terça-feira,10,2,0,2253.68,0
+354,Isabel Vasconcelos,Barros de Peixoto,Google Ads,Inglês Teens,35-44,Noite,Terça-feira,13,2,1,3500.17,0
+355,Ana Clara Dias,da Cruz,Google Ads,Inglês Adulto,18-24,Manhã,Sexta-feira,6,1,1,5168.42,0
+356,Sra. Maria Helena Gomes,Pinto da Prata,Google Ads,Espanhol,35-44,Noite,Sábado,3,1,0,2224.0,0
+357,Clarice Monteiro,Aragão,Tráfego Orgânico,Inglês Básico,55+,Manhã,Terça-feira,7,4,1,6393.24,0
+358,Davi Lucas Montenegro,Casa Grande,Tráfego Orgânico,Inglês Básico,55+,,Terça-feira,7,3,1,3643.15,0
+359,Luísa Brito,Rezende,Google Ads,Inglês Intermediário,18-24,Manhã,Sábado,11,1,1,3196.15,1
+360,Beatriz Moura,Andrade Grande,Google Ads,Inglês Básico,25-34,Manhã,Sábado,6,3,0,1159.84,0
+361,Alice Silveira,Rios,Evento Presencial,Inglês Intermediário,25-34,Manhã,Sábado,2,2,0,2849.88,0
+362,Nicolas Rezende,Farias de Minas,Indicação,Inglês Básico,18-24,Noite,Terça-feira,13,3,0,4293.66,0
+363,Breno Melo,Caldeira,Indicação,Inglês Intermediário,35-44,Noite,Segunda-feira,8,2,1,9140.39,1
+364,Lucca Pinto,Cavalcanti da Serra,Indicação,Inglês Intermediário,,Noite,Quarta-feira,5,2,0,,0
+365,Sra. Anna Liz Farias,Pimenta Verde,Facebook Ads,Espanhol,25-34,Tarde,Terça-feira,9,3,1,6502.47,0
+366,Yasmin Garcia,Marques,Google Ads,Inglês Básico,18-24,Tarde,Sábado,3,3,0,,0
+367,Dr. Vitor Hugo Andrade,Andrade de Minas,Tráfego Orgânico,Espanhol,25-34,Tarde,Segunda-feira,5,2,1,3264.19,0
+368,Ana Lívia da Costa,Duarte da Praia,Facebook Ads,Inglês Intermediário,18-24,Noite,Quinta-feira,2,3,1,6849.49,0
+369,Laura da Conceição,Azevedo das Pedras,Instagram,Inglês Intermediário,25-34,Tarde,Sábado,11,2,1,,0
+370,Srta. Maya Brito,da Rocha,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Domingo,11,3,1,5951.45,0
+371,Beatriz Macedo,Carvalho de Campos,Tráfego Orgânico,Inglês Intermediário,55+,Noite,Quinta-feira,6,2,1,5238.78,1
+372,Kaique Alves,Farias do Galho,Instagram,Inglês Básico,18-24,Noite,Domingo,11,2,0,4070.89,0
+373,Luan Vieira,Moura do Oeste,Instagram,Inglês Adulto,25-34,,Segunda-feira,12,4,1,,0
+374,Juan Fogaça,Pimenta,Instagram,Inglês Básico,,Tarde,Quarta-feira,7,1,1,2034.6,0
+375,Dr. Diogo da Cruz,Caldeira,Instagram,Inglês Intermediário,,Manhã,Segunda-feira,5,1,1,9292.63,0
+376,Maria Sophia Nunes,Mendes,Indicação,Inglês Adulto,25-34,Manhã,Domingo,8,2,0,4954.46,0
+377,Emilly Cavalcante,Lima Alegre,Evento Presencial,Inglês Intermediário,18-24,Noite,Sábado,7,1,1,4221.13,1
+378,Bruno Pimenta,Moura Verde,Google Ads,Inglês Teens,18-24,Tarde,Segunda-feira,8,0,0,2789.03,0
+379,Isabella Monteiro,Cardoso Verde,Instagram,Inglês Básico,25-34,Noite,Segunda-feira,5,2,0,3573.67,0
+380,Cecília da Conceição,Moreira de Siqueira,Facebook Ads,Francês,35-44,Manhã,Quarta-feira,7,2,0,3831.89,0
+381,Jade Marques,Monteiro de Cirino,Google Ads,Inglês Teens,18-24,,Terça-feira,8,1,0,4360.97,0
+382,Anthony Martins,Santos,Evento Presencial,Francês,,Noite,Sábado,7,2,0,5241.72,0
+383,Yago Castro,Correia do Sul,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Segunda-feira,7,3,0,2275.96,0
+384,Pedro Miguel Ferreira,Alves,Google Ads,Inglês Básico,25-34,Noite,Sexta-feira,6,2,1,1562.26,0
+385,Letícia Porto,Pires de Vieira,Instagram,Inglês Adulto,25-34,Manhã,Quinta-feira,6,2,0,,0
+386,Isis Marques,Sousa,Evento Presencial,Inglês Básico,,Noite,Quarta-feira,5,0,0,1338.83,0
+387,Gael Henrique Gomes,Pimenta,Facebook Ads,Inglês Teens,25-34,Noite,Segunda-feira,10,1,1,2929.26,0
+388,Bianca da Costa,Jesus do Norte,Evento Presencial,Inglês Adulto,25-34,Noite,Domingo,9,3,1,2645.1,0
+389,Maria Alice Oliveira,Ferreira da Prata,Indicação,Inglês Básico,55+,Noite,Quinta-feira,9,1,0,,0
+390,Juan Almeida,Albuquerque,Tráfego Orgânico,Espanhol,55+,Tarde,Quarta-feira,2,2,0,,0
+391,Maria Laura da Mota,Sales,Facebook Ads,Inglês Básico,55+,Noite,Quarta-feira,6,2,1,,0
+392,Benicio Pereira,da Cunha de Minas,Indicação,Inglês Adulto,25-34,Noite,Sábado,6,1,1,12226.0,0
+393,Sra. Laura Vasconcelos,da Rosa do Galho,Google Ads,Inglês Teens,18-24,Manhã,Sexta-feira,4,1,1,,0
+394,Luiz Gustavo Câmara,Vargas do Sul,Facebook Ads,Inglês Básico,25-34,Manhã,Sexta-feira,5,0,0,4237.86,0
+395,Esther Pinto,Rodrigues,Indicação,Inglês Adulto,25-34,Noite,Quinta-feira,12,0,0,1607.38,0
+396,Davi Miguel Pires,Fernandes das Flores,Google Ads,Inglês Teens,18-24,Noite,Sábado,6,3,1,6055.96,0
+397,Asafe das Neves,Cavalcanti,Tráfego Orgânico,Inglês Básico,18-24,Tarde,Terça-feira,11,2,0,3580.75,1
+398,Ana Beatriz Pacheco,Farias,Instagram,Inglês Adulto,25-34,Noite,Sexta-feira,4,2,1,3383.65,0
+399,Sr. Caleb da Rocha,Rocha do Amparo,Google Ads,Inglês Básico,25-34,Noite,Quarta-feira,6,3,1,1205.87,0
+400,Dr. Erick Costa,Andrade de Ramos,Google Ads,Inglês Adulto,18-24,Tarde,Quinta-feira,4,2,1,3644.98,1
+401,Vitor Hugo Fonseca,Mendes,Instagram,Inglês Básico,35-44,Tarde,Domingo,7,1,1,5573.2,1
+402,Sarah da Mata,Pires,Evento Presencial,Espanhol,25-34,Noite,Domingo,10,2,1,3073.48,0
+403,José Miguel Mendes,Nascimento de Farias,Tráfego Orgânico,Espanhol,45-54,Noite,Quinta-feira,8,5,0,6676.36,0
+404,Lucca Camargo,Viana de Jesus,Indicação,Inglês Básico,25-34,Noite,Quinta-feira,11,4,0,6526.4,0
+405,Ana Vitória Casa Grande,Moreira,Evento Presencial,Inglês Intermediário,25-34,Tarde,Sábado,2,2,1,2460.0,1
+406,Miguel Novais,Nunes Alegre,Tráfego Orgânico,Inglês Adulto,,,Domingo,5,1,1,8415.5,0
+407,Sr. Miguel Albuquerque,Costela,Instagram,Inglês Teens,25-34,Noite,Sexta-feira,5,0,0,3588.29,0
+408,Vitor Gabriel Campos,Vieira da Praia,Tráfego Orgânico,Inglês Intermediário,,Noite,Segunda-feira,5,2,0,3597.08,0
+409,Maria Eduarda Rocha,Cassiano,Indicação,Inglês Básico,18-24,,Terça-feira,9,0,0,3695.82,1
+410,Dra. Julia Pacheco,Alves Alegre,Evento Presencial,Inglês Básico,35-44,Noite,Sábado,7,6,1,3636.01,0
+411,Maria Fernanda Caldeira,Pires da Prata,Facebook Ads,Francês,25-34,Tarde,Sexta-feira,6,4,0,823.81,0
+412,Isabel Melo,Oliveira,Facebook Ads,Inglês Intermediário,18-24,Manhã,Sexta-feira,4,3,0,3160.51,0
+413,Luan Pimenta,Cirino do Campo,Indicação,Espanhol,45-54,Noite,Quinta-feira,5,1,0,1653.0,0
+414,Benício Porto,Santos Alegre,Tráfego Orgânico,Inglês Intermediário,18-24,Noite,Quarta-feira,12,2,1,8561.26,0
+415,Liz Rezende,da Mata,Indicação,Espanhol,35-44,,Quarta-feira,5,5,1,,0
+416,Bruna Carvalho,Borges do Amparo,Instagram,Inglês Básico,25-34,Noite,Sexta-feira,6,3,1,5591.96,0
+417,Arthur Miguel da Rosa,Freitas,Indicação,Inglês Básico,25-34,Tarde,Terça-feira,8,3,0,3069.78,0
+418,Bruna Brito,da Rosa de Cunha,Tráfego Orgânico,Espanhol,25-34,Manhã,Sexta-feira,6,1,1,2010.44,0
+419,Vitor Gabriel Carvalho,Cavalcanti do Campo,Instagram,Espanhol,18-24,Tarde,Sexta-feira,3,4,1,2437.79,0
+420,Mirella Freitas,Viana do Norte,Evento Presencial,Inglês Intermediário,35-44,Tarde,Sábado,10,0,1,10188.06,0
+421,Ágatha Leão,Borges,Facebook Ads,Inglês Intermediário,25-34,Noite,Terça-feira,13,2,0,,0
+422,Daniela Leão,Montenegro de Alves,Indicação,Inglês Intermediário,18-24,Noite,Sexta-feira,6,1,0,958.09,1
+423,Beatriz Mendonça,Montenegro de Cassiano,Indicação,Inglês Intermediário,25-34,Noite,Segunda-feira,5,3,1,6167.87,0
+424,Maria Luísa da Mota,Fernandes,Indicação,Inglês Básico,45-54,Manhã,Segunda-feira,11,0,0,7988.79,1
+425,Léo Cunha,Siqueira de Moura,Facebook Ads,Espanhol,35-44,Tarde,Quarta-feira,9,2,1,8717.49,0
+426,Melina da Costa,Vasconcelos Alegre,Tráfego Orgânico,Inglês Básico,55+,Manhã,Segunda-feira,4,5,1,,0
+427,Sr. Léo Nogueira,Vargas,Instagram,Inglês Teens,35-44,,Domingo,5,1,0,6777.44,0
+428,Maria Alice Araújo,Moreira,Tráfego Orgânico,Inglês Básico,,Manhã,Sábado,11,2,0,3603.4,0
+429,Kamilly Correia,Costela,Indicação,Inglês Básico,25-34,,Segunda-feira,8,4,1,1117.17,0
+430,Rafael Borges,Marques,Tráfego Orgânico,Inglês Adulto,45-54,Noite,Sábado,3,2,1,3554.08,0
+431,Hadassa Ramos,Silva do Galho,Evento Presencial,Inglês Intermediário,25-34,Noite,Quarta-feira,5,2,0,4926.5,0
+432,Alícia Aragão,Abreu,Tráfego Orgânico,Inglês Adulto,25-34,Tarde,Sexta-feira,10,0,0,3249.06,0
+433,Sr. Davi Lucas Viana,Aparecida de Minas,Facebook Ads,Inglês Básico,35-44,,Sábado,11,5,0,,0
+434,Gabrielly Azevedo,Martins do Norte,Tráfego Orgânico,Espanhol,25-34,Noite,Quinta-feira,10,2,0,2059.57,0
+435,Giovanna Pastor,Moreira,Indicação,Inglês Teens,18-24,Tarde,Segunda-feira,8,0,1,2017.39,0
+436,Igor Farias,Almeida Verde,Instagram,Espanhol,25-34,Manhã,Segunda-feira,7,5,0,9619.04,0
+437,Alexandre da Mota,Porto do Oeste,Indicação,Inglês Básico,25-34,Noite,Quarta-feira,11,4,0,9812.46,1
+438,Davi Lucca Nogueira,Costa do Oeste,Google Ads,Inglês Intermediário,45-54,Tarde,Domingo,5,1,1,3494.91,0
+439,Erick Camargo,da Mota da Prata,Facebook Ads,Inglês Intermediário,25-34,Tarde,Quinta-feira,9,3,0,4086.14,0
+440,Amanda Cardoso,Vargas dos Dourados,Facebook Ads,Inglês Adulto,45-54,Manhã,Quarta-feira,10,3,0,2040.7,0
+441,Luiz Henrique Vieira,da Mata,Tráfego Orgânico,Inglês Básico,25-34,,Segunda-feira,7,3,1,4983.73,0
+442,Lorenzo Almeida,Castro,Instagram,Inglês Básico,35-44,Tarde,Sábado,4,2,1,9212.58,0
+443,João Aragão,Camargo do Sul,Facebook Ads,Inglês Intermediário,18-24,Tarde,Terça-feira,6,1,1,1509.36,0
+444,Otto Moura,Costela,Instagram,Inglês Básico,45-54,,Sexta-feira,5,5,0,4517.23,0
+445,Benício Melo,Novaes Alegre,Instagram,Inglês Intermediário,25-34,Tarde,Sexta-feira,4,0,1,4707.82,0
+446,Maria Cecília Moraes,Casa Grande da Mata,Facebook Ads,Inglês Básico,25-34,Noite,Terça-feira,5,1,0,4678.35,0
+447,Bianca Machado,Cavalcante,Evento Presencial,Inglês Básico,25-34,Noite,Segunda-feira,7,2,0,8639.22,0
+448,Hellena Pimenta,das Neves,Facebook Ads,Inglês Adulto,25-34,Manhã,Quarta-feira,6,0,0,10724.95,0
+449,Vicente da Rosa,Nogueira dos Dourados,Indicação,Inglês Intermediário,25-34,Manhã,Terça-feira,8,3,0,3078.21,0
+450,Ana Araújo,Cardoso,Facebook Ads,Inglês Intermediário,35-44,Noite,Sexta-feira,11,2,0,5068.32,0
+451,Maria Liz Lima,Melo,Indicação,Inglês Adulto,55+,Noite,Sexta-feira,8,3,1,3665.96,1
+452,Bianca Mendonça,Caldeira,Tráfego Orgânico,Inglês Teens,35-44,Noite,Terça-feira,8,2,0,2472.18,0
+453,Sra. Ana Sophia Barros,Aragão de Minas,Facebook Ads,Inglês Intermediário,,Manhã,Quinta-feira,6,3,1,4062.14,0
+454,Sr. Benício Cardoso,Gonçalves da Serra,Instagram,Inglês Adulto,25-34,Tarde,Segunda-feira,7,1,1,5063.65,1
+455,Yan Silva,Pimenta de Fogaça,Indicação,Francês,45-54,,Terça-feira,8,3,0,3943.52,0
+456,Dr. Vinícius da Rocha,Farias do Oeste,Instagram,Inglês Adulto,45-54,Noite,Sexta-feira,1,1,0,2155.7,0
+457,Sofia Pereira,Sá,Evento Presencial,Espanhol,,Noite,Sexta-feira,7,1,0,2712.32,0
+458,Beatriz Vieira,Nunes de Cardoso,Google Ads,Inglês Teens,55+,Tarde,Sexta-feira,5,3,0,2723.76,0
+459,Srta. Helena Lopes,Sampaio,Tráfego Orgânico,Inglês Básico,25-34,Noite,Segunda-feira,10,3,1,2202.12,0
+460,Heloísa Jesus,Brito de Marques,Facebook Ads,Inglês Intermediário,45-54,Tarde,Quinta-feira,3,2,1,4158.73,0
+461,Dr. Murilo Leão,Rodrigues dos Dourados,Google Ads,Inglês Adulto,55+,Noite,Quarta-feira,7,4,1,4404.93,0
+462,Srta. Luara Lima,da Conceição de Câmara,Indicação,Francês,35-44,Manhã,Domingo,4,1,0,,0
+463,Dr. Marcelo Cassiano,Pimenta,Evento Presencial,Inglês Intermediário,18-24,Noite,Quinta-feira,4,2,0,,0
+464,Olívia Azevedo,Fonseca das Flores,Instagram,Inglês Básico,35-44,Noite,Domingo,7,2,0,2547.59,0
+465,Bryan Borges,Sampaio,Google Ads,Inglês Adulto,18-24,Noite,Segunda-feira,7,7,1,8229.92,0
+466,Aylla Souza,Viana Alegre,Facebook Ads,Inglês Básico,35-44,Tarde,Quarta-feira,5,1,0,3197.25,0
+467,Sra. Caroline Novais,Mendonça de Alves,Facebook Ads,Inglês Teens,25-34,Noite,Sexta-feira,12,3,0,3558.49,0
+468,Lucas Rios,Melo,Evento Presencial,Inglês Adulto,35-44,Noite,Quarta-feira,7,5,1,3178.65,0
+469,Noah Fogaça,Ferreira,Indicação,Inglês Teens,45-54,Manhã,Quinta-feira,6,0,0,6526.89,0
+470,Mariana Silveira,Martins de Cavalcante,Google Ads,Espanhol,18-24,Manhã,Quinta-feira,4,3,0,6667.59,0
+471,João Pedro Peixoto,Vargas da Praia,Google Ads,Inglês Adulto,25-34,,Domingo,9,2,1,6456.11,0
+472,Luiz Gustavo Caldeira,Moraes,Google Ads,Inglês Adulto,35-44,Tarde,Terça-feira,5,2,0,3551.52,0
+473,Sofia Cunha,Guerra,Indicação,Inglês Teens,25-34,Manhã,Domingo,10,3,0,2166.09,0
+474,Rodrigo Câmara,Duarte,Indicação,Inglês Teens,18-24,Manhã,Quarta-feira,7,2,0,10090.86,0
+475,Luiz Fernando Novais,Vieira,Instagram,Espanhol,18-24,Manhã,Quarta-feira,5,1,0,,0
+476,Sr. João Lucas Oliveira,Nascimento dos Dourados,Instagram,Inglês Básico,25-34,Tarde,Quinta-feira,12,2,1,2722.64,0
+477,Paulo Novais,Pastor das Pedras,Google Ads,Inglês Adulto,35-44,Noite,Terça-feira,7,3,0,7658.86,0
+478,Amanda Pereira,Pinto,Facebook Ads,Inglês Básico,35-44,Manhã,Domingo,4,5,1,2606.94,0
+479,Juliana Alves,Novaes,Facebook Ads,Espanhol,18-24,Noite,Sábado,8,1,0,7603.81,0
+480,João Gabriel Sampaio,Mendes,Google Ads,Inglês Adulto,25-34,Tarde,Domingo,4,1,1,7891.76,0
+481,Lucca Ferreira,Azevedo Alegre,Google Ads,Inglês Intermediário,25-34,Tarde,Domingo,9,1,1,2108.44,0
+482,Fernando Casa Grande,Sales,Instagram,Inglês Básico,,Manhã,Quinta-feira,5,2,0,4819.79,0
+483,Maria Liz Azevedo,Viana das Pedras,Google Ads,Inglês Intermediário,35-44,Noite,Quarta-feira,9,4,1,5381.5,0
+484,Arthur Borges,Nogueira de Goiás,Instagram,Inglês Teens,25-34,Noite,Sábado,6,2,1,14745.87,0
+485,Dra. Helena Garcia,Ribeiro,Indicação,Inglês Básico,25-34,Tarde,Segunda-feira,7,2,1,2326.81,1
+486,Mirella Fernandes,Sousa,Google Ads,Inglês Básico,45-54,Manhã,Sábado,6,1,0,7695.7,0
+487,Léo das Neves,Camargo de Pastor,Google Ads,Espanhol,25-34,Tarde,Quarta-feira,7,5,1,3533.55,0
+488,Sra. Antonella Aragão,Duarte de Novais,Instagram,Inglês Teens,35-44,Manhã,Quinta-feira,6,3,0,1768.29,0
+489,Emanuel Sá,Macedo,Google Ads,Inglês Básico,18-24,Noite,Quarta-feira,6,2,1,3276.48,0
+490,Ana Julia Rocha,das Neves,Google Ads,Inglês Básico,,Manhã,Quarta-feira,14,3,1,3504.75,0
+491,João Gabriel Macedo,Azevedo do Campo,Facebook Ads,Francês,18-24,Noite,Segunda-feira,10,2,0,,0
+492,Mariana Mendonça,Duarte do Amparo,Facebook Ads,Inglês Teens,35-44,Noite,Quarta-feira,5,1,1,4155.61,0
+493,Melina Leão,Borges,Facebook Ads,Inglês Adulto,,Tarde,Quarta-feira,5,2,1,5927.24,0
+494,Henrique Sá,Carvalho,Instagram,Inglês Intermediário,18-24,Noite,Terça-feira,8,2,1,3989.93,0
+495,Bruna Ferreira,Sá,Tráfego Orgânico,Inglês Básico,25-34,Manhã,Terça-feira,7,1,0,2598.02,0
+496,Brenda da Paz,Ribeiro,Google Ads,Inglês Básico,,Noite,Quinta-feira,7,1,0,3225.55,0
+497,Raquel Moura,Machado,Google Ads,Inglês Teens,35-44,Manhã,Terça-feira,2,2,0,3491.26,0
+498,Lorena Aparecida,Gomes Verde,Facebook Ads,Inglês Básico,35-44,Noite,Sábado,4,0,0,3944.37,0
+499,Miguel Peixoto,Costa de Costela,Instagram,Inglês Básico,35-44,Tarde,Segunda-feira,7,5,1,6444.13,0
+500,André Costela,da Rosa Verde,Google Ads,Inglês Teens,45-54,,Quinta-feira,3,3,0,4064.66,0
+501,Heitor Vargas,Lopes da Praia,Facebook Ads,Espanhol,25-34,Noite,Segunda-feira,4,0,1,1618.14,0
+502,José Miguel da Rocha,Pacheco,Tráfego Orgânico,Inglês Teens,35-44,Manhã,Quinta-feira,10,2,1,2568.92,0
+503,Sr. André Monteiro,Pimenta,Evento Presencial,Inglês Intermediário,35-44,Manhã,Quinta-feira,8,5,1,3834.64,0
+504,Sra. Emanuella Cardoso,Cardoso da Mata,Google Ads,Inglês Intermediário,25-34,Noite,Quinta-feira,5,3,0,6494.99,0
+505,Yasmin Santos,Freitas,Google Ads,Inglês Intermediário,45-54,Tarde,Quarta-feira,8,1,1,,0
+506,Theodoro Novais,Abreu,Tráfego Orgânico,Inglês Intermediário,18-24,Noite,Quarta-feira,4,0,0,9289.08,0
+507,Maria Barbosa,Camargo da Mata,Instagram,Inglês Adulto,35-44,Noite,Terça-feira,3,2,1,,1
+508,Ana Cecília Lopes,da Costa,Tráfego Orgânico,Inglês Intermediário,35-44,Noite,Quarta-feira,8,3,0,5325.91,0
+509,Raul Barbosa,Sampaio Verde,Google Ads,Inglês Adulto,45-54,Tarde,Quarta-feira,9,0,1,1572.72,0
+510,Dr. Nathan Santos,Pires Alegre,Indicação,Espanhol,25-34,,Quinta-feira,9,3,0,4433.54,0
+511,Maria Vitória da Rocha,Guerra das Flores,Indicação,Francês,25-34,Noite,Quarta-feira,8,2,1,1937.44,1
+512,Nathan Almeida,Nogueira do Oeste,Tráfego Orgânico,Inglês Básico,45-54,Manhã,Sexta-feira,7,0,0,3381.66,0
+513,Sr. Raul Sales,Melo,Indicação,Inglês Intermediário,35-44,Tarde,Quarta-feira,8,1,0,18525.98,0
+514,Sr. Pedro Henrique Caldeira,Correia,Instagram,Inglês Básico,25-34,,Terça-feira,12,1,1,4135.95,0
+515,Pedro Henrique Pastor,Fonseca das Pedras,Instagram,Inglês Intermediário,35-44,,Terça-feira,6,5,0,2176.39,0
+516,Valentina Barros,da Paz,Instagram,Inglês Básico,25-34,Noite,Segunda-feira,7,0,1,4379.99,0
+517,Luana Souza,Carvalho,Instagram,Inglês Básico,35-44,Noite,Quinta-feira,2,2,1,2633.65,0
+518,Sr. Lucas Gabriel Vasconcelos,Barbosa,Facebook Ads,Inglês Teens,45-54,Noite,Sábado,5,2,0,2063.4,0
+519,Breno Moraes,Casa Grande,Indicação,Inglês Intermediário,25-34,Noite,Sexta-feira,8,1,0,11128.28,0
+520,Bruna Moura,Ribeiro de Lopes,Tráfego Orgânico,Espanhol,25-34,Tarde,Quarta-feira,6,2,0,6293.45,0
+521,Evelyn Vasconcelos,Barros,Tráfego Orgânico,Inglês Básico,55+,,Terça-feira,9,4,1,4232.56,0
+522,Dr. Diogo da Costa,Ramos,Instagram,Inglês Básico,35-44,Manhã,Sábado,5,2,1,2821.48,0
+523,Diogo da Cunha,Marques das Pedras,Instagram,Inglês Intermediário,45-54,Noite,Segunda-feira,6,2,0,2950.07,0
+524,Erick Pereira,Marques,Facebook Ads,Inglês Básico,,Tarde,Quarta-feira,8,3,0,,0
+525,Breno Cavalcanti,Novaes dos Dourados,Indicação,Inglês Básico,55+,Noite,Sábado,3,1,0,4142.84,0
+526,Sabrina Martins,Fogaça de Goiás,Instagram,Francês,18-24,Manhã,Quarta-feira,9,2,1,642.25,0
+527,Melissa Rodrigues,Lima,Evento Presencial,Inglês Básico,25-34,Noite,Segunda-feira,3,2,0,13253.73,0
+528,Luna Pires,Oliveira,Evento Presencial,Inglês Básico,25-34,,Terça-feira,10,2,0,3870.75,0
+529,Sr. Pedro Lucas Azevedo,Siqueira de da Costa,Tráfego Orgânico,Inglês Adulto,35-44,Noite,Quinta-feira,6,3,1,4227.52,0
+530,Melina Pires,Jesus da Prata,Instagram,Inglês Intermediário,45-54,Manhã,Segunda-feira,8,2,0,6362.65,0
+531,João Guilherme Pastor,Andrade do Norte,Facebook Ads,Inglês Adulto,35-44,Noite,Quinta-feira,7,2,0,4521.01,1
+532,Luiz Gustavo Montenegro,Santos de Freitas,Facebook Ads,Inglês Intermediário,35-44,Manhã,Quarta-feira,4,0,0,5278.08,0
+533,Leonardo Martins,Pacheco,Instagram,Inglês Teens,25-34,Tarde,Terça-feira,6,3,1,2772.4,0
+534,Ana Carolina Araújo,Sales de Barros,Facebook Ads,Inglês Básico,25-34,Manhã,Terça-feira,11,3,0,1779.58,0
+535,Dr. Breno Ramos,Siqueira,Indicação,Inglês Intermediário,25-34,Tarde,Sexta-feira,5,1,1,4083.24,0
+536,Thiago Gomes,Martins do Galho,Instagram,Inglês Adulto,18-24,Noite,Quarta-feira,6,0,0,7691.77,0
+537,Ana Cecília Machado,Moreira,Google Ads,Espanhol,25-34,Manhã,Sexta-feira,8,1,1,2450.94,0
+538,Esther Duarte,da Cruz,Instagram,Inglês Intermediário,,Tarde,Quarta-feira,6,6,0,2345.15,0
+539,Olívia Montenegro,Pires de Sousa,Instagram,Inglês Adulto,35-44,Noite,Segunda-feira,7,3,1,6850.51,0
+540,Bento Machado,Rodrigues,Tráfego Orgânico,Inglês Básico,35-44,Noite,Quarta-feira,8,2,0,,1
+541,Luigi Silva,Pimenta do Norte,Evento Presencial,Inglês Básico,25-34,Noite,Quarta-feira,5,2,1,2792.55,0
+542,Thiago Ramos,Nascimento do Sul,Google Ads,Inglês Básico,25-34,Noite,Quarta-feira,7,6,1,2850.61,0
+543,Asafe da Cruz,Marques de Moraes,Tráfego Orgânico,Inglês Teens,18-24,Manhã,Sexta-feira,7,5,0,,0
+544,Sra. Maysa Moura,Oliveira de Siqueira,Evento Presencial,Inglês Básico,25-34,Noite,Sábado,8,0,0,1472.94,0
+545,Eduarda Fonseca,Leão da Praia,Indicação,Inglês Teens,25-34,Manhã,Sexta-feira,10,5,1,2601.6,0
+546,Dr. Mathias Jesus,da Rocha da Serra,Google Ads,Inglês Básico,25-34,Tarde,Quinta-feira,9,1,0,3972.78,0
+547,Sr. Lucas Gabriel Azevedo,Sales,Instagram,Espanhol,,Manhã,Quinta-feira,6,0,0,3957.23,0
+548,Sr. Matheus da Paz,Siqueira Verde,Indicação,Inglês Teens,,,Quinta-feira,6,2,1,,0
+549,Dom Farias,Araújo do Amparo,Tráfego Orgânico,Inglês Básico,,Tarde,Terça-feira,10,1,0,9625.62,0
+550,Diego Ferreira,Oliveira,Google Ads,Inglês Básico,,Noite,Sexta-feira,8,2,0,8041.61,0
+551,Matteo Cardoso,Ribeiro,Google Ads,Inglês Básico,25-34,Tarde,Sábado,7,0,1,5788.2,0
+552,Antonella das Neves,Sousa do Sul,Instagram,Espanhol,25-34,Tarde,Terça-feira,3,1,0,3225.08,1
+553,Maria Flor Ramos,Mendonça de Minas,Instagram,Inglês Básico,25-34,Tarde,Sábado,7,3,1,2484.51,0
+554,Sr. Vinicius Borges,Montenegro,Evento Presencial,Inglês Adulto,25-34,Manhã,Sábado,6,4,0,3534.59,0
+555,Mariana Moraes,Viana,Indicação,Inglês Intermediário,,Tarde,Quarta-feira,2,2,0,4829.93,0
+556,Sr. Luiz Miguel das Neves,da Cunha Grande,Instagram,Inglês Teens,,Noite,Sábado,6,4,0,5500.44,0
+557,Heitor Fernandes,da Mota Paulista,Instagram,Inglês Intermediário,45-54,,Segunda-feira,4,1,0,4930.6,0
+558,Evelyn Câmara,Sousa,Google Ads,Inglês Adulto,18-24,Manhã,Segunda-feira,7,5,1,3274.34,0
+559,Eduardo Barbosa,Pereira,Google Ads,Francês,25-34,Noite,Quarta-feira,3,2,0,5395.35,0
+560,Carlos Eduardo Montenegro,Pastor,Google Ads,Inglês Básico,25-34,Tarde,Quinta-feira,4,3,1,7002.33,0
+561,Valentina Andrade,Ribeiro,Indicação,Inglês Teens,25-34,Manhã,Quarta-feira,7,4,1,5679.43,0
+562,Maitê Vargas,Freitas de Cavalcanti,Instagram,Inglês Básico,25-34,Manhã,Domingo,7,2,0,3438.91,0
+563,Caroline Peixoto,Viana de Goiás,Tráfego Orgânico,Inglês Intermediário,45-54,,Terça-feira,10,3,0,2212.55,0
+564,Daniela Castro,Cirino de Moura,Facebook Ads,Espanhol,25-34,Tarde,Terça-feira,10,2,1,2183.88,0
+565,Enzo Silveira,Fernandes,Facebook Ads,Inglês Adulto,35-44,Noite,Quinta-feira,8,4,1,2406.31,0
+566,Ana Clara Jesus,Casa Grande,Facebook Ads,Inglês Adulto,,Manhã,Segunda-feira,10,0,0,4031.56,0
+567,Sr. Pedro Miguel Pimenta,Monteiro,Tráfego Orgânico,Inglês Básico,18-24,Noite,Sexta-feira,8,2,0,4658.32,0
+568,Pietro da Conceição,Vargas das Flores,Indicação,Inglês Intermediário,25-34,Tarde,Quarta-feira,10,2,1,,0
+569,Isabella das Neves,Ribeiro,Instagram,Inglês Intermediário,25-34,Noite,Domingo,5,3,0,2652.67,0
+570,Evelyn Freitas,Silveira de Porto,Google Ads,Inglês Adulto,25-34,Noite,Sexta-feira,6,1,1,4001.1,0
+571,Maysa Martins,Costela,Instagram,Inglês Intermediário,55+,,Segunda-feira,7,1,0,2133.87,0
+572,Mateus Montenegro,Aragão Paulista,Tráfego Orgânico,Inglês Intermediário,35-44,Manhã,Segunda-feira,9,2,1,4443.36,0
+573,Mariah Castro,Aragão,Google Ads,Inglês Intermediário,55+,Tarde,Segunda-feira,4,3,0,2955.53,0
+574,Davi Miguel da Cunha,Martins,Tráfego Orgânico,Inglês Básico,25-34,Noite,Domingo,5,5,1,2351.1,0
+575,Rodrigo Freitas,Melo da Mata,Tráfego Orgânico,Inglês Intermediário,35-44,Noite,Sexta-feira,6,2,0,3603.93,0
+576,Bella Silva,Souza de Sá,Google Ads,Inglês Básico,35-44,Manhã,Quarta-feira,6,1,1,4342.79,0
+577,Camila da Paz,Garcia,Evento Presencial,Espanhol,,Noite,Terça-feira,10,1,0,2194.76,1
+578,Enrico da Mata,Melo Paulista,Google Ads,Inglês Adulto,55+,Tarde,Sábado,7,1,1,3062.79,0
+579,Sophie Casa Grande,Moura,Tráfego Orgânico,Inglês Básico,35-44,Manhã,Terça-feira,13,1,0,4526.67,0
+580,Ayla Câmara,Albuquerque da Mata,Instagram,Inglês Adulto,45-54,Noite,Sexta-feira,7,3,0,2301.62,0
+581,Marcela Alves,Garcia de Rocha,Google Ads,Inglês Teens,35-44,Tarde,Sexta-feira,8,1,1,1406.35,0
+582,Ana Júlia Gonçalves,Moura do Norte,Google Ads,Inglês Básico,18-24,Tarde,Terça-feira,7,1,0,1503.28,0
+583,Maria Fernanda da Costa,Nascimento,Indicação,Inglês Básico,,Noite,Quarta-feira,6,4,0,2781.07,0
+584,Anna Liz Freitas,Lopes Paulista,Instagram,Inglês Básico,25-34,Tarde,Terça-feira,11,1,1,1694.92,0
+585,Arthur Dias,da Mata Paulista,Evento Presencial,Inglês Básico,45-54,Noite,Quarta-feira,12,3,1,,1
+586,Lucas Gabriel Vieira,da Cunha,Facebook Ads,Inglês Teens,45-54,Tarde,Domingo,6,1,1,8744.99,0
+587,Davi Miguel Andrade,Martins de Goiás,Instagram,Francês,18-24,Manhã,Sexta-feira,9,2,0,1639.73,0
+588,Ravy Sampaio,Moreira,Instagram,Inglês Básico,18-24,Tarde,Sábado,12,6,0,,0
+589,Ravy Machado,Rocha da Serra,Instagram,Inglês Teens,18-24,Noite,Quinta-feira,7,2,1,11308.23,0
+590,Alana Barros,Novaes do Sul,Indicação,Inglês Básico,25-34,,Terça-feira,5,3,0,4380.81,0
+591,José Miguel Cunha,Azevedo,Evento Presencial,Inglês Adulto,18-24,Manhã,Sexta-feira,10,2,1,2859.12,1
+592,Yan Siqueira,Jesus,Google Ads,Inglês Teens,35-44,Noite,Quarta-feira,8,4,0,3210.66,0
+593,Vitória Lima,Moura,Instagram,Inglês Intermediário,35-44,Noite,Terça-feira,10,1,1,4432.27,0
+594,João Pedro da Costa,Rodrigues,Google Ads,Inglês Básico,,Noite,Quarta-feira,5,3,1,8894.54,0
+595,Davi Aragão,Ferreira de Câmara,Indicação,Inglês Adulto,25-34,Noite,Quinta-feira,0,1,0,2613.77,1
+596,Otto Porto,da Cunha do Oeste,Instagram,Francês,25-34,Tarde,Sexta-feira,5,1,0,2307.3,0
+597,Natália Azevedo,Alves,Facebook Ads,Inglês Básico,18-24,Noite,Terça-feira,9,0,0,1639.54,0
+598,Theo Peixoto,Araújo,Facebook Ads,Inglês Básico,45-54,Noite,Sábado,3,1,0,3704.19,0
+599,Allana Pires,Peixoto,Evento Presencial,Inglês Básico,18-24,Noite,Quarta-feira,4,4,1,1615.48,0
+600,Isabella Silva,Santos,Facebook Ads,Inglês Adulto,18-24,,Terça-feira,6,3,0,2711.99,0
+601,João Vitor Lima,Borges,Google Ads,Inglês Adulto,25-34,Tarde,Terça-feira,11,5,0,2123.33,0
+602,Luiz Gustavo da Costa,Garcia,Tráfego Orgânico,Inglês Teens,,Manhã,Sexta-feira,2,3,0,6318.81,0
+603,Maria Vitória Cirino,Camargo,Evento Presencial,Inglês Teens,18-24,Noite,Quarta-feira,3,0,1,2646.25,1
+604,Antonella Moura,da Cunha,Facebook Ads,Espanhol,35-44,Manhã,Quarta-feira,4,0,0,4353.91,0
+605,Sr. Vinicius Nogueira,Martins de Minas,Evento Presencial,Inglês Teens,35-44,Manhã,Terça-feira,8,1,0,1448.48,0
+606,Sofia Novaes,da Mota de Vargas,Tráfego Orgânico,Inglês Básico,35-44,Tarde,Sexta-feira,5,4,1,3762.53,1
+607,Mathias Melo,Sales Alegre,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Sexta-feira,4,5,0,1805.84,0
+608,Mathias Freitas,Castro de Minas,Indicação,Inglês Básico,18-24,Noite,Terça-feira,8,7,0,,0
+609,Antony Fogaça,Vasconcelos do Norte,Facebook Ads,Inglês Intermediário,25-34,Noite,Domingo,8,0,1,11809.74,0
+610,Luiz Felipe da Costa,Gomes Alegre,Google Ads,Espanhol,25-34,Noite,Segunda-feira,6,1,0,5844.25,0
+611,Dra. Bella Vargas,da Luz,Google Ads,Inglês Adulto,35-44,Noite,Segunda-feira,7,0,1,3261.33,1
+612,Lívia Carvalho,Cavalcanti dos Dourados,Facebook Ads,Francês,25-34,Noite,Quinta-feira,3,2,1,20331.7,0
+613,Luiz Gustavo Nogueira,Mendonça,Evento Presencial,Inglês Intermediário,25-34,,Sexta-feira,5,1,1,,0
+614,Sr. Ravi Sampaio,Pimenta,Evento Presencial,Inglês Adulto,18-24,Noite,Terça-feira,8,1,0,6643.45,0
+615,Emilly Carvalho,Cavalcanti do Amparo,Instagram,Inglês Intermediário,35-44,Manhã,Quinta-feira,8,2,0,1506.5,0
+616,Raul Andrade,Casa Grande,Facebook Ads,Inglês Básico,18-24,Manhã,Terça-feira,7,5,0,3060.58,0
+617,Guilherme Aparecida,Cunha do Campo,Facebook Ads,Inglês Básico,35-44,Manhã,Quinta-feira,5,2,0,1667.76,0
+618,Asafe Dias,Silva de da Luz,Instagram,Inglês Adulto,,Noite,Quinta-feira,7,4,0,4032.01,0
+619,Théo Gonçalves,Andrade,Indicação,Inglês Básico,55+,Noite,Domingo,6,2,1,,0
+620,Olívia da Cunha,Barbosa,Indicação,Espanhol,35-44,Noite,Quarta-feira,4,4,1,2955.14,1
+621,Gabriel da Paz,Vasconcelos dos Dourados,Tráfego Orgânico,Inglês Básico,18-24,Noite,Quinta-feira,3,4,0,6381.44,0
+622,Sr. Lucas da Mata,Monteiro,Google Ads,Inglês Básico,,Noite,Quinta-feira,6,0,1,2562.18,0
+623,Léo Lopes,Rezende,Evento Presencial,Inglês Teens,25-34,Manhã,Terça-feira,9,1,1,,0
+624,Maysa Gomes,Andrade,Google Ads,Inglês Básico,18-24,Noite,Terça-feira,8,2,1,,0
+625,Sr. Theo Sales,da Mata Grande,Evento Presencial,Espanhol,25-34,,Domingo,10,3,1,1548.04,0
+626,Maria Eduarda Moreira,Gonçalves Verde,Google Ads,Inglês Teens,45-54,Noite,Terça-feira,13,0,0,2319.0,0
+627,Bryan Siqueira,Moraes,Tráfego Orgânico,Inglês Básico,35-44,Manhã,Sexta-feira,9,1,0,3605.23,0
+628,Anna Liz Lopes,Mendes de Lopes,Indicação,Inglês Adulto,18-24,Manhã,Segunda-feira,12,0,0,4949.8,0
+629,Emilly Nogueira,Siqueira de Minas,Google Ads,Inglês Adulto,35-44,Noite,Sexta-feira,3,1,1,,0
+630,Lorenzo Caldeira,Abreu,Tráfego Orgânico,Inglês Teens,25-34,,Terça-feira,6,3,1,3108.15,0
+631,Luan Ribeiro,Sales do Amparo,Evento Presencial,Inglês Teens,55+,Tarde,Domingo,10,5,1,2940.87,0
+632,Leandro Machado,Nunes,Tráfego Orgânico,Inglês Teens,18-24,Tarde,Sexta-feira,8,1,1,2165.9,1
+633,Mariane Cavalcante,Farias da Mata,Indicação,Inglês Adulto,35-44,Manhã,Segunda-feira,8,0,0,4196.51,1
+634,Sra. Marcela Machado,Araújo de Minas,Instagram,Inglês Intermediário,35-44,Manhã,Sexta-feira,5,0,0,2972.34,0
+635,Luiz Gustavo Pimenta,Nascimento Alegre,Indicação,Inglês Adulto,18-24,Noite,Quinta-feira,8,2,1,3010.32,1
+636,Kamilly Porto,Marques,Indicação,Francês,,Noite,Terça-feira,11,4,0,,0
+637,Breno Rios,Ramos do Oeste,Facebook Ads,Inglês Adulto,25-34,Noite,Terça-feira,8,0,0,4740.57,0
+638,Maria Luiza Fonseca,Novaes,Facebook Ads,Inglês Adulto,45-54,Tarde,Sexta-feira,6,1,1,,0
+639,Eduarda Alves,Gomes,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Sexta-feira,7,3,1,2288.91,0
+640,Pedro Lucas Andrade,da Rosa,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Terça-feira,5,4,0,4438.03,0
+641,Bernardo da Costa,Caldeira da Praia,Facebook Ads,Francês,35-44,Tarde,Sábado,7,6,1,662.73,0
+642,Maria Clara Fonseca,Barros de Pires,Tráfego Orgânico,Inglês Básico,45-54,Manhã,Terça-feira,4,4,0,,0
+643,Ana Beatriz Pereira,Sousa de Correia,Indicação,Inglês Básico,,Noite,Segunda-feira,5,4,1,1858.08,1
+644,Rael Freitas,Andrade,Instagram,Inglês Adulto,25-34,Noite,Quinta-feira,3,2,0,6783.92,0
+645,Dr. Breno Oliveira,Alves,Facebook Ads,Inglês Intermediário,35-44,Tarde,Segunda-feira,5,0,1,2746.29,0
+646,Vinícius Fonseca,Mendonça,Tráfego Orgânico,Inglês Adulto,25-34,Tarde,Terça-feira,6,3,0,2571.19,0
+647,Luara Rezende,Azevedo da Prata,Indicação,Inglês Básico,,Tarde,Quarta-feira,12,1,0,3407.64,1
+648,Josué Camargo,Monteiro da Prata,Google Ads,Inglês Intermediário,18-24,Manhã,Terça-feira,7,0,0,2522.65,1
+649,Francisco Monteiro,Almeida de Andrade,Facebook Ads,Inglês Adulto,18-24,Tarde,Terça-feira,4,2,0,,0
+650,Maria Julia Novais,Araújo Alegre,Indicação,Inglês Adulto,,Tarde,Sexta-feira,7,0,0,3692.02,1
+651,João Vasconcelos,Guerra,Google Ads,Inglês Adulto,25-34,Tarde,Quinta-feira,9,2,1,2774.97,0
+652,Pietro Cunha,Cunha,Tráfego Orgânico,Inglês Teens,18-24,Tarde,Sábado,9,2,1,2764.04,0
+653,Laura Sales,Rocha de Nascimento,Facebook Ads,Inglês Adulto,18-24,Noite,Quinta-feira,5,2,0,2008.07,0
+654,Gabriela Campos,Sousa,Instagram,Inglês Teens,25-34,Manhã,Quarta-feira,4,1,1,1855.55,0
+655,Brayan Machado,Barbosa,Tráfego Orgânico,Inglês Adulto,45-54,Manhã,Terça-feira,5,3,1,,0
+656,Pedro Miguel Borges,Sousa,Instagram,Inglês Adulto,18-24,Manhã,Sexta-feira,11,1,1,4142.89,0
+657,Luiza Rios,Mendonça,Tráfego Orgânico,Inglês Adulto,18-24,Manhã,Terça-feira,8,3,0,1595.64,0
+658,Sr. Yan Nogueira,Melo,Instagram,Inglês Básico,25-34,Noite,Terça-feira,11,2,0,5316.05,0
+659,Kaique Castro,da Cruz,Google Ads,Inglês Básico,55+,Noite,Sábado,7,1,1,5328.07,0
+660,Dra. Emanuella Vieira,Albuquerque,Instagram,Inglês Adulto,25-34,Noite,Sexta-feira,5,3,0,5982.52,0
+661,Sr. Davi Costa,Pires,Instagram,Espanhol,55+,Noite,Quinta-feira,9,5,0,4127.62,0
+662,Isaac Vieira,das Neves,Tráfego Orgânico,Inglês Adulto,45-54,,Segunda-feira,8,1,1,,1
+663,Amanda Fonseca,Marques,Instagram,Inglês Básico,25-34,Manhã,Segunda-feira,10,2,0,11640.93,1
+664,Maria Eduarda Martins,Pastor,Indicação,Inglês Adulto,45-54,Tarde,Quarta-feira,7,1,1,2965.15,1
+665,Caroline Pimenta,Caldeira,Instagram,Inglês Básico,35-44,Tarde,Sexta-feira,7,4,0,1969.21,0
+666,Benício das Neves,Monteiro,Facebook Ads,Inglês Teens,25-34,Noite,Quarta-feira,7,2,1,1505.36,0
+667,Pietra Moura,Azevedo,Tráfego Orgânico,Inglês Teens,25-34,Tarde,Segunda-feira,8,4,1,9192.46,1
+668,Maria Luísa Oliveira,Lima,Evento Presencial,Inglês Adulto,45-54,Manhã,Terça-feira,4,1,1,9259.0,0
+669,Davi Lucas Dias,Sousa das Flores,Instagram,Inglês Adulto,35-44,Tarde,Quinta-feira,5,2,1,2104.83,0
+670,Ana Sophia Machado,Campos Verde,Google Ads,Inglês Intermediário,35-44,Manhã,Sexta-feira,6,1,1,2346.06,0
+671,Stella Ferreira,Duarte,Indicação,Inglês Intermediário,55+,Noite,Segunda-feira,11,3,0,2928.73,0
+672,Yuri Porto,Teixeira,Google Ads,Espanhol,25-34,,Segunda-feira,6,1,1,6862.72,0
+673,Emilly Vargas,Pastor,Evento Presencial,Inglês Teens,,Manhã,Terça-feira,4,3,1,1724.17,0
+674,Pedro Montenegro,Farias,Facebook Ads,Inglês Adulto,45-54,Manhã,Segunda-feira,8,1,0,1186.64,0
+675,Davi Moreira,Campos,Google Ads,Inglês Intermediário,25-34,Noite,Quinta-feira,6,0,0,11529.35,0
+676,Kevin Cavalcante,Casa Grande das Pedras,Instagram,Inglês Básico,18-24,Tarde,Segunda-feira,9,3,0,4156.06,0
+677,Lorenzo Santos,Sampaio,Evento Presencial,Inglês Básico,25-34,Noite,Quinta-feira,12,1,0,4493.76,0
+678,Luiz Felipe Moreira,Novaes da Serra,Google Ads,Inglês Básico,45-54,Tarde,Sexta-feira,9,6,1,3126.63,0
+679,Bruno da Cunha,da Cruz de Pacheco,Indicação,Inglês Intermediário,25-34,Manhã,Domingo,3,2,0,,0
+680,Yuri da Mota,Carvalho,Instagram,Espanhol,35-44,Noite,Domingo,11,1,0,,0
+681,Kevin Pimenta,Vieira,Indicação,Inglês Adulto,18-24,Manhã,Terça-feira,7,2,1,2203.96,0
+682,Ayla Montenegro,Vasconcelos da Serra,Instagram,Inglês Básico,25-34,Manhã,Segunda-feira,9,2,0,3708.4,0
+683,Eloá Pastor,Mendonça,Indicação,Inglês Básico,35-44,Noite,Terça-feira,5,4,1,1003.78,0
+684,Daniela Cavalcante,Abreu,Google Ads,Inglês Intermediário,18-24,Manhã,Sexta-feira,9,3,0,2963.52,0
+685,Maitê Nunes,Cavalcanti,Facebook Ads,Inglês Teens,,Manhã,Segunda-feira,6,4,0,2864.73,0
+686,Arthur Barros,Santos,Instagram,Inglês Intermediário,18-24,Noite,Quarta-feira,5,2,0,2963.24,0
+687,João Rezende,Leão do Amparo,Google Ads,Inglês Teens,45-54,Tarde,Terça-feira,6,4,1,2584.85,1
+688,Oliver Pinto,Costela,Evento Presencial,Inglês Teens,25-34,,Terça-feira,6,4,1,2023.89,0
+689,Ana Monteiro,Porto,Tráfego Orgânico,Inglês Básico,55+,Tarde,Sexta-feira,7,1,0,1284.85,0
+690,Ísis da Rocha,Moreira dos Dourados,Google Ads,Inglês Adulto,35-44,Noite,Quinta-feira,9,2,0,3790.03,0
+691,Liz Mendes,da Costa da Serra,Instagram,Francês,18-24,Manhã,Quinta-feira,11,2,0,2967.43,0
+692,Nathan da Rosa,Peixoto,Tráfego Orgânico,Inglês Intermediário,18-24,Manhã,Sábado,9,6,0,,0
+693,Ana Sophia Sales,Silva,Instagram,Inglês Básico,18-24,Noite,Segunda-feira,7,3,1,3622.47,0
+694,Emanuel Macedo,Pimenta de Borges,Instagram,Espanhol,35-44,Noite,Segunda-feira,5,2,0,2975.88,0
+695,Rafaela Martins,Ferreira das Pedras,Evento Presencial,Espanhol,45-54,Noite,Quarta-feira,11,0,0,2716.11,0
+696,Luigi Pereira,Novais,Google Ads,Inglês Adulto,,Tarde,Quinta-feira,4,4,0,1068.73,0
+697,Levi Silva,Correia,Facebook Ads,Inglês Adulto,25-34,Manhã,Quinta-feira,6,3,0,5095.13,0
+698,Dr. Murilo Cardoso,Moura,Google Ads,Inglês Básico,35-44,Tarde,Segunda-feira,5,3,0,1776.39,0
+699,Sr. Liam da Costa,Pinto,Facebook Ads,Inglês Teens,25-34,Noite,Domingo,6,3,0,3623.94,0
+700,Camila da Mata,Teixeira da Prata,Instagram,Inglês Intermediário,,,Terça-feira,8,0,0,,0
+701,Isadora Casa Grande,Martins,Instagram,Inglês Básico,25-34,,Quarta-feira,8,0,0,2826.29,0
+702,Benicio da Rocha,da Mota,Instagram,Inglês Adulto,,Manhã,Quinta-feira,10,1,0,6596.4,0
+703,Mariah da Cruz,Correia,Instagram,Francês,55+,Noite,Domingo,8,3,1,4688.69,0
+704,Luan Oliveira,Vieira,Tráfego Orgânico,Inglês Teens,25-34,Noite,Quinta-feira,8,2,0,6516.16,0
+705,Sra. Esther Teixeira,Rodrigues,Instagram,Inglês Básico,18-24,Tarde,Domingo,7,0,0,4197.44,0
+706,Theo Moraes,Monteiro de Cavalcanti,Google Ads,Inglês Básico,18-24,Noite,Terça-feira,7,1,0,4352.03,0
+707,Sara das Neves,Rios,Tráfego Orgânico,Espanhol,35-44,Noite,Quinta-feira,9,3,1,1314.08,1
+708,Alícia Borges,Aragão,Tráfego Orgânico,Espanhol,25-34,Manhã,Sexta-feira,8,1,1,2939.16,1
+709,Sofia Marques,da Paz do Oeste,Google Ads,Inglês Adulto,55+,Tarde,Quarta-feira,5,5,1,3092.76,0
+710,Henrique Pacheco,da Cunha Alegre,Google Ads,Inglês Adulto,35-44,Noite,Quarta-feira,3,5,1,6860.49,1
+711,Sr. Benicio da Paz,Aparecida de Caldeira,Evento Presencial,Inglês Intermediário,25-34,Manhã,Domingo,6,2,1,2649.41,0
+712,Olivia da Paz,Nascimento,Facebook Ads,Inglês Intermediário,35-44,Tarde,Segunda-feira,8,2,0,4048.86,1
+713,Alexia Caldeira,Castro,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Quarta-feira,11,2,1,3962.72,1
+714,Catarina da Luz,Mendonça,Evento Presencial,Inglês Básico,,Noite,Sábado,7,1,1,6615.96,0
+715,Sra. Maria Luiza Fonseca,Barbosa,Tráfego Orgânico,Inglês Básico,,Tarde,Sábado,7,0,0,3251.78,0
+716,Murilo Aragão,Silveira,Instagram,Inglês Teens,35-44,Noite,Domingo,7,0,0,5518.17,0
+717,Evelyn Fonseca,Pastor de Pacheco,Google Ads,Inglês Básico,55+,,Sábado,9,2,0,1370.38,0
+718,Laura Barbosa,Leão do Oeste,Indicação,Inglês Básico,35-44,Manhã,Segunda-feira,8,3,0,1440.59,0
+719,Sofia Machado,da Conceição do Campo,Facebook Ads,Inglês Adulto,45-54,Noite,Sábado,7,0,1,996.93,0
+720,Lara Pinto,da Conceição do Campo,Evento Presencial,Inglês Básico,25-34,Manhã,Quarta-feira,4,3,0,5392.75,0
+721,Bárbara Cardoso,Sousa,Google Ads,Inglês Básico,45-54,Manhã,Quinta-feira,4,0,1,5069.69,0
+722,Matteo Freitas,Costa das Flores,Google Ads,Inglês Adulto,,Tarde,Quarta-feira,9,1,1,5731.73,0
+723,Dr. Diego Costa,Barbosa,Indicação,Inglês Intermediário,35-44,Noite,Sexta-feira,13,4,0,2411.42,0
+724,Sophia Guerra,Pacheco de Mendonça,Evento Presencial,Inglês Adulto,18-24,Tarde,Quinta-feira,12,4,0,2567.19,1
+725,Ana Cecília Aparecida,Lopes,Indicação,Espanhol,25-34,Manhã,Sábado,6,1,1,3274.57,0
+726,Davi Miguel Silva,Cunha,Indicação,Inglês Básico,35-44,Tarde,Terça-feira,4,2,1,7743.06,0
+727,Dr. Valentim Marques,Cavalcanti de Gomes,Instagram,Espanhol,18-24,Manhã,Terça-feira,6,3,0,8885.04,0
+728,Théo Carvalho,Carvalho dos Dourados,Indicação,Espanhol,35-44,Manhã,Quarta-feira,11,2,0,5416.0,0
+729,Dr. Enrico Gonçalves,Pires,Google Ads,Inglês Teens,45-54,Tarde,Segunda-feira,7,0,0,,0
+730,Letícia Pastor,da Mata do Oeste,Google Ads,Inglês Adulto,45-54,Manhã,Sexta-feira,8,1,1,7295.25,0
+731,Dr. Kaique Melo,Cardoso do Norte,Instagram,Inglês Adulto,18-24,Tarde,Terça-feira,2,1,0,3040.58,0
+732,Léo Farias,da Mota,Indicação,Inglês Adulto,55+,,Quinta-feira,10,4,0,2822.84,0
+733,Brenda Leão,Camargo,Indicação,Inglês Adulto,18-24,Noite,Segunda-feira,12,2,1,3260.24,0
+734,Lorena Vieira,Marques de Leão,Instagram,Inglês Básico,25-34,Tarde,Terça-feira,2,4,0,,0
+735,Dra. Amanda Peixoto,Teixeira,Indicação,Francês,45-54,Tarde,Quinta-feira,6,1,0,3178.81,1
+736,Julia Rezende,Câmara da Mata,Facebook Ads,Inglês Adulto,18-24,,Terça-feira,6,1,1,1893.05,1
+737,Heloísa Silveira,Vieira,Instagram,Inglês Teens,18-24,Noite,Terça-feira,4,4,0,,0
+738,Rhavi Cavalcante,Oliveira,Instagram,Inglês Intermediário,18-24,Manhã,Terça-feira,8,2,0,4719.92,0
+739,Maria Helena Casa Grande,Borges,Instagram,Inglês Básico,,Manhã,Terça-feira,9,8,1,7683.09,0
+740,Isabelly Andrade,Moreira do Amparo,Google Ads,Inglês Adulto,45-54,Tarde,Quinta-feira,11,1,1,1428.55,0
+741,Brenda Correia,Pastor,Indicação,Inglês Adulto,18-24,Manhã,Segunda-feira,8,2,0,9961.19,0
+742,Pedro Lucas Dias,Martins de da Mota,Indicação,Inglês Intermediário,18-24,Manhã,Quarta-feira,6,2,0,1473.88,0
+743,Clarice Jesus,Siqueira,Tráfego Orgânico,Inglês Intermediário,35-44,Manhã,Sexta-feira,9,2,1,1810.66,0
+744,Srta. Maria Sophia Montenegro,Sousa de Goiás,Indicação,Inglês Básico,,Noite,Quinta-feira,8,3,1,,0
+745,Olivia Sousa,Duarte,Google Ads,Inglês Adulto,35-44,Noite,Quinta-feira,8,2,1,7185.1,1
+746,Srta. Cecilia Moreira,Pacheco de Goiás,Google Ads,Inglês Intermediário,55+,Noite,Terça-feira,4,3,1,3962.31,0
+747,Luan Ribeiro,Oliveira,Instagram,Francês,35-44,Noite,Domingo,4,2,1,,0
+748,Valentina Garcia,Leão,Google Ads,Inglês Básico,,Tarde,Quarta-feira,6,3,1,2263.29,1
+749,Sr. Raul Nascimento,Aparecida,Tráfego Orgânico,Inglês Intermediário,25-34,,Terça-feira,12,0,1,1642.14,0
+750,Dr. João Pimenta,Siqueira de Vargas,Tráfego Orgânico,Inglês Básico,45-54,,Sábado,9,3,0,6525.44,1
+751,Evelyn da Cruz,Lima,Instagram,Inglês Adulto,18-24,Noite,Quinta-feira,5,1,1,5430.41,0
+752,Kaique Câmara,Mendes do Campo,Instagram,Inglês Intermediário,18-24,Noite,Quinta-feira,4,6,1,7364.05,0
+753,João Pedro Santos,Monteiro de da Costa,Instagram,Inglês Adulto,35-44,Tarde,Sábado,5,3,0,4353.64,0
+754,Samuel Dias,Novais,Google Ads,Francês,18-24,Tarde,Segunda-feira,9,2,0,818.41,0
+755,Marcela Novais,Sales,Facebook Ads,Inglês Básico,45-54,Tarde,Sábado,9,4,1,1765.16,0
+756,Sra. Laura Campos,Cunha Grande,Instagram,Inglês Adulto,35-44,Manhã,Quinta-feira,7,3,0,,0
+757,Ísis Garcia,da Rocha de Goiás,Instagram,Inglês Básico,55+,Tarde,Quarta-feira,4,0,1,2855.99,0
+758,Manuella Vargas,Almeida,Evento Presencial,Inglês Básico,25-34,Manhã,Terça-feira,7,2,0,2573.84,0
+759,João Vitor Aparecida,Rios de das Neves,Indicação,Inglês Intermediário,25-34,Manhã,Segunda-feira,7,5,0,1907.87,0
+760,Bruno Ferreira,Santos,Google Ads,Inglês Básico,35-44,Noite,Domingo,12,3,0,5894.01,0
+761,Jade Souza,Oliveira de Souza,Facebook Ads,Inglês Adulto,25-34,Noite,Segunda-feira,10,0,1,4498.16,0
+762,Hadassa Costa,Marques,Instagram,Inglês Adulto,,Noite,Terça-feira,5,3,0,4610.88,0
+763,Júlia Novais,Vargas de Carvalho,Indicação,Inglês Teens,35-44,,Sexta-feira,5,2,1,2470.16,0
+764,Sra. Cecilia Caldeira,Cirino da Praia,Indicação,Inglês Adulto,55+,Noite,Sexta-feira,7,1,0,3856.35,1
+765,Isabella da Cruz,Santos de Porto,Evento Presencial,Inglês Adulto,35-44,Noite,Segunda-feira,6,2,0,1676.98,0
+766,Vinícius Câmara,Pires,Indicação,Inglês Intermediário,18-24,Noite,Sexta-feira,7,1,0,3258.8,0
+767,Isabel Aragão,Gomes,Instagram,Inglês Básico,25-34,Noite,Quinta-feira,4,2,0,871.45,0
+768,Noah Farias,Moura do Norte,Indicação,Inglês Básico,,Tarde,Sábado,11,2,1,1477.42,1
+769,Sra. Beatriz Rodrigues,Lima Paulista,Indicação,Inglês Adulto,18-24,,Segunda-feira,2,4,1,2931.43,0
+770,André Novaes,Viana,Facebook Ads,Francês,25-34,Noite,Segunda-feira,9,1,0,12923.9,0
+771,Nicolas Rezende,Pinto,Instagram,Inglês Básico,25-34,Noite,Quinta-feira,2,0,0,,0
+772,Pietra Rezende,Sousa do Norte,Google Ads,Inglês Adulto,18-24,Tarde,Segunda-feira,9,1,1,1766.14,0
+773,João Pedro Duarte,Aragão do Campo,Google Ads,Inglês Teens,25-34,Tarde,Quinta-feira,7,1,1,3943.19,0
+774,Bento Vargas,Fonseca dos Dourados,Tráfego Orgânico,Inglês Teens,,Tarde,Segunda-feira,4,1,1,9262.24,0
+775,Igor Nascimento,Fonseca,Indicação,Inglês Adulto,35-44,Tarde,Sexta-feira,6,0,1,3911.64,0
+776,Dra. Ana Carolina Cavalcanti,Cavalcanti da Prata,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Sábado,4,0,0,,0
+777,Emanuelly Andrade,Novais,Facebook Ads,Inglês Adulto,35-44,Noite,Sábado,6,2,0,2906.88,0
+778,Sabrina Cirino,Carvalho,Instagram,Espanhol,,Tarde,Domingo,5,3,1,2643.02,0
+779,Sra. Ana Carolina Albuquerque,da Costa da Prata,Tráfego Orgânico,Inglês Básico,45-54,Tarde,Sábado,4,2,1,3661.83,0
+780,Cauê Farias,Rezende,Tráfego Orgânico,Espanhol,18-24,Tarde,Quarta-feira,9,2,1,2436.84,0
+781,Rafael Ramos,Sousa de Sá,Instagram,Inglês Básico,25-34,Manhã,Quarta-feira,7,1,0,5212.77,0
+782,Valentina Monteiro,Sá,Evento Presencial,Inglês Teens,25-34,Tarde,Sábado,4,0,0,,0
+783,Thiago Martins,Duarte,Google Ads,Inglês Básico,25-34,Noite,Sábado,7,2,1,,1
+784,Gael Camargo,da Mata do Galho,Facebook Ads,Inglês Básico,25-34,Noite,Domingo,6,0,0,3576.5,0
+785,Sr. Raul Ramos,da Mota do Norte,Evento Presencial,Inglês Básico,45-54,Manhã,Sexta-feira,14,0,0,3110.14,0
+786,Francisco Albuquerque,Freitas,Instagram,Inglês Intermediário,45-54,,Terça-feira,8,3,1,,0
+787,Sra. Laís Nunes,Machado do Amparo,Tráfego Orgânico,Inglês Intermediário,25-34,,Domingo,3,4,0,2041.9,1
+788,Evelyn Cavalcanti,Melo,Instagram,Inglês Básico,18-24,Tarde,Domingo,7,1,0,6766.75,0
+789,Maria Luiza Lima,Machado da Praia,Tráfego Orgânico,Inglês Intermediário,35-44,Noite,Quinta-feira,9,2,0,3120.63,0
+790,Lunna Borges,Correia,Facebook Ads,Inglês Intermediário,35-44,Noite,Sábado,10,1,1,4079.12,1
+791,Aylla Cirino,Borges de Barros,Instagram,Inglês Teens,25-34,Noite,Quinta-feira,9,2,0,2157.65,0
+792,Rhavi Duarte,Cavalcanti da Mata,Google Ads,Espanhol,35-44,Manhã,Domingo,8,3,0,,0
+793,André da Luz,Caldeira,Instagram,Inglês Adulto,25-34,Manhã,Segunda-feira,10,2,0,1645.56,0
+794,Isabela Machado,da Mota,Indicação,Inglês Básico,35-44,Tarde,Sábado,7,0,0,3697.65,0
+795,Lucas da Rosa,Sampaio,Indicação,Inglês Básico,25-34,Manhã,Segunda-feira,6,2,0,4291.41,0
+796,Alexia da Luz,Monteiro,Instagram,Espanhol,25-34,Tarde,Terça-feira,3,1,1,4174.94,0
+797,Maria Cecília Sales,Costela,Indicação,Inglês Básico,,Noite,Segunda-feira,6,1,0,2129.3,0
+798,Bento Rios,da Rocha,Instagram,Inglês Intermediário,35-44,Manhã,Quarta-feira,6,1,0,2899.78,0
+799,Ravi Lucca das Neves,Rodrigues da Prata,Facebook Ads,Espanhol,,Tarde,Terça-feira,5,5,0,4703.09,0
+800,Nathan Rodrigues,Melo,Facebook Ads,Francês,35-44,Noite,Domingo,9,2,0,3115.76,0
+801,Luana Sales,Leão dos Dourados,Facebook Ads,Inglês Intermediário,35-44,Tarde,Quinta-feira,8,7,0,2988.42,0
+802,Juan Freitas,da Rocha,Instagram,Inglês Adulto,35-44,Tarde,Sábado,10,0,0,9970.89,0
+803,Hellena Câmara,Azevedo,Tráfego Orgânico,Inglês Intermediário,18-24,Noite,Terça-feira,7,3,1,2074.5,0
+804,Rhavi Cassiano,da Conceição,Google Ads,Inglês Teens,25-34,Manhã,Segunda-feira,11,2,1,,1
+805,Maria Fernanda Leão,Jesus Verde,Indicação,Inglês Básico,25-34,Manhã,Sexta-feira,7,2,0,1854.64,1
+806,Dra. Olivia Sá,Rezende Alegre,Indicação,Inglês Básico,35-44,,Sexta-feira,10,3,1,5017.3,1
+807,Helena Teixeira,Pastor de Rios,Facebook Ads,Inglês Adulto,45-54,Tarde,Quinta-feira,5,0,1,,1
+808,Bruno Moura,Marques de da Rosa,Instagram,Inglês Básico,25-34,Tarde,Sexta-feira,10,3,0,2643.39,0
+809,Vitória Santos,Vieira,Google Ads,Inglês Adulto,45-54,Manhã,Sábado,4,1,0,1791.67,0
+810,Sr. Daniel Araújo,Cavalcante Paulista,Evento Presencial,Inglês Intermediário,18-24,,Quinta-feira,9,1,1,,0
+811,Sofia Costa,Mendes,Indicação,Espanhol,25-34,Manhã,Domingo,5,3,0,2495.4,0
+812,Zoe Cassiano,da Paz do Norte,Indicação,Inglês Teens,18-24,Noite,Sexta-feira,7,2,0,4674.79,0
+813,Luan Moreira,Fogaça,Evento Presencial,Inglês Intermediário,35-44,Tarde,Quinta-feira,11,5,1,1934.92,0
+814,Bruna Rodrigues,Marques da Serra,Google Ads,Inglês Teens,18-24,Noite,Quarta-feira,4,0,0,3691.69,0
+815,Samuel Borges,Silva,Indicação,Inglês Básico,25-34,Manhã,Segunda-feira,8,3,1,1553.84,0
+816,Melissa Araújo,Cirino da Serra,Tráfego Orgânico,Inglês Intermediário,35-44,Manhã,Terça-feira,4,3,0,3077.52,0
+817,Caroline Moraes,Castro,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Sexta-feira,4,0,0,1862.44,0
+818,Mirella Nunes,Camargo,Google Ads,Espanhol,18-24,Noite,Sexta-feira,9,0,0,3353.06,0
+819,Ravi Rocha,Dias,Facebook Ads,Inglês Teens,18-24,Manhã,Terça-feira,7,2,0,2656.92,0
+820,Antônio Gonçalves,Macedo,Instagram,Espanhol,25-34,Tarde,Quinta-feira,4,1,1,1818.59,0
+821,Alexandre Souza,Freitas da Serra,Indicação,Espanhol,25-34,Tarde,Terça-feira,7,4,1,2436.06,0
+822,Brayan Aparecida,Novais,Google Ads,Francês,18-24,Manhã,Terça-feira,9,0,1,2093.79,0
+823,Manuella Sampaio,Rios,Instagram,Inglês Básico,35-44,Noite,Domingo,5,2,0,1699.11,0
+824,Vitor Hugo Araújo,Ferreira Grande,Facebook Ads,Espanhol,25-34,Manhã,Quarta-feira,5,2,0,6348.85,0
+825,Ravy Andrade,Machado da Prata,Tráfego Orgânico,Inglês Adulto,35-44,Tarde,Terça-feira,5,3,0,2871.02,0
+826,Nicolas Cirino,Nascimento,Indicação,Inglês Intermediário,25-34,Manhã,Quarta-feira,8,8,0,1042.41,0
+827,Otto Freitas,Campos do Sul,Google Ads,Inglês Adulto,18-24,Tarde,Quarta-feira,6,1,1,2484.22,0
+828,Melissa Garcia,Monteiro Grande,Instagram,Inglês Intermediário,18-24,Tarde,Sexta-feira,8,3,0,5788.39,0
+829,Anna Liz Rodrigues,Dias de Cassiano,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Domingo,8,4,0,,0
+830,Ágatha Carvalho,Sousa,Instagram,Inglês Básico,18-24,Tarde,Quinta-feira,8,2,0,7976.68,0
+831,Marcela Campos,Ramos da Mata,Facebook Ads,Inglês Básico,25-34,Noite,Quinta-feira,7,4,1,2184.96,0
+832,Vitor Gabriel Gonçalves,da Rocha de Sá,Google Ads,Inglês Intermediário,,,Quarta-feira,6,3,0,4616.5,0
+833,Carolina Siqueira,Nunes,Instagram,Espanhol,45-54,Noite,Quinta-feira,10,1,1,,0
+834,Alexandre Sá,Fernandes de Sales,Facebook Ads,Inglês Adulto,25-34,,Terça-feira,10,1,1,4483.35,0
+835,Kaique Martins,Siqueira,Facebook Ads,Inglês Adulto,,Tarde,Segunda-feira,10,1,1,1643.44,0
+836,Ísis Lima,Aparecida de Carvalho,Google Ads,Inglês Intermediário,35-44,Manhã,Sábado,5,0,0,2084.24,0
+837,Maria Helena da Conceição,das Neves,Tráfego Orgânico,Inglês Intermediário,,Tarde,Quarta-feira,9,2,0,,0
+838,Raul Ferreira,Guerra,Evento Presencial,Inglês Básico,,Noite,Quarta-feira,4,3,0,2248.42,0
+839,João Guilherme Correia,Machado,Google Ads,Inglês Teens,25-34,Noite,Segunda-feira,10,4,1,5985.77,0
+840,Srta. Ana Beatriz Ribeiro,Borges Alegre,Google Ads,Inglês Básico,25-34,Noite,Sábado,5,2,1,2762.42,0
+841,Allana da Costa,Pereira,Indicação,Inglês Teens,18-24,Noite,Terça-feira,11,1,1,3783.14,0
+842,Bernardo Brito,Pacheco,Tráfego Orgânico,Inglês Teens,25-34,Manhã,Quarta-feira,11,1,0,1632.98,0
+843,Ana Beatriz Machado,Viana,Google Ads,Inglês Adulto,45-54,Manhã,Sábado,5,1,0,2504.82,0
+844,Ana Julia da Cruz,Costa do Sul,Google Ads,Espanhol,45-54,Noite,Quarta-feira,5,2,1,2162.67,0
+845,Srta. Maria Liz Macedo,Nascimento,Indicação,Inglês Básico,18-24,,Domingo,9,2,0,3962.37,0
+846,Vitor Hugo Cunha,Rocha de Rios,Tráfego Orgânico,Espanhol,25-34,Manhã,Terça-feira,8,2,0,3684.08,0
+847,Davi Miguel Montenegro,Moraes,Instagram,Inglês Teens,25-34,Noite,Sexta-feira,6,0,1,4514.17,0
+848,Igor Siqueira,Correia do Amparo,Facebook Ads,Inglês Teens,25-34,Noite,Domingo,1,1,0,2672.4,0
+849,Luiza Oliveira,Pereira do Galho,Indicação,Inglês Adulto,35-44,Noite,Quinta-feira,7,2,0,2098.32,0
+850,Luna da Costa,Rios,Evento Presencial,Inglês Teens,18-24,Tarde,Sexta-feira,9,2,0,3870.04,1
+851,Diego Ribeiro,Gonçalves Grande,Instagram,Francês,,Noite,Quarta-feira,6,2,0,,0
+852,Hellena Jesus,Freitas das Flores,Instagram,Inglês Intermediário,55+,Manhã,Sexta-feira,12,1,1,6333.77,0
+853,João Guilherme Araújo,Albuquerque da Mata,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Sábado,6,2,0,3286.34,0
+854,Emanuella Pires,Ferreira da Mata,Evento Presencial,Inglês Teens,35-44,Tarde,Sexta-feira,7,0,0,,0
+855,Mariane Novais,Novais de Borges,Instagram,Inglês Intermediário,25-34,Noite,Domingo,3,0,0,4512.99,0
+856,Ana Julia Ferreira,Siqueira,Google Ads,Espanhol,25-34,Noite,Quinta-feira,11,0,0,3356.04,0
+857,Maria Helena Viana,Sousa de Leão,Facebook Ads,Inglês Intermediário,18-24,Noite,Quinta-feira,6,3,1,1406.12,0
+858,Luiza Sampaio,da Paz de Castro,Tráfego Orgânico,Inglês Adulto,35-44,Manhã,Terça-feira,9,1,1,1952.24,0
+859,Maria Luísa Cassiano,Siqueira das Pedras,Instagram,Inglês Básico,18-24,Tarde,Sexta-feira,4,1,0,6262.02,0
+860,Marcos Vinicius Cirino,Pastor,Google Ads,Inglês Básico,45-54,Manhã,Sábado,7,1,0,3665.26,1
+861,Olívia da Costa,Casa Grande,Facebook Ads,Inglês Teens,25-34,Noite,Quinta-feira,8,4,0,1388.05,0
+862,Kaique Santos,da Rosa,Facebook Ads,Inglês Intermediário,25-34,Manhã,Terça-feira,7,3,0,4247.9,0
+863,Ravi Araújo,Moura de Farias,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Quinta-feira,7,1,0,2573.25,0
+864,Maria Sophia Leão,Pastor,Google Ads,Inglês Básico,55+,Noite,Sexta-feira,8,1,1,2163.63,0
+865,Vitória Carvalho,Borges do Sul,Indicação,Inglês Intermediário,18-24,Tarde,Domingo,8,3,0,,0
+866,Isabelly da Cunha,Porto Paulista,Evento Presencial,Inglês Teens,18-24,Noite,Segunda-feira,4,4,0,6066.15,0
+867,Lucas Ramos,Cavalcanti da Prata,Tráfego Orgânico,Espanhol,,Manhã,Segunda-feira,6,0,0,1187.37,0
+868,Rael Freitas,Santos de Nunes,Tráfego Orgânico,Inglês Básico,35-44,Noite,Quarta-feira,5,1,1,,1
+869,Vitor Gabriel Silveira,Costa,Indicação,Inglês Adulto,55+,Manhã,Segunda-feira,6,2,0,3739.05,0
+870,Benjamim da Mata,Garcia,Instagram,Inglês Intermediário,25-34,Manhã,Domingo,7,0,1,8338.33,0
+871,Ana Cecília Barbosa,Novaes do Amparo,Facebook Ads,Inglês Adulto,,Tarde,Quarta-feira,5,2,0,4746.39,0
+872,Henrique Mendes,da Rosa,Indicação,Inglês Intermediário,25-34,Manhã,Quinta-feira,9,1,1,2197.78,1
+873,Lucas Gabriel da Rosa,Monteiro da Prata,Evento Presencial,Inglês Intermediário,35-44,Noite,Terça-feira,5,3,1,,0
+874,Heitor Correia,Câmara de Alves,Instagram,Inglês Intermediário,18-24,Manhã,Quarta-feira,4,1,0,1661.04,0
+875,Srta. Pietra da Cruz,Cassiano,Facebook Ads,Inglês Adulto,25-34,Manhã,Domingo,10,1,0,4049.92,0
+876,Dra. Gabrielly Gonçalves,da Rosa do Amparo,Tráfego Orgânico,Inglês Adulto,35-44,,Quarta-feira,5,2,0,4577.0,0
+877,Yuri Duarte,Rezende,Instagram,Inglês Intermediário,25-34,Manhã,Segunda-feira,6,0,1,2155.77,0
+878,Mateus Martins,Leão da Serra,Instagram,Inglês Teens,25-34,Noite,Terça-feira,7,2,1,,0
+879,Maria Alice das Neves,Sales de Ramos,Facebook Ads,Inglês Teens,,Noite,Domingo,8,1,0,2638.27,0
+880,Luiz Miguel Moraes,Alves,Google Ads,Inglês Intermediário,55+,,Domingo,6,4,0,5129.93,0
+881,Nina Brito,Teixeira,Google Ads,Inglês Teens,25-34,Noite,Terça-feira,1,5,0,1272.5,0
+882,Sra. Luiza Costela,Monteiro de Minas,Facebook Ads,Espanhol,,Tarde,Quinta-feira,5,2,0,4208.05,0
+883,Dr. Noah Aparecida,Pacheco do Amparo,Evento Presencial,Inglês Básico,35-44,Tarde,Segunda-feira,9,2,1,2790.17,0
+884,Hellena Sousa,da Luz do Amparo,Google Ads,Inglês Adulto,25-34,,Quinta-feira,5,1,0,6587.01,0
+885,Antony da Luz,Freitas,Instagram,Inglês Básico,45-54,Noite,Segunda-feira,10,3,0,3416.35,0
+886,Maria Vitória da Rocha,da Luz,Instagram,Inglês Teens,25-34,Noite,Sexta-feira,6,2,1,6957.63,0
+887,Gael Henrique Farias,Pacheco,Instagram,Inglês Básico,35-44,Tarde,Domingo,9,0,1,4627.19,0
+888,Mateus Nunes,Casa Grande,Indicação,Inglês Adulto,18-24,Noite,Terça-feira,8,3,1,3262.96,0
+889,Theo Novaes,Martins Grande,Instagram,Inglês Básico,25-34,Tarde,Quarta-feira,6,2,0,5397.74,0
+890,Maitê da Cunha,Castro do Norte,Facebook Ads,Inglês Adulto,25-34,Noite,Segunda-feira,9,2,1,,0
+891,Rebeca Marques,Fonseca das Pedras,Instagram,Espanhol,25-34,Noite,Terça-feira,5,2,1,4537.22,0
+892,Luiz Gustavo Cavalcante,Aragão da Mata,Evento Presencial,Inglês Intermediário,45-54,Noite,Segunda-feira,7,0,0,992.03,0
+893,Yago Mendonça,Moura de Minas,Instagram,Espanhol,55+,Noite,Terça-feira,3,4,0,2038.79,0
+894,Vitor Hugo Ramos,Vargas,Indicação,Francês,18-24,Noite,Domingo,4,1,1,,1
+895,Vinicius Andrade,Teixeira,Tráfego Orgânico,Espanhol,25-34,Manhã,Segunda-feira,10,3,0,1754.16,0
+896,Benicio Teixeira,Peixoto,Tráfego Orgânico,Inglês Básico,25-34,Noite,Sábado,8,0,1,5686.62,0
+897,Noah Carvalho,Nogueira,Instagram,Inglês Teens,25-34,Noite,Segunda-feira,7,6,1,5161.94,0
+898,Isabel Azevedo,Dias da Mata,Instagram,Inglês Básico,25-34,Noite,Quinta-feira,8,1,1,2348.08,0
+899,Srta. Alexia Cunha,Rodrigues da Praia,Instagram,Inglês Intermediário,45-54,Tarde,Quarta-feira,10,1,1,1168.11,0
+900,Mirella Freitas,Nascimento,Google Ads,Espanhol,35-44,Noite,Domingo,10,1,1,2559.63,0
+901,Rodrigo Ribeiro,Casa Grande do Sul,Google Ads,Inglês Adulto,18-24,Manhã,Terça-feira,8,0,0,10975.56,0
+902,Allana Abreu,Moreira,Instagram,Inglês Adulto,25-34,Tarde,Terça-feira,9,2,0,,0
+903,Maria Sophia Albuquerque,Freitas do Amparo,Indicação,Inglês Intermediário,35-44,Tarde,Sexta-feira,10,2,1,2261.26,0
+904,Vinícius Silveira,Fernandes da Serra,Google Ads,Inglês Teens,25-34,Manhã,Sexta-feira,7,7,0,,0
+905,Vitor Gabriel da Paz,Cunha,Evento Presencial,Inglês Teens,18-24,Noite,Sexta-feira,7,2,1,6827.06,0
+906,Theodoro Sampaio,Montenegro,Facebook Ads,Inglês Intermediário,25-34,Manhã,Segunda-feira,10,3,1,3062.28,1
+907,Marina Cavalcanti,Correia,Google Ads,Espanhol,25-34,Noite,Terça-feira,7,2,0,2480.63,1
+908,Calebe Moura,Leão,Indicação,Inglês Básico,18-24,Noite,Sábado,7,2,1,7615.41,0
+909,Isaque Correia,Barbosa de Camargo,Instagram,Inglês Básico,35-44,Tarde,Quinta-feira,6,0,0,4813.79,0
+910,Valentina da Cunha,Almeida,Instagram,Inglês Adulto,25-34,Noite,Quinta-feira,10,2,1,2110.98,0
+911,Dr. Miguel Barros,Ferreira de das Neves,Tráfego Orgânico,Francês,35-44,Manhã,Terça-feira,4,1,0,1785.67,0
+912,Dr. Raul Nunes,Carvalho dos Dourados,Tráfego Orgânico,Inglês Básico,25-34,Noite,Terça-feira,1,0,0,,0
+913,Henry Gabriel da Rosa,Cavalcanti da Mata,Evento Presencial,Inglês Básico,45-54,,Domingo,5,4,1,3532.47,0
+914,Anna Liz Rezende,Souza,Evento Presencial,Inglês Básico,,Manhã,Sexta-feira,6,6,0,1492.99,1
+915,Ana Beatriz Borges,Câmara,Evento Presencial,Espanhol,18-24,Noite,Segunda-feira,5,1,0,1312.65,1
+916,Maria Helena Garcia,Sales,Evento Presencial,Inglês Básico,25-34,Tarde,Domingo,8,3,0,1894.47,0
+917,Olívia Araújo,Sales,Indicação,Inglês Adulto,25-34,Tarde,Quinta-feira,5,2,1,1770.12,0
+918,Alexia Sampaio,das Neves,Indicação,Francês,,Noite,Terça-feira,6,4,0,1135.89,1
+919,Bryan Monteiro,Costela,Instagram,Inglês Básico,35-44,Tarde,Quarta-feira,7,1,0,1911.78,0
+920,Luísa Nunes,Barros,Google Ads,Inglês Adulto,25-34,Noite,Sexta-feira,4,1,1,2111.23,0
+921,Vinícius Aparecida,Sales do Campo,Indicação,Inglês Adulto,18-24,Manhã,Quarta-feira,7,3,0,2713.63,0
+922,Heitor Sales,Almeida,Tráfego Orgânico,Inglês Teens,25-34,Tarde,Quinta-feira,8,2,0,8880.55,0
+923,Olívia da Mata,Sá de Lopes,Facebook Ads,Inglês Intermediário,35-44,Noite,Sexta-feira,6,1,1,3022.24,0
+924,Breno Rodrigues,Costa,Google Ads,Inglês Intermediário,45-54,Manhã,Terça-feira,9,0,0,,0
+925,Yago Nunes,Andrade,Instagram,Inglês Básico,35-44,Noite,Domingo,11,4,0,4631.37,0
+926,Ana Beatriz Cavalcanti,Melo,Instagram,Inglês Teens,35-44,Manhã,Quarta-feira,8,4,1,3071.72,0
+927,Sr. Gustavo Henrique Pastor,da Cunha,Instagram,Inglês Teens,35-44,Noite,Quarta-feira,5,0,0,,0
+928,Miguel Barbosa,Azevedo,Tráfego Orgânico,Inglês Básico,35-44,Noite,Sexta-feira,6,1,0,4084.1,0
+929,Enrico Nunes,Rios do Sul,Google Ads,Inglês Intermediário,25-34,Tarde,Quinta-feira,5,2,1,3744.12,0
+930,Mathias Rocha,Viana,Facebook Ads,Espanhol,35-44,Manhã,Quarta-feira,6,1,0,16027.71,0
+931,Luísa Gomes,Pereira,Instagram,Inglês Básico,35-44,,Quinta-feira,6,1,0,5776.99,0
+932,Srta. Anna Liz Montenegro,Pastor,Instagram,Inglês Básico,25-34,Noite,Sábado,9,2,1,1930.57,0
+933,Sra. Ana Júlia Brito,Cirino,Google Ads,Inglês Adulto,,Tarde,Sexta-feira,4,2,0,4290.42,0
+934,Isabel Barbosa,Alves de Minas,Tráfego Orgânico,Inglês Intermediário,25-34,Tarde,Sexta-feira,6,3,0,2264.4,0
+935,Dr. Luan Alves,Souza,Tráfego Orgânico,Inglês Básico,25-34,Noite,Terça-feira,6,1,1,4473.63,0
+936,Júlia Viana,Pacheco da Praia,Instagram,Inglês Intermediário,18-24,Tarde,Quarta-feira,6,3,0,1642.81,0
+937,Rebeca da Conceição,Castro do Galho,Evento Presencial,Inglês Básico,35-44,Tarde,Quinta-feira,7,3,0,1903.1,1
+938,Dr. Pedro Cirino,Montenegro,Indicação,Inglês Adulto,45-54,Tarde,Segunda-feira,9,2,0,4228.77,1
+939,Maria Helena Barros,Brito,Tráfego Orgânico,Inglês Teens,18-24,Manhã,Sexta-feira,10,1,1,6058.61,0
+940,Laís da Cruz,Moura,Indicação,Inglês Adulto,25-34,Noite,Terça-feira,6,1,1,,1
+941,Srta. Antonella da Mata,Silva,Instagram,Inglês Básico,18-24,Noite,Terça-feira,8,3,1,5598.66,0
+942,Mateus Silva,da Paz,Tráfego Orgânico,Inglês Teens,18-24,Noite,Terça-feira,8,3,0,4298.92,0
+943,Daniela Sousa,Sá,Instagram,Inglês Básico,,Noite,Terça-feira,6,1,1,3848.32,0
+944,Luiza Fonseca,Silveira,Google Ads,Inglês Teens,,Tarde,Terça-feira,9,1,1,,0
+945,Caleb Abreu,Cunha,Google Ads,Inglês Intermediário,25-34,Tarde,Quinta-feira,6,3,0,5473.48,0
+946,Pedro Miguel Fonseca,Fonseca de Sampaio,Instagram,Inglês Teens,25-34,Noite,Quinta-feira,9,1,0,6149.97,0
+947,Cauã Cardoso,Macedo,Facebook Ads,Inglês Básico,,Noite,Terça-feira,5,2,1,3380.59,0
+948,Francisco Lopes,Cirino,Tráfego Orgânico,Inglês Básico,25-34,Noite,Terça-feira,5,0,0,3282.0,0
+949,Sophie Jesus,Garcia das Pedras,Tráfego Orgânico,Inglês Intermediário,35-44,Tarde,Sexta-feira,5,3,1,,0
+950,Apollo Borges,Moraes,Instagram,Inglês Básico,25-34,Noite,Segunda-feira,11,4,0,3460.91,0
+951,Sr. Luan Gomes,Jesus,Google Ads,Inglês Básico,18-24,Noite,Quinta-feira,7,4,0,3648.77,0
+952,João Vitor Jesus,Teixeira,Instagram,Inglês Teens,35-44,Noite,Quinta-feira,5,1,1,4568.05,0
+953,Antonella Silveira,Campos dos Dourados,Instagram,Inglês Teens,18-24,Noite,Quinta-feira,2,1,1,3316.7,0
+954,Isabelly Oliveira,Moreira,Instagram,Inglês Básico,35-44,Tarde,Sábado,5,3,0,2229.05,0
+955,Eloá Rodrigues,Monteiro,Evento Presencial,Espanhol,25-34,Tarde,Quinta-feira,6,2,1,4308.73,1
+956,Eloá Carvalho,Santos da Mata,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Domingo,7,0,0,3426.19,0
+957,Kevin da Mata,Barros,Tráfego Orgânico,Espanhol,35-44,Tarde,Sábado,8,4,1,9640.76,0
+958,Clara Azevedo,Monteiro do Campo,Google Ads,Inglês Adulto,35-44,Noite,Terça-feira,6,4,0,5400.06,0
+959,Pedro Henrique da Mota,da Paz dos Dourados,Google Ads,Inglês Adulto,18-24,Tarde,Terça-feira,8,3,0,2522.49,0
+960,Letícia Mendes,Rodrigues dos Dourados,Google Ads,Inglês Adulto,35-44,Tarde,Quarta-feira,12,2,0,5226.52,0
+961,Luiz Miguel da Cunha,Novaes,Google Ads,Inglês Adulto,,,Quarta-feira,3,2,0,4145.77,0
+962,Thales Peixoto,da Rocha das Pedras,Google Ads,Espanhol,25-34,Noite,Quinta-feira,7,1,0,,0
+963,Fernanda Marques,Azevedo,Indicação,Inglês Básico,25-34,Tarde,Terça-feira,4,0,0,2622.99,0
+964,Davi Luiz da Rosa,Rocha de Freitas,Indicação,Inglês Intermediário,45-54,Manhã,Terça-feira,10,6,1,3882.72,0
+965,Miguel Farias,Albuquerque,Evento Presencial,Inglês Básico,18-24,Noite,Quarta-feira,11,0,0,3314.35,0
+966,Maria Helena Farias,Rocha de Caldeira,Google Ads,Espanhol,35-44,Tarde,Quinta-feira,6,2,0,3614.4,0
+967,Lívia Lopes,Macedo do Galho,Evento Presencial,Inglês Intermediário,35-44,Tarde,Sexta-feira,7,1,0,2150.94,0
+968,Catarina da Rosa,Campos,Instagram,Inglês Adulto,18-24,Manhã,Domingo,12,2,1,,1
+969,Sr. Rhavi Dias,Gonçalves,Google Ads,Inglês Teens,,,Terça-feira,2,3,0,4404.57,0
+970,Miguel Dias,Sales Verde,Instagram,Francês,35-44,Noite,Quarta-feira,6,6,0,7096.74,0
+971,Samuel Oliveira,Sousa,Instagram,Inglês Básico,,Noite,Domingo,8,4,1,3480.75,1
+972,Luan Garcia,Azevedo,Indicação,Inglês Teens,45-54,Manhã,Sexta-feira,8,0,0,2790.58,0
+973,Matteo Fonseca,Costa Alegre,Indicação,Espanhol,18-24,Noite,Quinta-feira,0,2,1,5402.57,1
+974,Guilherme Pastor,Peixoto,Evento Presencial,Inglês Básico,25-34,Noite,Quinta-feira,6,5,0,2261.32,0
+975,Emilly Rodrigues,Campos de Goiás,Instagram,Inglês Teens,45-54,Tarde,Segunda-feira,7,0,0,6356.67,0
+976,Amanda Siqueira,Silveira do Amparo,Facebook Ads,Inglês Intermediário,18-24,Manhã,Sábado,6,1,0,6349.18,0
+977,Giovanna Macedo,Teixeira Verde,Google Ads,Inglês Adulto,45-54,Tarde,Quinta-feira,7,0,1,6988.5,0
+978,Bernardo Vieira,Sá das Flores,Google Ads,Inglês Adulto,18-24,Noite,Quinta-feira,8,3,1,4305.55,1
+979,Sara Carvalho,Melo das Flores,Google Ads,Inglês Básico,25-34,Tarde,Quinta-feira,3,2,0,,0
+980,Liz da Costa,Moraes de da Mota,Instagram,Inglês Básico,18-24,Tarde,Quarta-feira,7,0,0,3716.63,0
+981,Eduardo Silva,Vargas,Evento Presencial,Inglês Básico,35-44,Noite,Terça-feira,7,1,0,4313.72,0
+982,Maria Flor Barbosa,Caldeira de Campos,Tráfego Orgânico,Inglês Básico,35-44,Noite,Sexta-feira,3,0,0,2572.0,0
+983,Pietra Pacheco,Mendonça do Amparo,Facebook Ads,Inglês Adulto,45-54,Noite,Quarta-feira,4,2,1,7286.16,0
+984,Yasmin Montenegro,Pires,Google Ads,Inglês Intermediário,55+,Noite,Segunda-feira,4,1,1,4815.35,1
+985,Sra. Ísis Andrade,Alves,Instagram,Inglês Básico,35-44,Manhã,Quarta-feira,4,2,1,2142.64,0
+986,Sr. Cauê Vargas,Sousa,Evento Presencial,Inglês Adulto,35-44,Noite,Sábado,3,1,1,9858.59,0
+987,Luiz Gustavo Cavalcante,Azevedo,Instagram,Inglês Adulto,,Tarde,Quarta-feira,12,1,1,3692.59,0
+988,Ana Clara Nunes,Rocha de Alves,Indicação,Inglês Adulto,45-54,Manhã,Quarta-feira,4,1,1,1917.47,0
+989,Maria Liz Sá,Garcia,Instagram,Espanhol,,Noite,Quinta-feira,9,3,0,2216.93,0
+990,Dr. Cauê Albuquerque,Cassiano da Mata,Tráfego Orgânico,Inglês Intermediário,45-54,Manhã,Sexta-feira,6,2,0,7933.1,0
+991,José Pedro Câmara,Teixeira,Facebook Ads,Inglês Teens,25-34,Manhã,Quinta-feira,8,3,0,9549.65,0
+992,Stella Novais,Ribeiro,Tráfego Orgânico,Inglês Básico,25-34,Noite,Sábado,3,2,0,6098.12,0
+993,Hellena Machado,Vieira de Martins,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Segunda-feira,6,3,0,7231.04,1
+994,Dr. Ravi Vargas,da Rocha,Instagram,Francês,25-34,Manhã,Sábado,9,2,0,6833.94,0
+995,Sarah Cassiano,Mendonça de Montenegro,Evento Presencial,Inglês Teens,25-34,,Sábado,6,3,0,4754.38,0
+996,Sr. Rodrigo Caldeira,Nogueira Alegre,Google Ads,Inglês Adulto,55+,Noite,Quinta-feira,7,0,0,,0
+997,Oliver Barros,Teixeira,Facebook Ads,Inglês Adulto,25-34,Noite,Quinta-feira,9,1,0,4710.0,0
+998,Diego Ferreira,Lopes,Indicação,Inglês Intermediário,18-24,Manhã,Terça-feira,8,7,0,5246.55,0
+999,Luigi Marques,Gomes,Evento Presencial,Inglês Adulto,25-34,Noite,Quarta-feira,1,3,0,2327.71,0
+1000,Vicente Mendes,Dias de Garcia,Instagram,Inglês Teens,25-34,Noite,Terça-feira,6,2,0,,0
+1001,Dr. Calebe Macedo,Marques de Andrade,Indicação,Francês,35-44,Manhã,Segunda-feira,9,2,1,7806.86,0
+1002,Dra. Milena Dias,Cavalcanti,Google Ads,Inglês Intermediário,45-54,Manhã,Domingo,6,6,1,3124.45,0
+1003,Kaique Aparecida,Santos da Serra,Indicação,Inglês Básico,55+,Manhã,Terça-feira,7,4,0,,0
+1004,Srta. Alícia Fernandes,Lopes de Carvalho,Instagram,Inglês Adulto,35-44,Tarde,Quinta-feira,5,1,0,4548.8,0
+1005,Bianca Rocha,Silva das Flores,Facebook Ads,Inglês Básico,35-44,Manhã,Terça-feira,7,4,0,2448.44,0
+1006,Joaquim Moreira,Teixeira de Camargo,Instagram,Inglês Básico,25-34,Noite,Quarta-feira,4,5,0,1696.41,0
+1007,Yuri Castro,Ribeiro de Novaes,Evento Presencial,Inglês Intermediário,45-54,Noite,Quarta-feira,7,2,0,,0
+1008,Dr. Ravi da Conceição,Melo de Novais,Instagram,Inglês Teens,25-34,Manhã,Terça-feira,8,4,1,2731.2,0
+1009,Ester Cirino,Montenegro,Facebook Ads,Inglês Básico,18-24,Noite,Quinta-feira,10,3,0,3535.69,0
+1010,Marina Gonçalves,Gonçalves,Google Ads,Inglês Básico,55+,Manhã,Domingo,7,2,0,2502.26,0
+1011,Gael Henrique Machado,Monteiro Verde,Facebook Ads,Inglês Básico,45-54,Manhã,Quarta-feira,7,0,1,7063.76,0
+1012,Mariane Gomes,Pimenta da Praia,Google Ads,Espanhol,25-34,Noite,Domingo,12,0,0,5595.76,0
+1013,Heitor Costela,Duarte do Norte,Google Ads,Inglês Adulto,35-44,Tarde,Quinta-feira,8,2,0,3065.95,0
+1014,Benício Oliveira,Pastor,Evento Presencial,Inglês Básico,25-34,Noite,Quinta-feira,5,3,0,1829.09,0
+1015,Vitor Gabriel Cirino,Cardoso,Instagram,Inglês Básico,,Tarde,Terça-feira,6,2,1,2892.01,0
+1016,Dr. Gael Henrique Marques,Ferreira Verde,Instagram,Inglês Adulto,25-34,Manhã,Segunda-feira,4,1,0,4789.12,0
+1017,João Rios,Teixeira,Facebook Ads,Inglês Básico,18-24,,Sábado,8,0,0,3882.63,0
+1018,Vitória Porto,Garcia do Campo,Tráfego Orgânico,Inglês Adulto,25-34,Manhã,Quinta-feira,5,1,1,3716.44,0
+1019,Dr. Matteo Pastor,Ferreira da Praia,Indicação,Inglês Intermediário,25-34,Noite,Quarta-feira,9,4,0,3932.19,0
+1020,Luiz Fernando Fogaça,Ferreira do Norte,Google Ads,Espanhol,25-34,,Sexta-feira,6,1,1,5312.7,0
+1021,Emanuella Rocha,da Cruz,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Terça-feira,8,0,0,3420.34,0
+1022,Sra. Antonella Rocha,Ramos,Facebook Ads,Inglês Adulto,55+,Tarde,Sexta-feira,9,1,0,4482.9,0
+1023,Levi Campos,Pastor de Minas,Evento Presencial,Inglês Básico,35-44,Noite,Terça-feira,5,4,0,,0
+1024,Leandro Camargo,das Neves,Google Ads,Francês,45-54,Noite,Sábado,10,2,1,14258.89,0
+1025,Marcelo Sales,Fernandes,Facebook Ads,Francês,18-24,Manhã,Terça-feira,6,0,0,2994.09,0
+1026,Thomas Gomes,Almeida,Instagram,Inglês Teens,35-44,Manhã,Segunda-feira,9,5,0,3914.7,0
+1027,Cecilia Oliveira,Andrade dos Dourados,Evento Presencial,Inglês Intermediário,45-54,Manhã,Sexta-feira,9,2,1,,1
+1028,Mariana Cirino,Nunes do Galho,Instagram,Inglês Básico,25-34,,Segunda-feira,8,3,0,2792.2,0
+1029,Zoe Sales,da Mata do Sul,Facebook Ads,Inglês Teens,18-24,Tarde,Domingo,7,3,1,3515.1,0
+1030,Emanuella Novais,Pastor de Almeida,Google Ads,Inglês Teens,25-34,Manhã,Quinta-feira,6,0,0,3491.68,0
+1031,Samuel da Paz,Garcia Verde,Google Ads,Inglês Básico,25-34,Tarde,Terça-feira,8,2,1,,0
+1032,Francisco Dias,Duarte Verde,Facebook Ads,Inglês Intermediário,25-34,Tarde,Terça-feira,1,1,1,4454.82,0
+1033,Ana Júlia Fogaça,Mendonça,Google Ads,Inglês Intermediário,25-34,Manhã,Sábado,4,1,1,1412.97,0
+1034,Ryan Carvalho,Sales,Evento Presencial,Inglês Teens,25-34,Noite,Quinta-feira,8,1,0,9177.48,0
+1035,Matheus Novais,Fernandes,Google Ads,Inglês Adulto,35-44,Noite,Sábado,5,2,1,5413.51,0
+1036,Sabrina Jesus,Montenegro de Teixeira,Facebook Ads,Inglês Adulto,,Tarde,Segunda-feira,6,1,1,4974.28,1
+1037,Rebeca Leão,Cavalcante da Mata,Instagram,Inglês Adulto,25-34,Tarde,Sábado,4,0,1,1346.64,0
+1038,Sra. Rebeca Cavalcante,Lopes do Oeste,Google Ads,Inglês Básico,35-44,Tarde,Quinta-feira,8,2,1,2263.41,0
+1039,Arthur Vieira,Porto de Viana,Google Ads,Inglês Intermediário,,Noite,Quinta-feira,5,5,0,7515.01,0
+1040,João Vitor Andrade,Nascimento,Indicação,Inglês Básico,25-34,Noite,Quarta-feira,7,0,0,,0
+1041,Henry Gabriel Nascimento,da Paz,Indicação,Inglês Teens,25-34,Tarde,Segunda-feira,6,1,0,,0
+1042,Enzo Gabriel Vasconcelos,Aragão da Mata,Facebook Ads,Inglês Intermediário,18-24,Noite,Domingo,9,2,0,6190.91,0
+1043,Sabrina Novaes,Câmara de Minas,Facebook Ads,Inglês Intermediário,25-34,Noite,Domingo,8,1,1,4671.59,0
+1044,Brenda Oliveira,Pastor,Facebook Ads,Inglês Básico,18-24,,Quarta-feira,3,1,1,,0
+1045,João Felipe Vasconcelos,da Mata de Minas,Indicação,Inglês Básico,25-34,Manhã,Domingo,6,1,0,6050.31,0
+1046,Maria Clara Nogueira,Lima de Costela,Instagram,Inglês Adulto,55+,Manhã,Segunda-feira,6,0,0,1909.99,0
+1047,Pedro Lucas Nogueira,Vieira de Minas,Instagram,Inglês Básico,45-54,Noite,Segunda-feira,7,5,1,1798.48,0
+1048,Otávio Caldeira,Montenegro da Mata,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Segunda-feira,5,2,0,1737.28,0
+1049,Dra. Isadora da Rosa,Ribeiro da Prata,Tráfego Orgânico,Inglês Teens,25-34,Noite,Quarta-feira,8,2,1,5985.92,0
+1050,Rael da Luz,Costa das Pedras,Instagram,Inglês Intermediário,25-34,Noite,Segunda-feira,3,4,1,3391.2,0
+1051,Sr. Pedro Lucas Campos,da Cunha do Galho,Facebook Ads,Inglês Intermediário,45-54,Tarde,Quarta-feira,5,7,0,3699.64,0
+1052,Gustavo Henrique Sousa,Rios de Teixeira,Indicação,Inglês Intermediário,45-54,Tarde,Segunda-feira,9,1,0,3470.47,0
+1053,Marcela Santos,Almeida,Instagram,Inglês Teens,,,Sexta-feira,7,2,1,1884.42,0
+1054,Mariane Cavalcante,Oliveira,Indicação,Inglês Intermediário,18-24,Tarde,Sábado,12,5,0,2420.23,0
+1055,Cecilia Viana,Cunha de Ribeiro,Instagram,Inglês Teens,25-34,Noite,Sexta-feira,7,1,1,,0
+1056,Gustavo Araújo,da Mata de Porto,Facebook Ads,Espanhol,45-54,Noite,Terça-feira,6,1,0,1615.85,0
+1057,Marcela Nascimento,Nunes do Norte,Evento Presencial,Inglês Adulto,45-54,Tarde,Sexta-feira,6,4,0,2652.35,0
+1058,Vitor Gabriel Cavalcante,Fonseca,Instagram,Inglês Intermediário,18-24,Noite,Terça-feira,6,2,0,1931.01,0
+1059,Dr. João Vitor Oliveira,Casa Grande de da Costa,Google Ads,Inglês Teens,,Tarde,Sexta-feira,7,8,1,4808.98,0
+1060,Théo Rocha,Souza,Facebook Ads,Inglês Intermediário,18-24,,Quinta-feira,8,1,1,,0
+1061,Davi Luiz Sá,Lopes das Pedras,Evento Presencial,Inglês Intermediário,,Manhã,Quarta-feira,13,2,1,1718.17,1
+1062,Ana Liz da Mota,Azevedo do Oeste,Facebook Ads,Inglês Adulto,45-54,Noite,Segunda-feira,2,3,0,2973.13,0
+1063,Carolina Sampaio,da Mata da Mata,Instagram,Inglês Intermediário,25-34,Noite,Sexta-feira,7,0,1,9714.27,0
+1064,Josué Casa Grande,da Cunha,Facebook Ads,Inglês Básico,18-24,Tarde,Domingo,6,4,0,2040.8,1
+1065,Sra. Isadora Teixeira,Guerra,Instagram,Inglês Intermediário,,Noite,Quinta-feira,2,4,1,4425.63,0
+1066,Maria Júlia Mendonça,Camargo,Evento Presencial,Inglês Básico,25-34,,Domingo,5,2,1,3709.14,0
+1067,João Felipe Pires,Correia,Instagram,Inglês Intermediário,45-54,Manhã,Domingo,6,1,0,6384.36,0
+1068,Maria Flor Machado,da Cruz,Facebook Ads,Inglês Adulto,25-34,Noite,Terça-feira,6,2,1,4117.6,0
+1069,Caleb Guerra,Martins do Amparo,Indicação,Espanhol,45-54,Noite,Sexta-feira,8,2,0,2760.88,1
+1070,Lara Sales,Lima do Norte,Google Ads,Inglês Básico,25-34,Noite,Quarta-feira,11,2,0,3630.91,0
+1071,Dr. Ryan Duarte,Castro,Tráfego Orgânico,Inglês Adulto,18-24,,Quarta-feira,4,1,0,3660.2,0
+1072,Agatha Vasconcelos,Carvalho do Sul,Facebook Ads,Inglês Intermediário,25-34,Noite,Segunda-feira,6,1,1,3327.86,0
+1073,Srta. Natália Porto,Vieira Paulista,Google Ads,Inglês Básico,18-24,Noite,Domingo,3,2,0,1694.27,0
+1074,Maria Alice Azevedo,Ramos,Evento Presencial,Inglês Básico,25-34,Noite,Sexta-feira,8,3,1,6934.17,0
+1075,Maria Laura Cunha,Silveira,Tráfego Orgânico,Inglês Básico,,Manhã,Terça-feira,8,3,0,6292.14,0
+1076,Hadassa Monteiro,Viana de Almeida,Instagram,Inglês Básico,,Manhã,Quarta-feira,6,1,1,1970.84,0
+1077,Lorenzo da Paz,Barros,Google Ads,Inglês Básico,18-24,Noite,Quarta-feira,8,3,0,2966.44,0
+1078,Sr. Ryan Viana,Pereira da Mata,Google Ads,Inglês Intermediário,18-24,,Sexta-feira,9,3,0,3092.46,0
+1079,Sr. Augusto Brito,Jesus,Facebook Ads,Inglês Adulto,18-24,Manhã,Sábado,8,2,1,1852.76,0
+1080,Natália Almeida,Rios de Minas,Instagram,Inglês Básico,45-54,Tarde,Terça-feira,10,0,0,1253.61,0
+1081,Emanuel Macedo,Silveira Grande,Instagram,Inglês Básico,55+,Noite,Quarta-feira,6,3,0,,0
+1082,Agatha Lima,Camargo,Evento Presencial,Inglês Básico,18-24,,Quinta-feira,7,3,0,2876.98,0
+1083,Davi Lucca Rezende,Moreira,Evento Presencial,Inglês Adulto,35-44,Noite,Quarta-feira,11,0,0,1584.21,0
+1084,Emanuel da Mota,Monteiro de Minas,Tráfego Orgânico,Inglês Intermediário,,Noite,Quarta-feira,5,3,1,,0
+1085,Luiz Miguel da Cunha,Peixoto,Evento Presencial,Inglês Adulto,55+,Noite,Segunda-feira,6,3,1,6634.84,1
+1086,Marcelo Rios,Vargas,Facebook Ads,Inglês Básico,25-34,Noite,Segunda-feira,6,4,1,5561.83,1
+1087,Eloah Aragão,Farias Verde,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Quarta-feira,10,1,1,3264.43,0
+1088,Lorena Silveira,Souza de Goiás,Tráfego Orgânico,Espanhol,25-34,Noite,Sábado,9,3,1,1271.93,0
+1089,Srta. Mariane Rezende,Cunha Grande,Google Ads,Inglês Básico,45-54,Manhã,Quarta-feira,4,3,0,,0
+1090,Calebe Abreu,Cavalcanti,Google Ads,Inglês Básico,35-44,Noite,Terça-feira,5,3,0,3793.46,0
+1091,Rhavi Barbosa,da Mota,Instagram,Inglês Básico,25-34,Tarde,Sexta-feira,7,2,1,4420.07,1
+1092,Henry Gabriel Moreira,Jesus de da Cunha,Facebook Ads,Francês,25-34,Noite,Domingo,10,2,0,10151.48,0
+1093,Melina Albuquerque,Mendonça,Instagram,Inglês Adulto,35-44,Noite,Quarta-feira,6,3,0,2223.58,0
+1094,Luigi Campos,Sampaio do Campo,Instagram,Inglês Adulto,45-54,Manhã,Segunda-feira,7,2,1,720.09,1
+1095,Caroline Mendes,Nogueira das Pedras,Google Ads,Francês,25-34,Noite,Sexta-feira,6,2,1,,1
+1096,Ian Gomes,Rodrigues de da Cruz,Google Ads,Inglês Básico,35-44,Manhã,Quarta-feira,7,4,1,4572.63,0
+1097,Cauã Caldeira,Viana Grande,Instagram,Francês,25-34,Tarde,Quinta-feira,5,4,0,3552.22,0
+1098,Dr. Kaique Carvalho,Melo da Praia,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Terça-feira,3,2,1,1793.49,0
+1099,Catarina Ramos,Almeida do Norte,Tráfego Orgânico,Inglês Adulto,,Tarde,Segunda-feira,5,3,0,1603.07,1
+1100,Cecília Azevedo,Sales,Instagram,Inglês Intermediário,35-44,Noite,Quarta-feira,3,1,0,2879.82,0
+1101,Alexia Pimenta,da Cunha,Indicação,Inglês Intermediário,55+,Noite,Sexta-feira,10,3,1,1763.69,0
+1102,Eloah Macedo,das Neves da Praia,Instagram,Espanhol,25-34,Tarde,Quarta-feira,8,1,1,4660.45,0
+1103,Sr. Dom Jesus,Nascimento,Tráfego Orgânico,Inglês Básico,25-34,Noite,Terça-feira,12,1,1,2791.22,0
+1104,Melina Cunha,Macedo,Tráfego Orgânico,Francês,25-34,Noite,Quarta-feira,5,5,1,2478.98,0
+1105,Carlos Eduardo Carvalho,Albuquerque das Flores,Indicação,Inglês Intermediário,18-24,Noite,Sexta-feira,5,1,1,,1
+1106,Matheus Ferreira,da Rosa de Minas,Tráfego Orgânico,Inglês Adulto,25-34,Manhã,Segunda-feira,6,3,0,4045.0,0
+1107,Luara Vieira,da Rosa,Indicação,Francês,18-24,Noite,Sexta-feira,3,1,0,3582.99,1
+1108,Josué da Mota,Castro,Instagram,Inglês Básico,25-34,Manhã,Quinta-feira,7,1,1,3911.18,0
+1109,Antonella da Cruz,Pires de Dias,Evento Presencial,Espanhol,18-24,Noite,Quarta-feira,4,3,1,3864.51,0
+1110,Larissa Vasconcelos,Vieira do Norte,Instagram,Inglês Adulto,25-34,,Domingo,6,0,0,,0
+1111,Srta. Liz Costela,Barros do Amparo,Instagram,Inglês Teens,35-44,Noite,Sábado,7,1,0,1982.86,0
+1112,Sophia Correia,Sousa de Jesus,Google Ads,Inglês Básico,25-34,Manhã,Terça-feira,8,1,0,2342.11,0
+1113,Sra. Laís Ramos,Silva das Pedras,Facebook Ads,Inglês Adulto,35-44,Manhã,Segunda-feira,5,1,0,2817.05,0
+1114,Isaque Monteiro,Castro,Evento Presencial,Inglês Adulto,45-54,,Terça-feira,6,2,1,10898.45,0
+1115,Brenda da Costa,Montenegro de Minas,Evento Presencial,Inglês Intermediário,35-44,Manhã,Terça-feira,8,1,0,1666.8,0
+1116,Ana Sophia Moura,Leão da Prata,Indicação,Inglês Básico,18-24,Tarde,Quinta-feira,7,2,0,2779.65,0
+1117,Luiz Miguel Dias,Marques do Sul,Indicação,Inglês Básico,25-34,Noite,Sábado,5,2,1,3694.37,0
+1118,Mathias Nunes,Ramos,Tráfego Orgânico,Espanhol,35-44,Noite,Sábado,6,0,0,2962.19,0
+1119,Maria Clara Nogueira,Pires,Instagram,Inglês Básico,25-34,Manhã,Terça-feira,7,0,0,6318.27,0
+1120,Emanuella Teixeira,Vieira de Ramos,Tráfego Orgânico,Inglês Teens,18-24,Tarde,Quarta-feira,6,1,0,2953.79,1
+1121,Ana Sophia Almeida,Abreu,Facebook Ads,Francês,25-34,Noite,Segunda-feira,7,4,0,3076.42,0
+1122,Ana Lívia Albuquerque,Costa da Mata,Indicação,Inglês Básico,25-34,Tarde,Quinta-feira,4,4,0,,1
+1123,Henrique Aparecida,Oliveira de Minas,Tráfego Orgânico,Inglês Básico,25-34,Manhã,Segunda-feira,7,1,0,9474.98,0
+1124,Miguel Montenegro,Castro,Instagram,Inglês Adulto,35-44,Manhã,Domingo,7,4,0,,0
+1125,Theodoro Vargas,Moreira,Google Ads,Inglês Básico,18-24,Tarde,Sábado,5,0,0,3246.58,0
+1126,Mariana Sampaio,Peixoto,Google Ads,Inglês Adulto,25-34,Noite,Terça-feira,7,1,0,,0
+1127,Antonella Porto,Vieira Alegre,Google Ads,Inglês Adulto,45-54,Tarde,Sexta-feira,6,1,0,3591.1,0
+1128,Zoe Pimenta,Mendes de Sousa,Facebook Ads,Inglês Adulto,25-34,Manhã,Quinta-feira,5,2,1,,0
+1129,João Lucas Barros,da Luz,Facebook Ads,Inglês Intermediário,35-44,Tarde,Sexta-feira,13,3,0,2196.18,0
+1130,Bruno Moraes,Rodrigues,Evento Presencial,Inglês Adulto,25-34,,Quarta-feira,7,0,0,5858.48,0
+1131,Eduardo Nascimento,da Paz do Oeste,Evento Presencial,Inglês Adulto,25-34,Tarde,Terça-feira,7,0,1,3921.2,1
+1132,Dr. Benício das Neves,Leão,Google Ads,Inglês Básico,45-54,Noite,Quinta-feira,5,3,0,3414.71,0
+1133,Sra. Isabella Araújo,Cirino das Flores,Indicação,Inglês Adulto,25-34,Noite,Segunda-feira,11,0,0,1739.56,0
+1134,Caio Lopes,Oliveira de Goiás,Facebook Ads,Espanhol,25-34,Manhã,Quinta-feira,3,4,1,3621.98,0
+1135,Rafael Pimenta,Almeida,Evento Presencial,Inglês Adulto,45-54,Tarde,Terça-feira,10,1,0,1235.53,0
+1136,Ana Laura das Neves,Borges,Instagram,Inglês Intermediário,35-44,Manhã,Sexta-feira,6,4,0,2541.76,0
+1137,Emanuella Campos,Costa de da Luz,Google Ads,Inglês Intermediário,35-44,Manhã,Sexta-feira,6,3,1,2567.82,1
+1138,Davi Miguel Sampaio,Aragão,Google Ads,Inglês Básico,18-24,Noite,Segunda-feira,6,2,1,4098.46,0
+1139,Enrico Monteiro,Pinto das Pedras,Indicação,Inglês Básico,18-24,Tarde,Quarta-feira,9,1,0,9842.21,0
+1140,Dr. Enzo Freitas,Cassiano de Minas,Facebook Ads,Inglês Básico,35-44,Noite,Sexta-feira,9,1,0,4793.75,0
+1141,João Felipe Siqueira,Cavalcante Verde,Instagram,Francês,25-34,Noite,Segunda-feira,7,1,0,7763.12,0
+1142,Arthur Farias,Albuquerque,Tráfego Orgânico,Inglês Básico,25-34,Manhã,Quinta-feira,3,0,1,4990.97,1
+1143,Júlia Moura,Vargas dos Dourados,Tráfego Orgânico,Inglês Teens,35-44,Noite,Quinta-feira,6,0,0,6498.31,0
+1144,João Silva,Campos de Câmara,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Quarta-feira,8,0,0,9719.97,0
+1145,Ana Vitória Monteiro,Correia,Google Ads,Inglês Básico,18-24,Tarde,Sábado,7,5,0,2340.24,0
+1146,Sophia Fonseca,da Paz do Amparo,Instagram,Inglês Intermediário,18-24,Noite,Quinta-feira,5,5,1,,0
+1147,Theo Nunes,Cardoso das Pedras,Facebook Ads,Inglês Intermediário,25-34,Manhã,Quinta-feira,8,1,0,5056.17,0
+1148,Léo Castro,Peixoto,Tráfego Orgânico,Inglês Teens,35-44,Noite,Segunda-feira,9,1,0,3492.93,0
+1149,Cauã Oliveira,da Paz,Google Ads,Francês,45-54,Noite,Segunda-feira,3,1,0,3950.96,0
+1150,Bruna da Conceição,Leão,Tráfego Orgânico,Espanhol,18-24,Tarde,Segunda-feira,11,3,1,3052.61,0
+1151,Dra. Agatha Aparecida,Jesus,Indicação,Inglês Básico,18-24,Noite,Sábado,7,3,0,2521.42,0
+1152,Joaquim Aparecida,Alves,Tráfego Orgânico,Inglês Teens,25-34,Manhã,Sábado,7,0,1,8535.07,0
+1153,Maria Clara Gomes,da Luz de Goiás,Indicação,Inglês Básico,25-34,Noite,Sexta-feira,8,4,0,1911.41,0
+1154,Felipe Andrade,da Cruz de Freitas,Instagram,Espanhol,25-34,Manhã,Terça-feira,14,5,0,,0
+1155,Mariah Câmara,Barros de Albuquerque,Google Ads,Inglês Adulto,45-54,Manhã,Quinta-feira,12,6,0,4669.67,0
+1156,Sr. Oliver Silveira,Carvalho de Duarte,Indicação,Inglês Intermediário,25-34,Tarde,Sexta-feira,10,1,0,1468.59,0
+1157,Dr. Breno Oliveira,Rodrigues do Oeste,Indicação,Inglês Básico,25-34,Noite,Quinta-feira,7,1,0,,0
+1158,Sr. Theodoro Rocha,Santos das Pedras,Indicação,Inglês Básico,55+,Manhã,Segunda-feira,9,2,1,2430.95,0
+1159,Felipe Câmara,Barbosa do Campo,Google Ads,Inglês Básico,18-24,Noite,Sábado,8,1,0,4774.48,0
+1160,Ana Clara Guerra,Aragão,Tráfego Orgânico,Espanhol,55+,Manhã,Segunda-feira,4,4,1,,0
+1161,Ravi Lucca da Paz,da Costa do Amparo,Indicação,Inglês Teens,25-34,Tarde,Terça-feira,3,4,0,3339.06,0
+1162,Luan Borges,Pereira do Norte,Facebook Ads,Francês,25-34,Tarde,Sábado,5,0,0,1569.97,0
+1163,Mirella Albuquerque,da Cunha,Tráfego Orgânico,Inglês Básico,45-54,Manhã,Quarta-feira,7,0,0,12578.82,0
+1164,Sr. João Vitor Nunes,da Rosa das Flores,Instagram,Inglês Adulto,25-34,Noite,Quarta-feira,11,2,0,3639.77,0
+1165,Joaquim Martins,Cardoso da Prata,Indicação,Inglês Básico,25-34,Tarde,Quinta-feira,6,1,0,4605.33,0
+1166,Dr. Gael Henrique Siqueira,Pacheco,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Domingo,7,0,1,2599.76,0
+1167,Isabelly Cassiano,da Luz,Tráfego Orgânico,Inglês Intermediário,,Noite,Segunda-feira,10,1,1,2444.44,0
+1168,Nicolas Alves,Montenegro,Google Ads,Inglês Básico,35-44,Tarde,Sexta-feira,3,1,1,10021.57,0
+1169,Vitor Hugo Ferreira,Fernandes de Martins,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Terça-feira,10,1,1,1219.65,0
+1170,Alexia Farias,Borges,Indicação,Inglês Básico,35-44,Noite,Segunda-feira,4,3,0,4079.68,1
+1171,Marcos Vinicius Sousa,Santos do Galho,Instagram,Inglês Intermediário,35-44,Noite,Quarta-feira,6,2,0,1797.57,0
+1172,Sra. Bella Costela,Casa Grande Paulista,Facebook Ads,Inglês Adulto,25-34,Tarde,Quinta-feira,6,2,0,2801.1,0
+1173,Isabela Leão,Dias,Instagram,Inglês Básico,18-24,Noite,Terça-feira,7,2,1,,0
+1174,Ana Liz Casa Grande,Cardoso,Tráfego Orgânico,Espanhol,25-34,Noite,Quarta-feira,3,4,0,2034.96,0
+1175,Sra. Ayla Aparecida,da Mota de Souza,Google Ads,Inglês Adulto,18-24,Tarde,Quinta-feira,9,2,0,3568.89,0
+1176,Vicente Jesus,Lopes da Mata,Tráfego Orgânico,Inglês Teens,18-24,Noite,Quinta-feira,11,2,1,852.44,1
+1177,Sra. Natália Souza,Pimenta Paulista,Google Ads,Inglês Adulto,25-34,Tarde,Sexta-feira,7,4,0,,0
+1178,Calebe Montenegro,Lopes da Serra,Instagram,Inglês Teens,18-24,Noite,Sábado,7,1,1,3330.44,0
+1179,Matteo Barbosa,Sousa do Amparo,Instagram,Inglês Teens,25-34,Noite,Quarta-feira,9,1,0,,0
+1180,Ana Liz Lopes,Novais,Instagram,Espanhol,35-44,Noite,Quarta-feira,10,1,1,8044.86,0
+1181,Caroline da Costa,Aragão de Correia,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Quarta-feira,11,0,1,2523.91,1
+1182,José Pedro Dias,Aragão,Indicação,Inglês Básico,,Noite,Quinta-feira,6,2,1,3071.44,1
+1183,Lunna Dias,Cirino,Indicação,Inglês Básico,45-54,Noite,Segunda-feira,11,0,0,2527.02,0
+1184,Júlia da Conceição,Melo,Instagram,Inglês Adulto,35-44,Manhã,Terça-feira,4,3,0,,0
+1185,Guilherme Carvalho,Castro dos Dourados,Instagram,Inglês Básico,55+,Tarde,Terça-feira,5,0,0,7186.77,0
+1186,Bianca Cassiano,Camargo do Amparo,Tráfego Orgânico,Inglês Básico,45-54,Tarde,Quarta-feira,11,2,0,13638.84,0
+1187,Enzo Machado,Macedo,Instagram,Inglês Básico,,Manhã,Domingo,3,0,0,5274.4,0
+1188,Luara Jesus,Santos da Prata,Evento Presencial,Inglês Adulto,35-44,Noite,Quinta-feira,5,1,0,,0
+1189,Vitor Gabriel Fogaça,Marques de Monteiro,Indicação,Inglês Básico,18-24,Noite,Quarta-feira,5,1,0,8996.16,0
+1190,Rael das Neves,Silveira,Facebook Ads,Inglês Adulto,35-44,Tarde,Quinta-feira,6,7,0,4013.41,0
+1191,Julia Campos,Campos,Google Ads,Inglês Teens,25-34,Tarde,Quinta-feira,12,4,1,8301.21,0
+1192,Emanuel Rodrigues,Borges do Oeste,Instagram,Inglês Teens,18-24,Noite,Quarta-feira,8,1,0,5411.81,0
+1193,Asafe Cunha,Cirino da Serra,Tráfego Orgânico,Inglês Intermediário,25-34,,Quarta-feira,0,3,0,3788.45,0
+1194,Sr. Caleb Silva,Nunes Verde,Evento Presencial,Inglês Adulto,55+,Noite,Sexta-feira,5,6,0,4243.76,0
+1195,Luiz Henrique Gonçalves,Pacheco,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Segunda-feira,6,1,0,1285.29,0
+1196,Ana Julia Rocha,Moura,Instagram,Inglês Intermediário,,Tarde,Quinta-feira,7,1,1,4110.02,1
+1197,José Pedro Cavalcanti,Leão,Instagram,Inglês Adulto,18-24,Manhã,Quinta-feira,9,0,0,1497.36,0
+1198,Nathan Machado,da Cruz,Facebook Ads,Inglês Básico,25-34,Tarde,Sexta-feira,10,2,1,1431.7,0
+1199,Isadora Brito,Rocha de Brito,Instagram,Francês,45-54,Manhã,Domingo,5,3,1,3891.7,0
+1200,Bella Vieira,Alves da Mata,Facebook Ads,Inglês Básico,35-44,Tarde,Sexta-feira,4,2,1,1896.52,0
+1201,Davi Albuquerque,Gonçalves,Google Ads,Inglês Teens,25-34,Manhã,Quarta-feira,7,5,1,,0
+1202,Henry Cardoso,Pastor do Campo,Google Ads,Inglês Adulto,25-34,Manhã,Segunda-feira,8,4,1,3776.89,0
+1203,Murilo Freitas,Cassiano do Sul,Tráfego Orgânico,Inglês Básico,18-24,Tarde,Quinta-feira,6,2,0,3870.72,0
+1204,Antonella Pacheco,Marques,Facebook Ads,Inglês Teens,25-34,Manhã,Sábado,8,2,0,2128.67,0
+1205,Joana Barbosa,Marques de Pires,Indicação,Inglês Básico,45-54,Noite,Domingo,8,1,1,5737.58,1
+1206,Benício Costa,Peixoto do Sul,Indicação,Inglês Teens,35-44,Manhã,Sexta-feira,6,1,1,3332.37,0
+1207,Melina Cardoso,Aparecida dos Dourados,Facebook Ads,Inglês Adulto,,Noite,Terça-feira,5,3,0,4460.92,0
+1208,Lucas Campos,Siqueira Verde,Google Ads,Inglês Básico,35-44,Manhã,Sexta-feira,6,0,0,1812.53,0
+1209,Ravi Aragão,Cunha,Instagram,Inglês Básico,25-34,Manhã,Sábado,7,2,0,3173.02,0
+1210,Pedro Silveira,Ramos,Google Ads,Inglês Teens,35-44,Manhã,Sexta-feira,9,1,0,6399.85,0
+1211,Sara Alves,Duarte do Norte,Tráfego Orgânico,Inglês Básico,25-34,Noite,Sexta-feira,3,5,0,5967.69,0
+1212,Mariane Cavalcanti,Novaes,Tráfego Orgânico,Espanhol,35-44,Tarde,Quarta-feira,5,2,0,,0
+1213,Sr. Francisco da Mota,Borges das Flores,Google Ads,Inglês Teens,25-34,Tarde,Quinta-feira,6,3,0,2592.72,0
+1214,Pietro Cassiano,Cavalcanti de Goiás,Instagram,Inglês Adulto,55+,Manhã,Terça-feira,7,1,1,,0
+1215,Joaquim Ramos,Borges do Sul,Instagram,Inglês Básico,25-34,,Segunda-feira,3,2,1,2439.36,0
+1216,Theo Jesus,Castro,Google Ads,Inglês Teens,,Manhã,Sexta-feira,7,1,1,1621.38,0
+1217,Pietra Araújo,Vasconcelos das Flores,Instagram,Espanhol,25-34,Tarde,Domingo,10,0,0,3243.87,0
+1218,João Lucas Gomes,Ramos Grande,Google Ads,Inglês Básico,25-34,Noite,Sábado,6,0,0,4957.93,0
+1219,Otto Costa,da Rosa,Facebook Ads,Inglês Intermediário,25-34,Manhã,Terça-feira,5,0,0,2272.73,0
+1220,Valentina da Cruz,Lopes de Sousa,Indicação,Inglês Básico,35-44,Tarde,Segunda-feira,4,0,1,,0
+1221,Ísis Vieira,Rodrigues Grande,Indicação,Inglês Intermediário,35-44,Noite,Terça-feira,4,3,1,3100.27,1
+1222,Mateus Viana,Rios do Campo,Instagram,Inglês Teens,25-34,Tarde,Sábado,7,1,1,6253.11,0
+1223,Sra. Pietra Nogueira,Moraes do Oeste,Tráfego Orgânico,Inglês Intermediário,35-44,Manhã,Quinta-feira,6,1,1,2500.24,1
+1224,Manuella Nunes,Machado de Gomes,Facebook Ads,Inglês Adulto,35-44,Tarde,Domingo,5,3,1,2550.77,0
+1225,Luna Gomes,da Mata de Nunes,Instagram,Inglês Intermediário,,Manhã,Quarta-feira,6,5,1,2197.79,0
+1226,Fernando Alves,Borges das Pedras,Tráfego Orgânico,Inglês Básico,25-34,Noite,Quinta-feira,6,0,1,1872.23,0
+1227,Sr. Arthur Vasconcelos,Pimenta da Serra,Google Ads,Inglês Básico,18-24,,Sexta-feira,4,3,1,4682.42,0
+1228,Benjamin Melo,Pires das Pedras,Google Ads,Espanhol,25-34,Noite,Terça-feira,10,3,0,3249.34,1
+1229,Maria Alice Vargas,Aparecida,Evento Presencial,Inglês Adulto,35-44,Manhã,Domingo,10,2,0,3607.12,0
+1230,Isabel Castro,Martins de Goiás,Indicação,Inglês Intermediário,,Noite,Quinta-feira,1,3,0,7055.56,1
+1231,Josué Ribeiro,Monteiro,Instagram,Inglês Teens,,Noite,Segunda-feira,6,1,0,7282.01,0
+1232,João Felipe Nascimento,da Rocha,Google Ads,Inglês Básico,,,Segunda-feira,7,2,1,1415.29,0
+1233,Srta. Hellena Oliveira,Lopes de Barros,Instagram,Inglês Básico,35-44,Noite,Sábado,7,3,0,4998.17,0
+1234,Maria Cavalcanti,da Rosa de Cassiano,Facebook Ads,Inglês Básico,35-44,Noite,Quinta-feira,7,1,0,3962.47,0
+1235,Isaac Pastor,Rodrigues,Instagram,Francês,25-34,,Sexta-feira,3,0,1,2715.26,0
+1236,Dr. Arthur Santos,da Cruz do Galho,Indicação,Inglês Teens,,Tarde,Sexta-feira,7,1,0,4191.21,0
+1237,Sra. Cecília Nunes,da Rocha Verde,Instagram,Inglês Adulto,,Manhã,Quarta-feira,5,1,1,1354.26,0
+1238,Thales Nogueira,Novaes,Google Ads,Inglês Básico,18-24,Noite,Sexta-feira,9,1,0,7824.16,0
+1239,Erick Mendonça,Aparecida,Instagram,Inglês Básico,18-24,Noite,Domingo,9,3,0,4645.89,0
+1240,Caleb Araújo,Moraes,Indicação,Inglês Adulto,18-24,Tarde,Terça-feira,10,0,0,2174.73,0
+1241,Henry Almeida,Jesus do Campo,Tráfego Orgânico,Inglês Intermediário,45-54,Manhã,Sexta-feira,3,2,0,2536.51,0
+1242,Pietra Abreu,Ribeiro de Silveira,Instagram,Espanhol,25-34,Noite,Terça-feira,4,4,0,,0
+1243,Sr. Davi Lucca Fernandes,Fogaça Paulista,Instagram,Inglês Teens,25-34,Manhã,Terça-feira,11,3,0,2944.93,0
+1244,Srta. Luna Araújo,Vargas,Indicação,Inglês Intermediário,25-34,Tarde,Quarta-feira,10,2,0,2683.87,0
+1245,Diogo Pastor,Camargo,Instagram,Inglês Teens,25-34,Noite,Sábado,11,1,0,1688.69,0
+1246,Srta. Brenda Moura,Cavalcanti de Viana,Instagram,Francês,25-34,Manhã,Segunda-feira,4,3,1,,0
+1247,Sr. Marcelo Santos,Gonçalves,Facebook Ads,Inglês Intermediário,18-24,Manhã,Quarta-feira,11,0,0,7063.93,0
+1248,Maria Laura Pastor,Barros,Instagram,Inglês Adulto,35-44,Manhã,Sexta-feira,8,4,0,3447.73,0
+1249,Lucca da Rosa,Santos da Mata,Tráfego Orgânico,Espanhol,18-24,Noite,Segunda-feira,8,2,0,2958.43,0
+1250,Sr. Emanuel Siqueira,Pastor dos Dourados,Evento Presencial,Inglês Básico,35-44,Tarde,Sexta-feira,6,3,1,4446.0,1
+1251,Raquel Rezende,Pinto de da Luz,Indicação,Espanhol,,Noite,Domingo,3,3,1,3462.4,1
+1252,Sr. Luiz Henrique Câmara,Cirino do Oeste,Indicação,Inglês Básico,35-44,Noite,Segunda-feira,7,3,1,1930.09,1
+1253,Emanuella Garcia,Barros,Indicação,Inglês Adulto,45-54,Noite,Segunda-feira,9,1,1,2444.38,1
+1254,Juan Cardoso,Rocha do Campo,Facebook Ads,Inglês Teens,,Tarde,Domingo,5,3,0,,0
+1255,Alexandre Sampaio,Nascimento do Sul,Indicação,Inglês Adulto,18-24,Tarde,Terça-feira,6,4,1,4011.9,0
+1256,Maria Júlia Vargas,Gonçalves,Tráfego Orgânico,Inglês Intermediário,55+,Tarde,Segunda-feira,4,0,0,3518.02,0
+1257,Ana Beatriz Cirino,Albuquerque,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Domingo,5,1,1,3929.32,1
+1258,Luiza Pimenta,Rezende,Tráfego Orgânico,Inglês Básico,35-44,Noite,Sábado,7,2,0,1513.02,0
+1259,Cauã Monteiro,Marques de Sales,Google Ads,Inglês Básico,18-24,Noite,Quinta-feira,6,1,0,,0
+1260,Lucas Souza,Ribeiro do Amparo,Evento Presencial,Inglês Básico,25-34,Tarde,Quinta-feira,7,4,1,3506.58,0
+1261,Isaac Ferreira,Pinto da Praia,Indicação,Inglês Adulto,25-34,Tarde,Sábado,3,7,1,14249.94,0
+1262,Sr. Caio Santos,da Rosa de Minas,Google Ads,Inglês Intermediário,45-54,Noite,Quinta-feira,7,2,1,2827.98,1
+1263,Lívia Machado,Carvalho,Instagram,Inglês Básico,25-34,Manhã,Quinta-feira,8,0,0,,0
+1264,João Costela,Correia,Evento Presencial,Espanhol,35-44,Noite,Sábado,7,5,0,16590.55,0
+1265,Bernardo Ferreira,Almeida,Google Ads,Inglês Intermediário,35-44,Tarde,Quinta-feira,9,2,0,3894.3,0
+1266,Cauê Silveira,Alves,Tráfego Orgânico,Inglês Intermediário,18-24,,Quarta-feira,7,1,0,3372.2,0
+1267,Benicio Gomes,Mendes,Instagram,Inglês Intermediário,25-34,Noite,Quarta-feira,10,4,0,2033.9,0
+1268,Mariah Cavalcante,Rezende,Evento Presencial,Inglês Básico,25-34,Tarde,Quarta-feira,6,4,0,8111.72,1
+1269,Sabrina Garcia,Lopes,Google Ads,Inglês Teens,25-34,Manhã,Quinta-feira,8,2,1,1850.13,0
+1270,Dr. Carlos Eduardo Mendes,Borges,Google Ads,Inglês Intermediário,35-44,Noite,Quarta-feira,2,1,0,,0
+1271,Heloisa Castro,Vargas dos Dourados,Evento Presencial,Inglês Básico,,Tarde,Quarta-feira,4,0,1,2697.45,1
+1272,Ana Sophia Andrade,Melo,Instagram,Francês,25-34,Tarde,Sexta-feira,6,2,1,3153.86,0
+1273,Antônio Dias,Almeida do Campo,Instagram,Inglês Teens,35-44,Tarde,Quarta-feira,10,0,0,1599.35,0
+1274,Cauã Barbosa,Cassiano,Google Ads,Inglês Teens,35-44,Tarde,Segunda-feira,5,3,0,7326.39,0
+1275,Sr. Marcos Vinicius Castro,Mendonça de Melo,Indicação,Espanhol,25-34,Noite,Terça-feira,12,1,0,3004.09,1
+1276,Srta. Ayla Fernandes,Machado,Instagram,Espanhol,35-44,Manhã,Terça-feira,3,1,0,1794.03,0
+1277,Rafaela Santos,Costa,Instagram,Inglês Intermediário,25-34,Tarde,Sexta-feira,12,1,1,6970.89,0
+1278,Pedro Rezende,Nunes das Flores,Indicação,Inglês Adulto,35-44,Noite,Quarta-feira,6,2,0,,1
+1279,Pedro Henrique Castro,Farias,Tráfego Orgânico,Inglês Adulto,25-34,Manhã,Terça-feira,7,4,0,4207.2,0
+1280,Carlos Eduardo Farias,Caldeira,Google Ads,Inglês Básico,25-34,Tarde,Sexta-feira,11,3,1,5559.69,0
+1281,Gabriel Jesus,Leão do Amparo,Instagram,Inglês Básico,18-24,,Segunda-feira,5,1,1,4542.52,0
+1282,Dra. Ágatha da Luz,Andrade do Amparo,Google Ads,Inglês Básico,35-44,Noite,Terça-feira,4,3,1,1045.62,0
+1283,Larissa da Rosa,Mendonça do Galho,Google Ads,Inglês Adulto,35-44,Noite,Sexta-feira,4,5,0,5130.53,0
+1284,Calebe Aragão,da Conceição de Silva,Facebook Ads,Inglês Teens,25-34,Noite,Quinta-feira,10,0,1,3311.58,1
+1285,Rebeca Cassiano,Moura,Evento Presencial,Inglês Teens,45-54,Manhã,Sexta-feira,3,3,0,2920.62,1
+1286,Luiz Miguel Abreu,Lima,Evento Presencial,Inglês Intermediário,,Tarde,Sábado,4,0,0,3296.2,0
+1287,Aurora da Rocha,Novaes de Minas,Instagram,Inglês Básico,18-24,Noite,Domingo,11,1,1,1443.75,0
+1288,Pietra Costa,Ramos das Pedras,Instagram,Inglês Intermediário,,Noite,Segunda-feira,5,2,1,3890.19,0
+1289,Apollo Costela,Camargo de Monteiro,Google Ads,Inglês Adulto,25-34,Noite,Sexta-feira,8,4,0,1652.6,0
+1290,João Vitor Barros,Machado das Pedras,Google Ads,Espanhol,55+,,Sexta-feira,6,4,0,2990.83,1
+1291,Bruna das Neves,Castro,Google Ads,Espanhol,25-34,Tarde,Terça-feira,8,1,0,3814.11,0
+1292,Olivia Mendonça,Silveira do Oeste,Facebook Ads,Espanhol,25-34,Manhã,Domingo,8,3,1,6318.51,0
+1293,Julia Borges,Ferreira de Macedo,Google Ads,Espanhol,25-34,Noite,Quarta-feira,8,3,1,2229.94,0
+1294,Ísis Gomes,Montenegro,Instagram,Francês,25-34,Noite,Sábado,5,2,0,7776.73,0
+1295,Léo Garcia,Pastor,Instagram,Inglês Intermediário,35-44,Tarde,Quinta-feira,4,0,0,5891.63,0
+1296,Sr. Pietro Aparecida,Pereira dos Dourados,Instagram,Inglês Básico,25-34,Tarde,Quinta-feira,10,1,1,2763.75,0
+1297,Pedro Lucas Martins,da Rocha,Indicação,Inglês Básico,25-34,Tarde,Segunda-feira,5,1,1,1902.09,1
+1298,Henry Gabriel da Mata,Leão da Praia,Instagram,Inglês Intermediário,25-34,Manhã,Sábado,11,1,0,1581.96,0
+1299,Ana Liz Cassiano,Castro de Pinto,Facebook Ads,Inglês Básico,45-54,Noite,Quinta-feira,7,0,0,4064.24,0
+1300,Dra. Aylla Barros,da Paz,Instagram,Inglês Básico,35-44,Noite,Segunda-feira,5,1,1,2333.24,0
+1301,Manuella Nogueira,Rios,Instagram,Francês,25-34,Manhã,Segunda-feira,9,2,0,6769.38,0
+1302,Heloísa Novaes,Cardoso de Cavalcanti,Google Ads,Inglês Básico,25-34,Noite,Sexta-feira,7,2,1,2408.55,0
+1303,Mathias Moreira,Castro,Tráfego Orgânico,Francês,18-24,Noite,Segunda-feira,10,0,0,2132.71,0
+1304,Zoe Rodrigues,Brito de Vieira,Instagram,Inglês Teens,45-54,Manhã,Quinta-feira,4,0,0,3979.9,0
+1305,Isabela Melo,Monteiro da Mata,Tráfego Orgânico,Inglês Adulto,35-44,Tarde,Sexta-feira,3,3,1,2399.92,0
+1306,Bruno Gonçalves,Costela,Evento Presencial,Inglês Adulto,35-44,Tarde,Terça-feira,8,3,1,3516.5,1
+1307,Srta. Sarah Oliveira,Almeida,Google Ads,Inglês Intermediário,45-54,Manhã,Quinta-feira,10,1,0,6019.82,0
+1308,Clara Campos,da Luz da Praia,Facebook Ads,Inglês Adulto,,Tarde,Terça-feira,7,0,0,3733.1,0
+1309,Emanuella Cavalcante,Cavalcanti,Indicação,Inglês Básico,35-44,Noite,Domingo,4,2,1,3740.78,1
+1310,Gael Cardoso,Azevedo,Evento Presencial,Espanhol,25-34,,Sábado,7,3,0,3918.05,0
+1311,Otávio Barros,Lopes do Campo,Instagram,Inglês Intermediário,18-24,Manhã,Terça-feira,7,1,0,1379.28,0
+1312,Maya Costa,Campos,Evento Presencial,Inglês Básico,,Noite,Quinta-feira,11,3,0,4341.73,1
+1313,Clara Peixoto,Mendonça,Google Ads,Inglês Teens,25-34,Tarde,Quarta-feira,8,2,1,3821.81,0
+1314,Liam Siqueira,Fernandes da Praia,Indicação,Inglês Adulto,55+,Noite,Domingo,1,4,1,5719.36,1
+1315,Caio Gomes,Vargas,Indicação,Inglês Intermediário,25-34,Noite,Quarta-feira,10,0,0,,1
+1316,Maria Laura Novaes,Cassiano do Galho,Facebook Ads,Inglês Adulto,,Noite,Quinta-feira,9,2,1,,0
+1317,Dr. Vicente Marques,Santos,Google Ads,Inglês Básico,35-44,Noite,Sábado,11,2,0,6175.43,0
+1318,Vicente Viana,Macedo,Indicação,Inglês Adulto,,Noite,Segunda-feira,4,2,0,2979.68,0
+1319,Brenda Leão,Sá de Camargo,Facebook Ads,Inglês Básico,45-54,Noite,Quinta-feira,8,3,1,,0
+1320,Diogo Nunes,Viana,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Segunda-feira,7,0,0,2949.49,0
+1321,Beatriz Caldeira,Novais,Google Ads,Inglês Básico,25-34,Tarde,Quinta-feira,9,0,1,,0
+1322,Beatriz Viana,Montenegro,Google Ads,Inglês Intermediário,18-24,Tarde,Quarta-feira,7,5,0,2845.37,0
+1323,Vitor Gabriel Ferreira,Cavalcante,Indicação,Inglês Intermediário,25-34,Tarde,Domingo,16,1,0,8661.75,0
+1324,Julia Gomes,Costela,Tráfego Orgânico,Inglês Intermediário,45-54,Manhã,Quarta-feira,4,2,1,10615.47,0
+1325,Raquel Oliveira,Castro da Mata,Instagram,Inglês Básico,,Tarde,Segunda-feira,10,1,0,5660.03,0
+1326,Olívia Andrade,Teixeira de Montenegro,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Sábado,5,1,0,8170.06,1
+1327,João Guilherme Guerra,Siqueira de Brito,Instagram,Inglês Adulto,25-34,Manhã,Sexta-feira,6,2,0,1501.1,0
+1328,Murilo Andrade,Ramos,Google Ads,Inglês Básico,25-34,Tarde,Sexta-feira,5,3,0,1601.6,0
+1329,Luísa Sales,Farias Grande,Instagram,Inglês Adulto,35-44,Noite,Sexta-feira,2,1,0,2932.64,0
+1330,Benicio Souza,Costa,Instagram,Espanhol,25-34,Noite,Terça-feira,5,0,1,3580.28,0
+1331,Juliana Freitas,Leão de Vargas,Tráfego Orgânico,Inglês Intermediário,35-44,Noite,Quinta-feira,2,0,0,3138.51,1
+1332,Lucca Vieira,da Cruz,Google Ads,Espanhol,35-44,Tarde,Segunda-feira,7,1,1,1418.48,0
+1333,Leonardo da Mota,Fernandes de da Paz,Google Ads,Inglês Básico,35-44,Noite,Terça-feira,12,5,0,6593.86,0
+1334,Beatriz da Conceição,Barros,Evento Presencial,Inglês Básico,25-34,Noite,Domingo,5,2,0,11445.22,0
+1335,Kaique Souza,Freitas das Pedras,Evento Presencial,Inglês Teens,35-44,,Sexta-feira,7,1,0,7080.23,0
+1336,Luna da Mata,Pires de Goiás,Tráfego Orgânico,Inglês Teens,18-24,Noite,Terça-feira,10,1,1,6358.55,1
+1337,Sra. Aurora Correia,Sá,Instagram,Inglês Teens,25-34,Manhã,Segunda-feira,7,3,1,3963.51,0
+1338,Hadassa Jesus,Viana de Goiás,Google Ads,Inglês Básico,35-44,Noite,Domingo,6,2,1,,0
+1339,Sra. Stella Freitas,Lima,Tráfego Orgânico,Inglês Teens,35-44,,Segunda-feira,9,2,0,3642.44,1
+1340,Théo Vieira,Jesus dos Dourados,Instagram,Inglês Intermediário,18-24,Tarde,Terça-feira,12,3,1,11143.28,0
+1341,Benício das Neves,Alves dos Dourados,Indicação,Inglês Intermediário,,Noite,Terça-feira,11,1,1,2883.97,0
+1342,Dra. Maria Luiza Carvalho,Vargas,Tráfego Orgânico,Inglês Básico,18-24,,Segunda-feira,7,3,1,2725.19,0
+1343,Ana Cavalcanti,Silva,Google Ads,Francês,35-44,Manhã,Terça-feira,11,1,0,6435.18,0
+1344,Guilherme Araújo,Barros,Google Ads,Inglês Básico,55+,Manhã,Domingo,9,0,1,6674.47,0
+1345,Arthur Gabriel Marques,Dias das Flores,Evento Presencial,Inglês Teens,,Manhã,Quarta-feira,10,0,0,2195.52,1
+1346,Luiz Miguel Santos,Lopes,Facebook Ads,Inglês Adulto,45-54,Manhã,Quarta-feira,13,2,1,3031.16,0
+1347,João Guilherme Freitas,Gonçalves,Google Ads,Inglês Teens,35-44,Noite,Sexta-feira,7,2,0,2655.72,1
+1348,Sofia Gonçalves,Ribeiro,Instagram,Inglês Teens,35-44,Tarde,Quinta-feira,4,2,1,,1
+1349,Camila Rodrigues,Oliveira,Google Ads,Espanhol,35-44,Tarde,Sexta-feira,5,0,0,6422.39,0
+1350,Isaque Freitas,Pires,Indicação,Inglês Básico,35-44,Noite,Quinta-feira,5,3,1,2249.14,0
+1351,Melissa Cavalcanti,Leão das Flores,Tráfego Orgânico,Inglês Básico,25-34,Manhã,Quinta-feira,8,3,0,6373.05,0
+1352,Marcela Ferreira,Silveira Alegre,Tráfego Orgânico,Inglês Adulto,35-44,Tarde,Quinta-feira,9,1,0,3701.25,0
+1353,José Pedro Souza,Albuquerque Paulista,Instagram,Inglês Intermediário,25-34,Noite,Sexta-feira,6,3,1,,1
+1354,Srta. Larissa Alves,Sampaio,Instagram,Inglês Básico,55+,Noite,Sexta-feira,10,2,1,4170.85,0
+1355,Ana Julia Castro,Machado do Oeste,Tráfego Orgânico,Inglês Básico,25-34,Tarde,Sexta-feira,2,2,0,3318.32,0
+1356,Hadassa Câmara,Sampaio de Ferreira,Indicação,Inglês Intermediário,25-34,Manhã,Segunda-feira,8,1,1,4801.15,0
+1357,Heloisa Rocha,Vasconcelos do Oeste,Google Ads,Inglês Básico,45-54,Noite,Quinta-feira,9,2,0,,0
+1358,João Felipe Rezende,Barros do Norte,Google Ads,Inglês Básico,,Noite,Sexta-feira,5,2,1,1303.9,0
+1359,Sophie Almeida,Gomes Grande,Facebook Ads,Espanhol,25-34,Tarde,Terça-feira,6,1,1,3066.31,0
+1360,Alexia Melo,Cunha de Minas,Instagram,Inglês Intermediário,35-44,Manhã,Sábado,8,0,0,3039.83,0
+1361,Erick Peixoto,Moreira Alegre,Facebook Ads,Francês,18-24,Manhã,Terça-feira,7,1,1,1457.89,0
+1362,Henry Gabriel da Cunha,Almeida,Instagram,Francês,18-24,,Terça-feira,7,0,0,3362.19,0
+1363,Lorena Silva,Vieira,Facebook Ads,Inglês Básico,25-34,Noite,Sábado,9,1,0,1122.83,0
+1364,Dra. Kamilly Lima,da Costa da Mata,Indicação,Inglês Teens,25-34,Noite,Terça-feira,3,1,1,,1
+1365,Marcela Marques,Montenegro do Campo,Google Ads,Inglês Adulto,25-34,Tarde,Quarta-feira,6,2,0,,0
+1366,Henrique Martins,Freitas,Google Ads,Inglês Adulto,18-24,Noite,Quarta-feira,5,2,0,3691.79,1
+1367,Vicente Pinto,Pires do Galho,Instagram,Inglês Básico,25-34,Noite,Sábado,9,2,1,2791.77,1
+1368,Bella Abreu,Campos do Norte,Indicação,Inglês Básico,25-34,Tarde,Quarta-feira,8,3,0,3339.17,1
+1369,Maria Fernanda Novais,Machado,Instagram,Inglês Básico,18-24,Noite,Sexta-feira,6,4,0,2273.97,0
+1370,Larissa da Rosa,Oliveira do Sul,Instagram,Inglês Adulto,35-44,,Sexta-feira,5,2,1,3520.88,0
+1371,Bianca Mendes,Fernandes de da Costa,Indicação,Francês,35-44,Tarde,Quinta-feira,12,1,0,,1
+1372,Lucca da Mota,Ferreira,Evento Presencial,Inglês Adulto,18-24,Noite,Domingo,7,1,0,2133.2,0
+1373,Lunna da Mota,da Paz Verde,Google Ads,Inglês Teens,25-34,Tarde,Sexta-feira,7,2,0,4055.19,0
+1374,Kaique Correia,Silva,Tráfego Orgânico,Francês,45-54,,Quarta-feira,5,0,0,4041.28,1
+1375,Valentim Teixeira,Moreira de Goiás,Evento Presencial,Inglês Adulto,35-44,Tarde,Domingo,6,2,1,3194.23,1
+1376,Benjamin Peixoto,Duarte,Indicação,Inglês Básico,25-34,Tarde,Quinta-feira,5,2,1,13254.52,1
+1377,Luiza Rodrigues,Vasconcelos,Facebook Ads,Espanhol,25-34,Tarde,Segunda-feira,6,4,1,3239.36,0
+1378,Apollo Rezende,Marques do Campo,Tráfego Orgânico,Inglês Intermediário,25-34,Tarde,Terça-feira,6,4,0,3001.72,0
+1379,Laís da Luz,Silva,Facebook Ads,Inglês Básico,45-54,Tarde,Quinta-feira,7,0,0,2774.43,0
+1380,Maria Luiza Gomes,Jesus de Minas,Google Ads,Inglês Adulto,45-54,Noite,Segunda-feira,5,4,0,2051.86,0
+1381,Srta. Esther Fernandes,Araújo,Google Ads,Espanhol,45-54,,Quinta-feira,5,2,1,,0
+1382,Dra. Hellena Rodrigues,Cardoso do Amparo,Indicação,Inglês Básico,25-34,Tarde,Quarta-feira,6,2,1,2399.66,0
+1383,Olívia Rios,Machado,Google Ads,Inglês Intermediário,25-34,Noite,Quinta-feira,10,4,0,2560.98,0
+1384,Dr. Enzo Gabriel Ribeiro,Freitas,Evento Presencial,Inglês Básico,18-24,Manhã,Segunda-feira,3,4,1,2603.17,0
+1385,Emilly da Rocha,Pastor da Prata,Evento Presencial,Inglês Básico,25-34,Noite,Sábado,4,1,1,2036.12,0
+1386,Ravy Cardoso,da Luz Verde,Indicação,Inglês Básico,,,Quarta-feira,6,0,0,1335.98,0
+1387,Sra. Emilly Rodrigues,Porto de Lima,Facebook Ads,Inglês Teens,35-44,Tarde,Segunda-feira,9,1,1,2713.25,0
+1388,Sr. Henry Fogaça,Sales de Mendonça,Instagram,Espanhol,18-24,Noite,Quarta-feira,7,0,0,5658.15,0
+1389,Leandro Leão,Castro Grande,Evento Presencial,Inglês Básico,45-54,,Quarta-feira,10,1,0,3900.49,0
+1390,Dr. José Pedro Pacheco,Mendonça,Indicação,Inglês Básico,18-24,Noite,Quinta-feira,6,5,0,8257.15,0
+1391,Ravi Campos,Cardoso de Santos,Evento Presencial,Inglês Básico,18-24,Tarde,Quinta-feira,10,0,0,5289.84,0
+1392,Ana Júlia Porto,Sales,Tráfego Orgânico,Inglês Básico,45-54,Tarde,Segunda-feira,6,0,1,4668.99,0
+1393,Ana Sophia Melo,Marques,Indicação,Inglês Adulto,35-44,Noite,Sábado,16,4,0,9857.38,0
+1394,Theodoro Campos,Andrade de Souza,Indicação,Inglês Adulto,,Noite,Quarta-feira,7,3,1,3317.9,0
+1395,Maria Helena Moura,Novais,Tráfego Orgânico,Inglês Adulto,35-44,Noite,Segunda-feira,1,3,1,3623.55,0
+1396,Noah Aragão,Campos das Pedras,Instagram,Inglês Intermediário,25-34,Noite,Sexta-feira,14,1,0,3478.0,0
+1397,Davi Miguel Costa,Campos,Google Ads,Inglês Adulto,18-24,Noite,Quinta-feira,3,5,0,8181.26,0
+1398,Dr. Raul Casa Grande,Oliveira da Mata,Evento Presencial,Inglês Básico,25-34,Manhã,Quinta-feira,10,4,0,3504.85,0
+1399,Sr. Bruno Mendonça,Moreira,Google Ads,Inglês Básico,25-34,Noite,Quarta-feira,4,1,1,2450.3,1
+1400,Sr. Levi Porto,Campos,Instagram,Espanhol,35-44,Manhã,Quarta-feira,6,1,1,4835.5,0
+1401,André Machado,das Neves da Praia,Google Ads,Inglês Teens,,,Quinta-feira,7,3,1,2234.06,0
+1402,Gustavo Henrique Teixeira,da Rocha do Amparo,Indicação,Espanhol,35-44,Noite,Segunda-feira,10,2,0,4693.47,1
+1403,Emanuel Mendonça,Vieira,Evento Presencial,Espanhol,35-44,Tarde,Terça-feira,12,0,0,4394.6,0
+1404,Davi Lucca Pimenta,Casa Grande,Instagram,Inglês Adulto,18-24,Tarde,Domingo,6,0,0,3153.75,0
+1405,Mariane Guerra,Aragão da Mata,Instagram,Espanhol,18-24,Noite,Quinta-feira,11,3,0,4777.7,0
+1406,Pietra Gomes,Cunha da Serra,Instagram,Inglês Intermediário,25-34,Noite,Quarta-feira,10,3,0,1544.16,0
+1407,Arthur Miguel Nascimento,Abreu de Campos,Evento Presencial,Inglês Básico,35-44,Tarde,Terça-feira,8,2,1,3828.19,1
+1408,Marcelo Albuquerque,Azevedo do Norte,Indicação,Inglês Básico,35-44,Noite,Sexta-feira,7,0,0,2713.51,1
+1409,Sr. Antony Rocha,Mendes Verde,Tráfego Orgânico,Inglês Básico,35-44,Tarde,Terça-feira,8,1,1,16894.83,1
+1410,Josué Câmara,Nunes dos Dourados,Facebook Ads,Inglês Básico,25-34,Noite,Segunda-feira,6,2,0,3813.19,0
+1411,Sra. Luana Cardoso,Viana das Flores,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Segunda-feira,10,1,0,,0
+1412,Matheus Montenegro,Silveira de Pereira,Evento Presencial,Inglês Teens,,Tarde,Sexta-feira,11,1,0,1640.0,0
+1413,Lorena Cavalcante,Teixeira,Tráfego Orgânico,Inglês Teens,25-34,Tarde,Quinta-feira,6,2,0,,0
+1414,Augusto da Rosa,Montenegro,Evento Presencial,Inglês Adulto,35-44,Manhã,Segunda-feira,9,2,0,2887.08,0
+1415,Rafael Siqueira,Teixeira de Machado,Indicação,Inglês Básico,18-24,Tarde,Segunda-feira,6,0,0,2264.87,1
+1416,Valentina Fernandes,Cassiano de Siqueira,Tráfego Orgânico,Inglês Teens,25-34,Manhã,Quinta-feira,8,2,1,4211.12,0
+1417,Catarina Fernandes,Borges das Pedras,Google Ads,Inglês Intermediário,25-34,,Quinta-feira,9,2,0,5003.35,0
+1418,Maria Alice Sá,da Conceição das Flores,Google Ads,Inglês Básico,25-34,Manhã,Sexta-feira,8,1,0,4960.16,0
+1419,Enzo Guerra,Nogueira do Norte,Tráfego Orgânico,Inglês Básico,35-44,Manhã,Terça-feira,10,3,0,3538.23,0
+1420,Ian Câmara,Sousa de da Mota,Evento Presencial,Inglês Intermediário,25-34,Noite,Sexta-feira,5,2,1,,1
+1421,Srta. Hadassa Siqueira,Cavalcante,Facebook Ads,Inglês Básico,,Noite,Domingo,9,4,0,3976.43,0
+1422,Thiago Cavalcante,Oliveira,Google Ads,Inglês Teens,45-54,Noite,Quinta-feira,3,1,0,4211.34,0
+1423,Luiz Otávio Silva,Novais do Campo,Google Ads,Inglês Teens,45-54,Tarde,Terça-feira,8,3,0,4421.37,0
+1424,Ana Carolina Garcia,Correia,Instagram,Inglês Adulto,,Manhã,Quinta-feira,10,0,0,6389.86,0
+1425,Jade Vargas,Nunes,Instagram,Inglês Básico,35-44,Noite,Quarta-feira,2,2,1,3610.3,0
+1426,Ana Julia Peixoto,Sá,Instagram,Inglês Teens,35-44,Noite,Segunda-feira,5,0,0,2233.39,0
+1427,Cauê Rezende,Montenegro de Almeida,Indicação,Inglês Adulto,25-34,Manhã,Terça-feira,3,1,0,3232.97,1
+1428,Benicio Sales,Ribeiro,Indicação,Inglês Básico,25-34,Noite,Sábado,7,1,1,5298.07,1
+1429,Oliver Macedo,Almeida,Tráfego Orgânico,Inglês Adulto,35-44,Noite,Quarta-feira,7,2,0,1310.19,0
+1430,Camila Novaes,Viana do Oeste,Google Ads,Inglês Intermediário,18-24,Noite,Sábado,5,4,1,1314.36,1
+1431,Renan Sampaio,Santos,Evento Presencial,Inglês Intermediário,18-24,Tarde,Quarta-feira,7,3,0,5799.75,0
+1432,Gustavo Sales,Barros de Nascimento,Facebook Ads,Inglês Básico,45-54,Noite,Quinta-feira,9,2,1,8075.47,1
+1433,Alexia da Rosa,Guerra Verde,Indicação,Inglês Adulto,18-24,Tarde,Segunda-feira,3,1,0,1745.26,0
+1434,Beatriz Ribeiro,Mendonça,Instagram,Inglês Básico,,Noite,Quinta-feira,7,3,0,3698.83,0
+1435,Júlia Pinto,Fernandes,Instagram,Inglês Básico,35-44,Tarde,Segunda-feira,11,0,0,2809.52,0
+1436,Cecilia Leão,Cirino das Pedras,Evento Presencial,Inglês Básico,18-24,Manhã,Quarta-feira,9,1,1,3032.25,0
+1437,Thomas Silveira,Moura,Instagram,Francês,45-54,Manhã,Terça-feira,7,3,0,4140.45,0
+1438,Bárbara da Paz,Garcia Paulista,Google Ads,Inglês Básico,18-24,Noite,Quarta-feira,3,3,1,1718.9,1
+1439,Cauê Monteiro,Camargo,Evento Presencial,Inglês Intermediário,45-54,Noite,Quinta-feira,9,1,1,1903.69,0
+1440,Guilherme Vasconcelos,Nogueira,Evento Presencial,Inglês Intermediário,35-44,Noite,Segunda-feira,7,5,0,2965.59,0
+1441,Vicente Costa,da Paz,Instagram,Espanhol,25-34,Noite,Terça-feira,4,5,0,3231.05,0
+1442,Dr. Juan Castro,Cirino,Indicação,Inglês Adulto,,Noite,Domingo,9,4,0,1884.17,0
+1443,Yan Monteiro,Vargas de Minas,Instagram,Espanhol,25-34,Noite,Segunda-feira,3,4,1,5403.62,0
+1444,Rodrigo Farias,das Neves,Indicação,Inglês Básico,25-34,Tarde,Terça-feira,12,2,1,2781.82,0
+1445,Alexandre Albuquerque,Rocha da Serra,Instagram,Inglês Básico,25-34,Noite,Terça-feira,6,3,0,2775.31,0
+1446,Aurora Camargo,Pimenta,Google Ads,Inglês Adulto,55+,Manhã,Quarta-feira,4,4,0,4088.69,0
+1447,Sabrina Cassiano,Cirino do Sul,Evento Presencial,Inglês Intermediário,25-34,Manhã,Sexta-feira,7,3,1,3260.44,0
+1448,Thomas Barbosa,da Rosa,Google Ads,Inglês Teens,45-54,Tarde,Terça-feira,4,3,0,5547.65,0
+1449,Dra. Beatriz da Cunha,Brito Alegre,Facebook Ads,Espanhol,18-24,Manhã,Quarta-feira,6,0,0,2094.64,0
+1450,Isabel Marques,Jesus,Instagram,Inglês Intermediário,55+,Noite,Quinta-feira,9,1,0,1622.88,0
+1451,João Martins,da Luz das Flores,Tráfego Orgânico,Francês,25-34,Noite,Terça-feira,10,3,0,,0
+1452,Carlos Eduardo Cavalcanti,Aragão,Facebook Ads,Inglês Adulto,25-34,Tarde,Domingo,10,3,1,,0
+1453,João Vitor Fonseca,da Costa,Tráfego Orgânico,Inglês Básico,35-44,,Domingo,6,2,1,1768.88,1
+1454,Luara Lima,Monteiro,Evento Presencial,Inglês Intermediário,18-24,,Segunda-feira,6,1,0,1631.5,0
+1455,Srta. Aylla Teixeira,Camargo Paulista,Instagram,Inglês Básico,45-54,Manhã,Quarta-feira,4,2,0,3869.12,0
+1456,Anthony Carvalho,Dias,Indicação,Inglês Teens,25-34,Tarde,Terça-feira,9,1,1,2307.08,0
+1457,Eloá Farias,Novaes de Jesus,Instagram,Inglês Básico,,Manhã,Terça-feira,9,4,0,1574.41,0
+1458,Dr. João Felipe Siqueira,Mendes,Google Ads,Inglês Intermediário,25-34,Tarde,Quarta-feira,12,4,0,5951.84,0
+1459,Marcelo Fernandes,Jesus,Evento Presencial,Inglês Adulto,35-44,Manhã,Quinta-feira,6,1,0,2472.61,1
+1460,Danilo Guerra,Almeida,Instagram,Inglês Básico,18-24,Manhã,Quarta-feira,5,0,0,6587.4,0
+1461,Mirella da Mata,Novaes Verde,Tráfego Orgânico,Inglês Básico,18-24,,Terça-feira,8,3,1,3555.24,0
+1462,Pietra Leão,da Cruz,Google Ads,Inglês Adulto,,Noite,Terça-feira,10,0,0,4115.99,0
+1463,Eloah Camargo,da Rosa,Instagram,Inglês Básico,25-34,Manhã,Domingo,7,3,0,3115.65,1
+1464,Bento Castro,Machado de Minas,Instagram,Inglês Intermediário,18-24,Tarde,Sábado,7,1,1,,0
+1465,Oliver Pastor,Viana,Facebook Ads,Inglês Intermediário,45-54,Tarde,Segunda-feira,5,1,0,1872.98,0
+1466,Maysa Cirino,Freitas,Facebook Ads,Inglês Básico,25-34,Tarde,Quinta-feira,5,4,1,3266.19,0
+1467,Maria Helena Vasconcelos,Viana,Google Ads,Inglês Básico,35-44,Tarde,Quarta-feira,2,2,0,4277.48,0
+1468,Sr. Davi Lucca Mendes,Nascimento,Instagram,Inglês Teens,25-34,Manhã,Sexta-feira,5,2,0,1307.93,0
+1469,Brenda Jesus,Novais dos Dourados,Facebook Ads,Francês,25-34,Noite,Quinta-feira,14,2,0,3398.32,0
+1470,Ana Clara Azevedo,Abreu,Instagram,Inglês Básico,25-34,Noite,Sábado,3,1,0,1888.0,0
+1471,Levi Albuquerque,Pinto de da Rocha,Evento Presencial,Francês,25-34,Noite,Segunda-feira,9,2,0,3982.08,0
+1472,Dra. Valentina Vargas,Abreu,Instagram,Inglês Adulto,25-34,Noite,Quarta-feira,10,1,0,3462.85,0
+1473,Dra. Heloisa Rios,Mendes,Indicação,Inglês Adulto,25-34,Tarde,Domingo,4,1,1,5268.2,0
+1474,Sr. Pedro Ribeiro,Peixoto Paulista,Google Ads,Inglês Teens,25-34,,Terça-feira,5,1,1,6293.49,0
+1475,Srta. Rafaela Ferreira,Ferreira do Oeste,Google Ads,Inglês Teens,55+,Manhã,Segunda-feira,5,3,0,4505.09,0
+1476,Maria Isis Cassiano,Aparecida da Serra,Google Ads,Inglês Teens,25-34,Tarde,Sexta-feira,9,0,0,5618.02,0
+1477,Ana Júlia Albuquerque,da Rosa,Google Ads,Inglês Intermediário,,Manhã,Sexta-feira,5,2,0,2886.59,1
+1478,Eduarda Montenegro,Gonçalves,Evento Presencial,Inglês Adulto,18-24,Tarde,Quinta-feira,8,3,0,16534.97,0
+1479,Sabrina Cavalcante,Carvalho,Google Ads,Inglês Intermediário,25-34,Noite,Sexta-feira,6,3,0,1790.35,0
+1480,Samuel Duarte,Lopes do Oeste,Google Ads,Inglês Básico,35-44,Manhã,Sexta-feira,7,1,1,2618.23,0
+1481,Lucas da Mota,Rodrigues Alegre,Google Ads,Inglês Adulto,18-24,Manhã,Segunda-feira,5,2,1,5746.04,0
+1482,Thiago Câmara,Sá dos Dourados,Indicação,Inglês Básico,35-44,Noite,Quinta-feira,9,2,0,,0
+1483,Maria Flor Guerra,da Cruz Alegre,Google Ads,Inglês Básico,,Tarde,Sexta-feira,3,3,1,4576.01,0
+1484,Bruno Marques,Costela dos Dourados,Instagram,Inglês Básico,18-24,Noite,Sábado,3,2,1,5074.3,0
+1485,Melissa Borges,Almeida Grande,Facebook Ads,Inglês Básico,55+,Noite,Terça-feira,10,4,0,1112.72,0
+1486,Melissa Dias,Pereira,Indicação,Inglês Adulto,25-34,Noite,Segunda-feira,5,3,1,8388.63,1
+1487,Theo Souza,Abreu de Albuquerque,Evento Presencial,Inglês Adulto,35-44,Tarde,Sexta-feira,1,2,0,3128.72,0
+1488,Allana Caldeira,Jesus,Google Ads,Inglês Intermediário,25-34,Tarde,Terça-feira,2,3,0,6944.88,0
+1489,Maria Sophia Andrade,Teixeira de Gonçalves,Tráfego Orgânico,Inglês Básico,55+,Noite,Segunda-feira,7,3,1,1143.76,1
+1490,Agatha Borges,Viana,Google Ads,Inglês Intermediário,25-34,Noite,Sexta-feira,10,2,1,4030.44,0
+1491,Liz Moraes,Nascimento,Indicação,Inglês Intermediário,25-34,Noite,Quarta-feira,7,4,0,2567.25,1
+1492,Gabrielly Rezende,Rios,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Terça-feira,7,5,0,,0
+1493,Mirella Fernandes,Rocha de Campos,Facebook Ads,Inglês Adulto,25-34,Manhã,Segunda-feira,4,2,1,4166.81,0
+1494,Sr. Henry Gabriel Marques,Garcia da Praia,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Segunda-feira,6,1,0,4280.58,1
+1495,Dr. Luiz Otávio Silva,Cavalcanti do Sul,Google Ads,Inglês Intermediário,55+,Manhã,Sexta-feira,9,1,1,1954.91,0
+1496,Bruna Brito,Martins,Facebook Ads,Francês,35-44,Manhã,Quarta-feira,8,4,1,3392.03,0
+1497,Hellena Abreu,Correia dos Dourados,Tráfego Orgânico,Inglês Teens,35-44,Noite,Segunda-feira,4,3,0,3169.81,0
+1498,Dr. João Vitor Novaes,Câmara,Facebook Ads,Inglês Intermediário,35-44,Manhã,Quarta-feira,11,0,0,4595.99,0
+1499,Maria Fernanda Sampaio,Teixeira,Instagram,Inglês Intermediário,,Noite,Segunda-feira,9,2,1,6030.78,0
+1500,Augusto Cavalcante,Rodrigues da Praia,Facebook Ads,Inglês Básico,45-54,Noite,Segunda-feira,3,1,1,3801.99,0
+1501,Cecilia Silva,Borges,Facebook Ads,Espanhol,,Tarde,Terça-feira,12,1,0,1734.76,0
+1502,Dra. Maria Luísa Caldeira,Silva de Goiás,Evento Presencial,Inglês Intermediário,25-34,Tarde,Quinta-feira,0,2,0,3713.34,0
+1503,Gael Henrique Correia,Monteiro,Instagram,Inglês Básico,18-24,Noite,Terça-feira,6,1,0,14714.82,0
+1504,Matteo Cunha,Andrade Paulista,Google Ads,Francês,35-44,Tarde,Quarta-feira,4,3,1,8654.38,0
+1505,Esther Silva,Santos de Santos,Tráfego Orgânico,Inglês Teens,45-54,Tarde,Quarta-feira,4,0,1,681.71,0
+1506,Sr. Oliver Aparecida,Abreu,Google Ads,Inglês Básico,25-34,Noite,Quarta-feira,8,2,1,3624.08,0
+1507,Camila Vargas,Porto,Facebook Ads,Inglês Básico,18-24,Noite,Segunda-feira,12,4,0,5844.08,0
+1508,Natália Ribeiro,Camargo Paulista,Google Ads,Inglês Básico,25-34,Noite,Segunda-feira,4,2,0,3166.04,0
+1509,Sofia Carvalho,Cavalcante de Novaes,Instagram,Inglês Adulto,25-34,Noite,Segunda-feira,5,2,0,2717.5,0
+1510,Alana Moura,Ribeiro,Facebook Ads,Inglês Básico,,Tarde,Quarta-feira,6,2,1,3022.04,0
+1511,Srta. Marina Pacheco,Azevedo,Indicação,Espanhol,18-24,Noite,Sexta-feira,8,1,0,4742.04,0
+1512,Sophia Vasconcelos,Souza,Instagram,Espanhol,,Noite,Segunda-feira,11,0,1,1860.98,0
+1513,Erick Siqueira,Cardoso,Facebook Ads,Inglês Adulto,35-44,Noite,Sexta-feira,6,0,0,6729.78,0
+1514,Cauã Gomes,Nunes de Goiás,Facebook Ads,Inglês Adulto,55+,Noite,Sexta-feira,5,4,0,3393.86,0
+1515,Luna Montenegro,Correia do Sul,Tráfego Orgânico,Inglês Básico,18-24,,Segunda-feira,6,1,1,2092.79,0
+1516,Mariah Pereira,Rodrigues da Prata,Instagram,Inglês Básico,45-54,,Segunda-feira,5,4,0,6495.8,0
+1517,Srta. Kamilly Gonçalves,Abreu de Lima,Indicação,Inglês Teens,,Tarde,Terça-feira,5,1,0,1496.22,1
+1518,Dr. Rael Carvalho,Duarte,Evento Presencial,Inglês Básico,35-44,Noite,Segunda-feira,5,1,1,2578.99,0
+1519,Noah Pereira,Jesus Paulista,Instagram,Inglês Básico,18-24,Tarde,Quinta-feira,8,1,1,2555.74,0
+1520,Dra. Sophie da Rosa,Rodrigues,Instagram,Inglês Intermediário,,,Segunda-feira,9,3,1,,0
+1521,Dra. Luara Silva,Monteiro de Fonseca,Instagram,Inglês Básico,,Noite,Sexta-feira,6,1,1,2401.28,0
+1522,Dra. Helena Costa,Silveira,Google Ads,Inglês Intermediário,25-34,Noite,Quarta-feira,10,0,1,1069.86,0
+1523,João Vitor Rodrigues,Aragão,Tráfego Orgânico,Inglês Teens,,Tarde,Sexta-feira,8,2,0,2541.53,0
+1524,Sr. Felipe Montenegro,Leão da Prata,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Sexta-feira,9,1,0,4496.57,1
+1525,Luna Santos,Dias de Abreu,Facebook Ads,Inglês Adulto,35-44,Tarde,Quarta-feira,11,3,1,5387.11,0
+1526,Luiz Gustavo Novais,Correia Alegre,Instagram,Inglês Teens,18-24,Manhã,Sábado,8,5,0,12241.84,0
+1527,Maria Vitória Rocha,Oliveira,Instagram,Inglês Intermediário,25-34,Tarde,Domingo,5,7,1,7587.91,0
+1528,Dra. Laura Lima,Sousa,Google Ads,Inglês Teens,25-34,Noite,Quarta-feira,6,0,0,3881.11,0
+1529,Vicente Caldeira,Sales,Indicação,Inglês Adulto,45-54,Tarde,Segunda-feira,5,1,0,2143.6,0
+1530,Mateus Casa Grande,Barbosa de Goiás,Instagram,Inglês Básico,55+,Noite,Quarta-feira,11,1,0,8550.4,0
+1531,Benjamin Costa,Cavalcante,Instagram,Espanhol,25-34,Manhã,Terça-feira,7,1,1,2857.8,0
+1532,Enrico da Paz,das Neves de Minas,Indicação,Inglês Básico,18-24,Noite,Quinta-feira,13,3,0,2437.02,0
+1533,Isis Casa Grande,Alves,Google Ads,Inglês Básico,25-34,Noite,Quarta-feira,4,3,0,2782.56,0
+1534,Juan Costela,Lopes de Alves,Facebook Ads,Inglês Básico,25-34,Noite,Quarta-feira,9,1,1,1757.7,0
+1535,Ana Beatriz Fogaça,da Cunha de Goiás,Indicação,Inglês Intermediário,45-54,Noite,Sexta-feira,2,1,0,2710.14,0
+1536,Bella Pimenta,Melo,Google Ads,Inglês Intermediário,25-34,Noite,Terça-feira,5,2,0,3078.84,0
+1537,Heloisa Souza,Fernandes,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Quinta-feira,3,3,1,5231.11,0
+1538,Maria Julia da Costa,Farias,Facebook Ads,Espanhol,18-24,Noite,Terça-feira,6,4,1,2827.28,0
+1539,Laura Sales,Barbosa,Tráfego Orgânico,Inglês Básico,,Manhã,Sexta-feira,9,2,0,,0
+1540,Ana Julia Garcia,Teixeira de Brito,Google Ads,Inglês Adulto,45-54,Tarde,Quinta-feira,4,2,1,1448.73,0
+1541,Maria Vitória Viana,Pacheco de Campos,Tráfego Orgânico,Inglês Intermediário,35-44,Noite,Segunda-feira,8,3,1,3927.59,0
+1542,Luara Novaes,Araújo,Instagram,Inglês Teens,35-44,Tarde,Quinta-feira,8,3,0,3642.63,0
+1543,Anthony Gabriel Souza,Garcia,Instagram,Inglês Básico,25-34,Tarde,Terça-feira,6,1,0,2580.26,0
+1544,Guilherme Pinto,Sales de Minas,Instagram,Inglês Básico,45-54,Noite,Sexta-feira,4,2,1,2706.52,0
+1545,Heloisa Porto,Araújo,Google Ads,Inglês Adulto,25-34,Tarde,Quinta-feira,10,4,0,4333.74,0
+1546,Dra. Maria Eduarda Sá,Araújo de da Rosa,Instagram,Inglês Adulto,45-54,Noite,Quarta-feira,5,3,1,7519.98,0
+1547,Ísis Sousa,Azevedo do Campo,Instagram,Inglês Teens,45-54,Noite,Sexta-feira,5,2,1,2278.88,0
+1548,Fernanda Vasconcelos,Novais,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Sábado,8,2,0,3675.39,0
+1549,Srta. Laís Machado,da Rocha,Instagram,Inglês Teens,45-54,Noite,Sexta-feira,4,2,1,5928.74,0
+1550,Breno Cirino,Guerra do Campo,Instagram,Inglês Intermediário,25-34,Noite,Quinta-feira,9,0,0,,0
+1551,Théo Campos,da Conceição do Sul,Indicação,Inglês Básico,,Noite,Sexta-feira,9,1,1,3470.04,0
+1552,Ana Cecília Lima,Gomes de Martins,Google Ads,Inglês Básico,18-24,Noite,Quarta-feira,7,2,0,,1
+1553,João Cardoso,Pinto do Campo,Instagram,Inglês Básico,25-34,Manhã,Sexta-feira,9,4,1,1701.57,0
+1554,José Miguel Abreu,Rezende do Sul,Instagram,Inglês Intermediário,25-34,Noite,Sexta-feira,4,1,0,3839.87,0
+1555,Dr. Eduardo Aparecida,Moreira de Farias,Instagram,Inglês Intermediário,18-24,Noite,Segunda-feira,8,5,1,3561.25,0
+1556,Lorenzo Peixoto,Caldeira,Tráfego Orgânico,Inglês Intermediário,18-24,Tarde,Terça-feira,10,3,1,4749.59,0
+1557,Kevin Mendonça,Albuquerque,Evento Presencial,Inglês Adulto,25-34,,Terça-feira,7,2,0,1822.07,0
+1558,Maria Alice Barbosa,Pastor,Google Ads,Inglês Intermediário,35-44,Noite,Segunda-feira,4,2,0,3519.25,0
+1559,Sra. Valentina Câmara,Oliveira,Facebook Ads,Inglês Adulto,25-34,Tarde,Quarta-feira,7,2,1,,1
+1560,Vicente Azevedo,Porto,Tráfego Orgânico,Inglês Adulto,25-34,,Terça-feira,8,2,1,10972.45,0
+1561,Eduarda Leão,Fogaça das Pedras,Evento Presencial,Inglês Intermediário,55+,Tarde,Quinta-feira,8,1,0,7076.89,0
+1562,Zoe Guerra,Silveira de Pinto,Facebook Ads,Inglês Intermediário,55+,Manhã,Segunda-feira,7,2,0,1831.94,0
+1563,Luiz Fernando Câmara,Cirino de da Cruz,Tráfego Orgânico,Inglês Adulto,18-24,Noite,Terça-feira,6,2,1,4485.46,1
+1564,Lucas Farias,Aparecida,Evento Presencial,Inglês Adulto,25-34,Tarde,Quinta-feira,6,0,0,2683.26,0
+1565,Dr. Henrique Sá,Cardoso,Tráfego Orgânico,Inglês Intermediário,,,Quarta-feira,7,2,1,4091.49,1
+1566,Vitória Melo,Pacheco das Pedras,Google Ads,Inglês Intermediário,35-44,,Quarta-feira,10,2,0,2288.84,0
+1567,Alexia Camargo,das Neves Verde,Indicação,Inglês Adulto,25-34,Tarde,Sexta-feira,11,5,0,1363.91,0
+1568,Manuella Machado,Casa Grande,Indicação,Inglês Adulto,35-44,Manhã,Domingo,4,0,1,2895.85,1
+1569,Joaquim Aparecida,das Neves de Pereira,Google Ads,Inglês Básico,18-24,Noite,Quinta-feira,8,2,0,5207.99,0
+1570,Luna Garcia,da Rocha da Praia,Google Ads,Inglês Intermediário,25-34,Noite,Segunda-feira,7,4,1,4100.72,0
+1571,Matheus da Cunha,Moreira,Google Ads,Espanhol,35-44,Noite,Segunda-feira,9,4,0,4368.35,0
+1572,Larissa Alves,Araújo,Google Ads,Inglês Básico,35-44,Tarde,Domingo,7,2,0,3942.27,0
+1573,Maria Fernanda Moraes,Montenegro,Google Ads,Espanhol,45-54,Manhã,Quinta-feira,3,8,0,4372.14,0
+1574,Melissa Mendonça,Lima,Tráfego Orgânico,Inglês Básico,18-24,Noite,Sexta-feira,8,2,0,4683.26,0
+1575,Juan Rezende,Costa do Oeste,Indicação,Inglês Adulto,18-24,Noite,Quinta-feira,5,2,1,3009.24,0
+1576,Lorenzo Moraes,Viana,Instagram,Inglês Intermediário,18-24,Manhã,Terça-feira,7,3,1,3663.26,0
+1577,Calebe Cavalcante,Fernandes,Tráfego Orgânico,Inglês Básico,18-24,Noite,Quarta-feira,8,3,1,9129.9,0
+1578,Yasmin Abreu,Rios,Tráfego Orgânico,Espanhol,18-24,Manhã,Sexta-feira,5,0,0,3784.37,0
+1579,Ana Luiza Costela,Sales de Sales,Evento Presencial,Inglês Intermediário,25-34,Noite,Sábado,4,2,0,3582.9,1
+1580,Hadassa Rodrigues,Peixoto de Sales,Tráfego Orgânico,Francês,25-34,Noite,Terça-feira,5,3,0,3703.76,0
+1581,Bella Costela,Pacheco Verde,Tráfego Orgânico,Inglês Básico,35-44,Noite,Quinta-feira,7,4,1,3104.69,0
+1582,Maya Ramos,Pimenta da Mata,Instagram,Espanhol,25-34,Noite,Segunda-feira,10,3,0,2754.72,0
+1583,Eduardo Alves,Farias da Serra,Google Ads,Espanhol,18-24,Tarde,Domingo,9,1,0,3925.67,1
+1584,Luísa Andrade,Marques,Instagram,Inglês Adulto,35-44,Noite,Terça-feira,2,1,0,2650.16,1
+1585,Brayan Aragão,Monteiro,Facebook Ads,Inglês Básico,,Tarde,Sexta-feira,1,1,0,3230.8,0
+1586,José Novais,Abreu,Evento Presencial,Inglês Adulto,,Noite,Terça-feira,4,3,1,2265.92,0
+1587,Ian da Luz,Sales,Instagram,Inglês Adulto,18-24,Noite,Quinta-feira,6,3,1,3714.22,0
+1588,Maria Julia Machado,Martins,Google Ads,Espanhol,25-34,Manhã,Quinta-feira,7,1,1,4826.25,1
+1589,Maria Luiza Lopes,da Costa,Instagram,Inglês Intermediário,45-54,Manhã,Terça-feira,10,2,0,3114.94,0
+1590,Sr. Mathias Rocha,Sousa de Vargas,Instagram,Inglês Básico,35-44,Manhã,Sexta-feira,8,2,1,1159.69,0
+1591,Vitor Abreu,Sousa das Flores,Instagram,Inglês Básico,35-44,Manhã,Sábado,5,1,0,4842.68,1
+1592,Ana Luiza Sá,Guerra,Indicação,Inglês Adulto,35-44,Tarde,Sábado,4,4,1,3739.17,0
+1593,Dra. Ana Clara Sampaio,Abreu,Evento Presencial,Francês,18-24,Noite,Terça-feira,12,2,1,2026.86,0
+1594,Luiz Henrique Montenegro,Albuquerque de Minas,Google Ads,Inglês Básico,35-44,Tarde,Sexta-feira,3,0,0,5355.17,0
+1595,João Vitor Viana,Alves da Prata,Tráfego Orgânico,Inglês Teens,45-54,Noite,Quinta-feira,9,2,1,1621.95,0
+1596,Liz Pereira,Casa Grande,Facebook Ads,Espanhol,55+,Noite,Quinta-feira,6,4,0,6219.8,0
+1597,João Miguel Teixeira,Macedo do Oeste,Instagram,Inglês Básico,25-34,Noite,Quarta-feira,5,4,0,,0
+1598,Maria Helena Gonçalves,Aparecida do Sul,Instagram,Inglês Básico,25-34,Tarde,Quinta-feira,10,2,0,1004.9,0
+1599,Ana Melo,Costa,Tráfego Orgânico,Inglês Adulto,35-44,Noite,Segunda-feira,3,1,0,3860.68,0
+1600,Vitor Câmara,Cavalcanti de Goiás,Instagram,Inglês Adulto,25-34,Noite,Quarta-feira,11,2,1,2799.27,0
+1601,Matteo Vieira,Silveira da Serra,Evento Presencial,Inglês Básico,25-34,,Terça-feira,7,5,1,,0
+1602,Laís Porto,Novaes de Goiás,Indicação,Inglês Teens,18-24,Noite,Terça-feira,3,2,1,2332.67,0
+1603,Kaique Rocha,Costa,Facebook Ads,Inglês Adulto,18-24,,Segunda-feira,10,5,1,3263.48,0
+1604,Dra. Maria Fernanda Albuquerque,Cavalcanti,Tráfego Orgânico,Espanhol,25-34,Tarde,Terça-feira,3,3,1,2680.25,0
+1605,Cecília Campos,Brito do Sul,Instagram,Espanhol,,Noite,Sexta-feira,9,0,0,1260.59,0
+1606,André Oliveira,Garcia,Instagram,Inglês Teens,18-24,Tarde,Quinta-feira,12,2,0,7045.58,0
+1607,Maria Júlia Nascimento,Fernandes,Evento Presencial,Inglês Adulto,18-24,Noite,Segunda-feira,8,1,0,3059.85,0
+1608,Antonella das Neves,das Neves,Instagram,Inglês Básico,45-54,Manhã,Sexta-feira,5,3,1,,0
+1609,Luiz Felipe Cunha,da Costa de Freitas,Google Ads,Inglês Adulto,18-24,Manhã,Sábado,4,3,1,,0
+1610,Sophie Casa Grande,Ribeiro da Serra,Google Ads,Inglês Básico,,Tarde,Sábado,7,4,1,5347.69,0
+1611,Francisco Câmara,Silva de Minas,Instagram,Inglês Adulto,25-34,Manhã,Sexta-feira,8,1,0,1713.65,0
+1612,Isis Correia,Casa Grande,Tráfego Orgânico,Inglês Básico,25-34,Noite,Domingo,9,2,0,3767.67,0
+1613,Fernando Rios,Vieira,Tráfego Orgânico,Inglês Adulto,55+,Manhã,Quinta-feira,6,2,1,2538.96,1
+1614,Ana Júlia Sá,Correia,Instagram,Inglês Básico,45-54,Noite,Domingo,3,1,0,2621.59,0
+1615,Nicole Ramos,Sales da Praia,Tráfego Orgânico,Inglês Básico,25-34,Manhã,Domingo,7,2,1,1907.52,1
+1616,Ana Sophia da Rocha,Peixoto das Pedras,Instagram,Inglês Básico,25-34,Noite,Terça-feira,10,3,0,2488.27,1
+1617,Ana Lívia da Cunha,Aparecida,Indicação,Inglês Adulto,25-34,Tarde,Sábado,9,1,0,3517.01,0
+1618,Gael Henrique Silveira,Nascimento,Google Ads,Inglês Teens,18-24,Manhã,Sexta-feira,6,4,1,3983.6,0
+1619,Raquel Farias,Vieira Grande,Evento Presencial,Inglês Básico,25-34,Manhã,Sexta-feira,10,5,1,,0
+1620,Sr. Isaac Brito,da Cruz do Norte,Indicação,Espanhol,18-24,Noite,Sábado,7,2,1,3329.26,1
+1621,Bernardo Correia,Cardoso do Galho,Instagram,Espanhol,18-24,,Quarta-feira,4,0,0,5705.4,0
+1622,Dr. Rael Farias,Costela de Siqueira,Google Ads,Inglês Intermediário,35-44,Noite,Quarta-feira,7,4,0,1402.59,0
+1623,Lorena Sales,Viana,Tráfego Orgânico,Inglês Adulto,18-24,Tarde,Quinta-feira,5,2,1,,0
+1624,Daniela Nunes,Vieira de Ribeiro,Indicação,Inglês Intermediário,18-24,Tarde,Sexta-feira,5,3,1,2074.73,0
+1625,Maria Clara Dias,Cavalcante,Instagram,Inglês Básico,25-34,Manhã,Sábado,8,1,0,1961.65,0
+1626,Eloá Abreu,Sá do Galho,Facebook Ads,Inglês Adulto,25-34,Tarde,Sábado,7,3,1,4040.3,1
+1627,Sr. Henry Silva,Monteiro do Galho,Instagram,Inglês Básico,18-24,Noite,Sexta-feira,8,2,0,2593.15,0
+1628,Dra. Maya da Mota,Cavalcanti de Duarte,Instagram,Espanhol,18-24,Tarde,Domingo,11,2,0,1792.34,0
+1629,Sr. Lucas Mendes,Moura do Amparo,Instagram,Espanhol,18-24,Noite,Terça-feira,8,1,1,7250.85,0
+1630,Melissa Fogaça,Melo de da Mata,Google Ads,Inglês Teens,,Noite,Domingo,4,1,1,5805.54,0
+1631,Ryan Novaes,Porto Verde,Google Ads,Inglês Adulto,45-54,Manhã,Segunda-feira,8,1,0,1209.24,0
+1632,Erick Ramos,Costela,Tráfego Orgânico,Inglês Adulto,45-54,Manhã,Quinta-feira,6,3,0,1555.55,0
+1633,Anna Liz da Mota,Costa,Facebook Ads,Francês,25-34,Manhã,Segunda-feira,14,2,1,4850.9,0
+1634,Vitor Gabriel Costa,da Costa de Gonçalves,Facebook Ads,Inglês Básico,25-34,Manhã,Quinta-feira,6,2,1,2992.42,1
+1635,Breno Siqueira,das Neves,Evento Presencial,Inglês Básico,35-44,Manhã,Quarta-feira,11,2,1,,0
+1636,Antony Montenegro,Garcia Verde,Google Ads,Inglês Adulto,35-44,Noite,Segunda-feira,3,4,0,,0
+1637,Ana Pacheco,Freitas,Google Ads,Inglês Intermediário,18-24,Manhã,Quinta-feira,4,5,1,,0
+1638,Maria Luiza Vargas,Novaes de Minas,Evento Presencial,Inglês Intermediário,18-24,Noite,Sexta-feira,7,2,1,1995.19,0
+1639,Hadassa Andrade,Sá,Instagram,Inglês Básico,25-34,Noite,Terça-feira,6,3,0,4586.22,0
+1640,Joana Nogueira,da Rocha,Facebook Ads,Inglês Adulto,35-44,Noite,Sexta-feira,3,3,0,1735.15,0
+1641,Olivia Rezende,Moreira de Fogaça,Tráfego Orgânico,Inglês Básico,18-24,Noite,Terça-feira,11,4,1,7175.32,0
+1642,Luiz Otávio Gonçalves,Pacheco,Indicação,Inglês Básico,25-34,Manhã,Segunda-feira,3,2,1,4414.7,0
+1643,João Vitor Carvalho,Martins,Google Ads,Inglês Básico,25-34,Manhã,Segunda-feira,6,1,1,2223.55,0
+1644,Sarah Moraes,Lima dos Dourados,Instagram,Inglês Intermediário,25-34,Manhã,Quinta-feira,4,3,1,,0
+1645,Miguel Fonseca,Lopes de Jesus,Instagram,Espanhol,25-34,Noite,Sexta-feira,6,2,1,12008.34,0
+1646,Alexia Ribeiro,Monteiro Alegre,Google Ads,Inglês Intermediário,,Noite,Quinta-feira,4,1,0,3105.19,0
+1647,Enzo Sá,Garcia do Sul,Instagram,Inglês Adulto,25-34,Tarde,Sexta-feira,9,2,0,4737.41,0
+1648,Cecilia Machado,Macedo,Tráfego Orgânico,Inglês Teens,25-34,Tarde,Quinta-feira,10,2,1,2760.07,0
+1649,Felipe Nunes,da Luz,Evento Presencial,Inglês Intermediário,18-24,Tarde,Sexta-feira,3,4,0,3668.22,0
+1650,Clara Sousa,Fogaça,Tráfego Orgânico,Inglês Teens,45-54,Tarde,Domingo,4,1,0,1527.73,0
+1651,Sra. Maria Alice Aparecida,da Rocha,Instagram,Inglês Adulto,25-34,Noite,Quarta-feira,11,2,1,3498.98,0
+1652,Ryan da Conceição,Viana,Instagram,Inglês Adulto,18-24,Manhã,Segunda-feira,9,3,0,3584.9,0
+1653,João Freitas,da Conceição do Campo,Instagram,Inglês Básico,25-34,Tarde,Segunda-feira,5,1,1,9414.13,0
+1654,Asafe Rios,Barbosa,Indicação,Inglês Básico,45-54,Tarde,Quinta-feira,12,2,0,1304.1,1
+1655,Valentim Vieira,Andrade da Prata,Evento Presencial,Francês,35-44,Manhã,Quinta-feira,9,3,0,2998.99,1
+1656,Dr. Ravy Marques,Farias,Google Ads,Inglês Teens,45-54,Tarde,Terça-feira,7,2,0,7108.05,0
+1657,Asafe Rezende,Rocha,Instagram,Espanhol,35-44,Noite,Sábado,6,4,1,3064.21,0
+1658,Sr. Vicente Porto,da Cunha da Mata,Tráfego Orgânico,Espanhol,,Manhã,Domingo,9,0,1,3185.23,0
+1659,João Pacheco,Correia Grande,Instagram,Inglês Básico,,Noite,Terça-feira,8,2,0,2213.27,0
+1660,Emanuella Garcia,Albuquerque da Mata,Indicação,Inglês Teens,18-24,Tarde,Terça-feira,4,3,0,2095.58,1
+1661,Maria Flor Fonseca,Ferreira das Flores,Instagram,Inglês Intermediário,35-44,Manhã,Terça-feira,4,0,0,1282.16,0
+1662,Ana Vitória Moreira,Pacheco do Sul,Facebook Ads,Inglês Teens,35-44,Manhã,Quarta-feira,7,0,0,2476.12,0
+1663,Marcos Vinicius Câmara,Rezende de Moraes,Tráfego Orgânico,Inglês Básico,18-24,Tarde,Sábado,5,2,1,2031.18,0
+1664,Maria Luiza Fogaça,Gonçalves,Instagram,Inglês Básico,,Manhã,Quinta-feira,7,2,1,3734.76,0
+1665,Dr. Rodrigo Pereira,da Conceição,Evento Presencial,Inglês Teens,25-34,Tarde,Segunda-feira,1,1,0,2269.47,1
+1666,Theodoro Carvalho,Melo,Tráfego Orgânico,Inglês Teens,18-24,Noite,Quarta-feira,3,1,1,,0
+1667,Eloah da Conceição,Moreira,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Segunda-feira,6,2,0,2729.31,0
+1668,Théo Ramos,Silveira de Martins,Instagram,Inglês Intermediário,45-54,Noite,Quarta-feira,5,1,0,3408.5,0
+1669,Heitor Cassiano,Vieira de Minas,Indicação,Inglês Intermediário,45-54,Tarde,Quarta-feira,9,0,0,2617.12,0
+1670,Emanuel Fonseca,Correia das Pedras,Tráfego Orgânico,Francês,25-34,Noite,Quinta-feira,3,1,0,1951.86,0
+1671,Bárbara Ribeiro,Costela dos Dourados,Instagram,Inglês Intermediário,55+,Noite,Quinta-feira,12,2,0,3669.06,0
+1672,Oliver Farias,Novais de Alves,Facebook Ads,Inglês Intermediário,,Manhã,Sábado,2,1,1,6295.77,0
+1673,Srta. Rafaela Rocha,Carvalho Verde,Tráfego Orgânico,Inglês Adulto,45-54,Tarde,Segunda-feira,10,0,0,3756.24,0
+1674,Pietra Costela,das Neves,Indicação,Inglês Intermediário,45-54,Tarde,Sexta-feira,4,0,1,2502.68,1
+1675,Elisa Ramos,Monteiro,Tráfego Orgânico,Inglês Adulto,25-34,Noite,Segunda-feira,11,4,1,3270.79,1
+1676,Alícia da Cruz,Fernandes de Goiás,Evento Presencial,Inglês Intermediário,35-44,Tarde,Terça-feira,4,0,0,1133.05,0
+1677,Davi Lucas Oliveira,Lima das Flores,Facebook Ads,Inglês Teens,35-44,Manhã,Sábado,8,2,0,3241.68,0
+1678,Elisa Carvalho,Duarte Verde,Google Ads,Espanhol,35-44,Noite,Sexta-feira,9,2,1,2808.27,1
+1679,Sophie Aparecida,Nunes,Tráfego Orgânico,Espanhol,18-24,Manhã,Terça-feira,4,4,0,2094.59,0
+1680,Clara Araújo,Carvalho,Google Ads,Inglês Adulto,35-44,Noite,Quarta-feira,5,1,0,2314.3,0
+1681,José Pedro Cirino,Farias,Facebook Ads,Inglês Intermediário,55+,Noite,Sexta-feira,7,2,0,2793.05,0
+1682,Maria Luiza Peixoto,Garcia do Oeste,Tráfego Orgânico,Inglês Teens,25-34,Noite,Domingo,9,0,1,6041.27,1
+1683,Allana Silveira,Azevedo da Prata,Facebook Ads,Inglês Teens,55+,Noite,Quinta-feira,9,1,1,6381.46,0
+1684,Dra. Larissa Barros,Correia do Amparo,Instagram,Inglês Adulto,25-34,Manhã,Segunda-feira,1,2,1,2100.75,0
+1685,Pietro Pereira,Farias,Indicação,Inglês Adulto,18-24,Noite,Quarta-feira,6,2,1,2632.2,0
+1686,Rafaela Cavalcante,Porto de da Rosa,Instagram,Inglês Teens,18-24,Noite,Segunda-feira,11,0,0,2669.36,0
+1687,Noah Peixoto,Cavalcante,Google Ads,Inglês Adulto,35-44,Noite,Segunda-feira,8,2,1,5463.08,0
+1688,Fernando Pinto,Rocha,Google Ads,Inglês Teens,35-44,Tarde,Quinta-feira,6,3,1,3791.61,0
+1689,Sophia da Luz,Andrade,Google Ads,Inglês Básico,,Manhã,Sexta-feira,9,3,0,3683.26,0
+1690,Luigi Marques,Alves de Cirino,Instagram,Inglês Intermediário,35-44,Tarde,Segunda-feira,6,5,1,4700.68,0
+1691,Ana Lívia da Conceição,Azevedo,Tráfego Orgânico,Inglês Adulto,25-34,Tarde,Sexta-feira,8,2,1,2521.2,0
+1692,Maria Isis Cardoso,da Paz do Oeste,Evento Presencial,Inglês Básico,25-34,Noite,Sexta-feira,6,4,0,7410.52,0
+1693,Antony Costa,da Rocha,Instagram,Espanhol,45-54,Noite,Sexta-feira,9,1,0,,0
+1694,Sofia Rodrigues,Marques,Facebook Ads,Inglês Adulto,35-44,Noite,Terça-feira,8,0,0,2185.86,0
+1695,Clarice Pereira,Freitas,Facebook Ads,Inglês Básico,35-44,Noite,Quarta-feira,6,2,1,3084.72,0
+1696,Felipe Melo,Cavalcante,Google Ads,Inglês Teens,35-44,Tarde,Segunda-feira,4,4,0,6891.74,0
+1697,Ana Carolina Viana,Jesus das Flores,Instagram,Inglês Teens,55+,Tarde,Terça-feira,5,0,0,,0
+1698,Sarah Sá,Camargo,Tráfego Orgânico,Inglês Teens,25-34,Tarde,Terça-feira,4,0,0,5900.4,0
+1699,Caleb Mendes,Nascimento,Evento Presencial,Inglês Intermediário,25-34,,Terça-feira,7,4,1,2481.4,0
+1700,Caroline Pereira,Mendes de Minas,Facebook Ads,Espanhol,18-24,,Terça-feira,4,3,1,2297.1,0
+1701,Agatha Vasconcelos,Costela Grande,Evento Presencial,Inglês Intermediário,35-44,Tarde,Terça-feira,13,3,1,5030.61,0
+1702,Marina Moreira,das Neves,Evento Presencial,Inglês Adulto,35-44,Tarde,Sábado,13,4,0,2164.26,0
+1703,Maria Eduarda Aparecida,Santos do Amparo,Instagram,Inglês Básico,35-44,,Sexta-feira,10,0,0,,0
+1704,Dra. Mariane da Conceição,Pereira,Facebook Ads,Inglês Adulto,25-34,Manhã,Quarta-feira,3,1,1,4246.76,1
+1705,Maria Helena Ferreira,Pastor do Oeste,Google Ads,Inglês Teens,18-24,Tarde,Domingo,9,3,0,2164.71,0
+1706,Beatriz Lima,da Mota de Costa,Evento Presencial,Inglês Adulto,35-44,,Terça-feira,5,0,0,3365.14,0
+1707,José Miguel Mendes,Casa Grande,Indicação,Inglês Intermediário,55+,Noite,Quarta-feira,5,2,1,2588.13,0
+1708,Bryan da Paz,Azevedo de Guerra,Google Ads,Inglês Teens,25-34,Noite,Sexta-feira,9,2,0,4240.58,0
+1709,Ísis Jesus,Moura,Tráfego Orgânico,Inglês Adulto,18-24,Tarde,Quarta-feira,7,6,1,9885.33,0
+1710,Gabriel Abreu,Nunes do Amparo,Instagram,Inglês Básico,25-34,Manhã,Terça-feira,4,5,1,2854.44,0
+1711,Dra. Alana Oliveira,Martins de Oliveira,Tráfego Orgânico,Francês,,Noite,Quarta-feira,10,5,1,4694.26,0
+1712,Bárbara Moreira,Sousa,Instagram,Inglês Teens,25-34,Noite,Quarta-feira,6,3,0,3547.37,0
+1713,Marcos Vinicius Rezende,da Paz,Evento Presencial,Francês,25-34,Noite,Quinta-feira,9,1,0,,0
+1714,Levi Jesus,Ferreira de Sampaio,Tráfego Orgânico,Francês,35-44,Tarde,Quarta-feira,9,3,0,3196.0,0
+1715,Sr. Eduardo Lima,Gonçalves da Serra,Instagram,Espanhol,25-34,Noite,Quarta-feira,8,1,1,2184.06,0
+1716,Isis da Luz,da Cruz da Serra,Tráfego Orgânico,Inglês Teens,25-34,Noite,Terça-feira,6,3,0,4208.43,0
+1717,Mariana Nunes,Marques das Flores,Instagram,Inglês Adulto,18-24,Tarde,Quinta-feira,6,2,0,2986.06,0
+1718,Dr. Miguel Sá,Sampaio,Facebook Ads,Inglês Básico,45-54,Noite,Terça-feira,5,3,1,2127.87,1
+1719,Noah Novaes,Gonçalves,Facebook Ads,Inglês Adulto,25-34,Manhã,Sábado,9,2,0,6113.86,0
+1720,Rafaela Cavalcanti,da Costa,Tráfego Orgânico,Inglês Teens,25-34,Noite,Sexta-feira,5,1,1,3695.88,1
+1721,Dr. José das Neves,da Mota,Indicação,Inglês Adulto,18-24,Tarde,Quarta-feira,2,1,0,3087.34,0
+1722,Manuella Vasconcelos,Rios de Minas,Instagram,Espanhol,35-44,Manhã,Sexta-feira,7,3,0,7314.03,0
+1723,Sra. Cecilia Ribeiro,Monteiro,Facebook Ads,Inglês Básico,45-54,Noite,Segunda-feira,5,2,0,1274.96,1
+1724,Ian Machado,Teixeira da Prata,Google Ads,Inglês Intermediário,18-24,Noite,Quarta-feira,7,2,0,7048.5,0
+1725,Srta. Beatriz Cunha,Freitas,Google Ads,Inglês Adulto,18-24,Tarde,Quarta-feira,5,0,1,2156.87,0
+1726,Maria Liz Viana,Sá,Indicação,Inglês Intermediário,18-24,Noite,Quarta-feira,6,3,1,3931.83,1
+1727,Sr. Enrico Gomes,Montenegro,Instagram,Inglês Básico,35-44,Tarde,Sexta-feira,5,2,1,2532.81,0
+1728,Alana Borges,Jesus dos Dourados,Tráfego Orgânico,Inglês Básico,45-54,Tarde,Domingo,11,2,1,2106.68,0
+1729,Ravy Peixoto,da Cunha,Indicação,Inglês Teens,25-34,Noite,Quarta-feira,8,2,1,7209.51,1
+1730,Aurora Azevedo,Montenegro,Instagram,Inglês Intermediário,,Tarde,Quarta-feira,6,4,1,,1
+1731,Henry Freitas,Martins,Evento Presencial,Inglês Básico,35-44,Tarde,Quinta-feira,10,5,0,3099.03,0
+1732,Arthur Miguel Silveira,Barbosa,Indicação,Inglês Básico,,Noite,Terça-feira,2,2,0,4209.21,0
+1733,Maria Liz Pimenta,Garcia de Fernandes,Facebook Ads,Inglês Intermediário,25-34,Manhã,Segunda-feira,12,2,1,3611.45,0
+1734,Stephany da Paz,Correia das Flores,Instagram,Inglês Básico,18-24,Tarde,Domingo,6,1,1,9066.1,0
+1735,Dra. Ana Laura Vasconcelos,Albuquerque,Tráfego Orgânico,Inglês Teens,,Tarde,Sexta-feira,5,3,0,1094.75,0
+1736,Thales Macedo,Camargo Grande,Facebook Ads,Inglês Teens,35-44,Noite,Domingo,10,3,0,4306.74,0
+1737,Guilherme Ribeiro,Rios dos Dourados,Tráfego Orgânico,Inglês Básico,35-44,Manhã,Terça-feira,4,1,0,2346.31,0
+1738,Laura Correia,Martins de Azevedo,Instagram,Inglês Adulto,35-44,Manhã,Segunda-feira,6,3,0,957.89,0
+1739,Thomas Moreira,Novaes,Google Ads,Inglês Básico,,Noite,Quarta-feira,8,2,1,2870.46,0
+1740,Srta. Eloá Rocha,Silva,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Domingo,9,4,0,,0
+1741,Luiz Miguel da Costa,Carvalho de Melo,Instagram,Espanhol,25-34,Tarde,Segunda-feira,8,1,1,2439.85,0
+1742,Agatha Castro,Castro da Serra,Instagram,Inglês Adulto,18-24,Noite,Segunda-feira,5,2,1,5406.94,0
+1743,João Guilherme Vasconcelos,Pereira,Indicação,Espanhol,45-54,Noite,Segunda-feira,4,3,0,6766.83,0
+1744,Maria Rios,Cavalcanti,Evento Presencial,Inglês Básico,35-44,Manhã,Sexta-feira,6,3,1,3475.64,0
+1745,Maria Luiza Pastor,Campos da Prata,Facebook Ads,Inglês Intermediário,,Noite,Sexta-feira,12,1,1,3739.73,0
+1746,Valentim Albuquerque,Cavalcante de Minas,Facebook Ads,Inglês Intermediário,18-24,Noite,Sexta-feira,5,3,0,1361.79,0
+1747,Dra. Ana Lívia Borges,Rocha,Facebook Ads,Inglês Intermediário,35-44,Tarde,Segunda-feira,13,2,0,,0
+1748,Larissa Silveira,Cassiano dos Dourados,Google Ads,Francês,35-44,,Sexta-feira,7,2,1,5763.92,0
+1749,Marcela Ferreira,Cavalcanti do Oeste,Google Ads,Inglês Básico,35-44,Noite,Quarta-feira,3,4,0,3618.78,0
+1750,Henry Gabriel Pereira,Rocha,Google Ads,Espanhol,25-34,Noite,Segunda-feira,6,1,0,4283.63,0
+1751,Rafael Guerra,Macedo,Facebook Ads,Espanhol,45-54,Noite,Terça-feira,6,1,0,,0
+1752,Alana da Luz,Porto,Instagram,Inglês Adulto,35-44,Noite,Quarta-feira,3,2,0,11685.69,0
+1753,Nicolas Montenegro,Gomes,Tráfego Orgânico,Inglês Intermediário,35-44,,Terça-feira,10,2,1,2762.06,1
+1754,Brayan Montenegro,Macedo do Norte,Tráfego Orgânico,Inglês Adulto,,Noite,Domingo,6,0,0,8463.29,1
+1755,Luigi Camargo,Aragão,Instagram,Inglês Básico,45-54,Noite,Quarta-feira,6,2,1,3766.66,0
+1756,Jade Nascimento,Vargas do Oeste,Google Ads,Inglês Teens,45-54,Noite,Quarta-feira,10,0,0,,0
+1757,Isis Sales,Freitas,Indicação,Inglês Intermediário,35-44,Noite,Quinta-feira,8,1,1,1784.3,0
+1758,Maria Flor Nunes,Costa,Evento Presencial,Espanhol,25-34,Noite,Quinta-feira,7,0,0,3874.13,0
+1759,Isabelly Sá,Almeida,Evento Presencial,Inglês Adulto,25-34,Manhã,Segunda-feira,5,1,1,2818.59,0
+1760,Dr. Raul Pastor,Alves do Sul,Evento Presencial,Inglês Adulto,45-54,Manhã,Quinta-feira,8,3,1,3779.05,0
+1761,Rodrigo Camargo,Correia de Minas,Instagram,Inglês Teens,35-44,Noite,Terça-feira,7,1,0,6855.63,0
+1762,Bernardo Garcia,Brito,Instagram,Inglês Adulto,18-24,Tarde,Quarta-feira,12,5,1,4310.73,0
+1763,Hellena Rocha,Silveira,Instagram,Espanhol,18-24,Noite,Sexta-feira,4,4,0,6848.12,0
+1764,Srta. Luara Jesus,Aparecida,Indicação,Inglês Básico,45-54,Noite,Quinta-feira,3,1,1,2420.9,0
+1765,Sr. João da Cruz,Moraes do Campo,Indicação,Francês,,Noite,Quarta-feira,8,3,1,2226.0,1
+1766,Caleb Guerra,Duarte da Prata,Indicação,Inglês Teens,55+,Tarde,Segunda-feira,4,0,0,3531.14,0
+1767,Manuela Barbosa,Pinto,Evento Presencial,Espanhol,25-34,Noite,Quarta-feira,12,1,0,3426.38,0
+1768,Emanuelly Melo,Nogueira,Indicação,Inglês Intermediário,35-44,Manhã,Terça-feira,6,2,0,3159.9,0
+1769,Dr. Henrique Oliveira,Lima do Campo,Indicação,Inglês Teens,45-54,Tarde,Sábado,13,2,1,,0
+1770,Fernando Souza,Cunha,Tráfego Orgânico,Inglês Intermediário,25-34,Manhã,Quinta-feira,2,3,1,,0
+1771,Esther Monteiro,Fogaça,Google Ads,Inglês Teens,18-24,,Sábado,5,2,0,2866.82,0
+1772,Srta. Isabela Sousa,Cavalcanti do Sul,Tráfego Orgânico,Inglês Básico,55+,Tarde,Quarta-feira,3,3,0,7668.38,0
+1773,João Costela,Rezende Alegre,Facebook Ads,Inglês Intermediário,18-24,Noite,Sexta-feira,9,3,0,3524.62,0
+1774,Guilherme da Cruz,Gomes,Tráfego Orgânico,Inglês Intermediário,,Noite,Segunda-feira,11,2,0,,0
+1775,Maria Alice Cassiano,Marques,Facebook Ads,Inglês Intermediário,35-44,Tarde,Terça-feira,4,3,0,,0
+1776,Dante Barros,Azevedo,Google Ads,Inglês Intermediário,35-44,Manhã,Segunda-feira,7,8,0,2224.23,0
+1777,Sabrina Pimenta,Rezende da Praia,Facebook Ads,Inglês Teens,25-34,,Segunda-feira,2,3,1,4283.3,0
+1778,Vitor Hugo Aparecida,Azevedo,Google Ads,Inglês Básico,35-44,Noite,Sábado,8,1,0,10108.19,0
+1779,Maria Fernanda Pinto,Jesus,Instagram,Inglês Teens,25-34,Noite,Sexta-feira,3,0,1,4019.47,0
+1780,Dr. João Guilherme Mendonça,Vargas do Amparo,Google Ads,Inglês Básico,45-54,Tarde,Quinta-feira,4,1,0,5745.78,0
+1781,Thomas da Mota,Silva,Instagram,Inglês Teens,25-34,Tarde,Quinta-feira,4,2,0,5124.65,0
+1782,Hellena Sá,da Cunha,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Quinta-feira,15,6,1,4143.91,0
+1783,Carolina Aragão,Peixoto,Instagram,Inglês Intermediário,,Noite,Quinta-feira,6,1,0,3878.03,0
+1784,Mariana Mendes,Pires das Flores,Instagram,Inglês Teens,18-24,Tarde,Sexta-feira,8,0,0,4729.34,0
+1785,Ana Beatriz Montenegro,Farias,Instagram,Espanhol,25-34,Manhã,Quinta-feira,4,4,1,5325.83,0
+1786,Dr. Erick Marques,Porto,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Sexta-feira,14,4,1,1663.75,0
+1787,Valentim Marques,Rios do Amparo,Instagram,Inglês Intermediário,18-24,Tarde,Terça-feira,8,3,1,4009.95,0
+1788,Sr. Anthony Gabriel Rocha,Farias,Facebook Ads,Inglês Intermediário,18-24,Tarde,Domingo,6,3,0,3163.0,0
+1789,Mateus Pacheco,Pereira,Tráfego Orgânico,Inglês Teens,25-34,Manhã,Segunda-feira,9,3,0,2821.94,0
+1790,Luan Fonseca,Garcia de Moraes,Indicação,Inglês Básico,55+,Noite,Quarta-feira,5,4,0,7138.79,1
+1791,Joana Cirino,Montenegro,Tráfego Orgânico,Inglês Teens,35-44,Tarde,Sábado,7,2,1,2338.55,0
+1792,Julia da Costa,da Conceição,Instagram,Inglês Intermediário,25-34,Tarde,Terça-feira,6,3,1,1625.21,0
+1793,Ravy Pimenta,Pimenta,Instagram,Inglês Teens,55+,Noite,Segunda-feira,8,2,0,5421.69,0
+1794,Dr. Francisco Monteiro,das Neves,Facebook Ads,Inglês Básico,25-34,Tarde,Quarta-feira,3,0,1,1602.47,0
+1795,Giovanna Leão,Sousa,Evento Presencial,Inglês Básico,25-34,Noite,Quarta-feira,7,3,0,1212.15,0
+1796,Sra. Maria Clara Guerra,Sá de Goiás,Instagram,Francês,25-34,Noite,Domingo,8,1,0,,0
+1797,Rael Cirino,Araújo,Google Ads,Espanhol,25-34,Manhã,Sábado,9,0,0,3819.27,0
+1798,Caroline Oliveira,Freitas,Instagram,Espanhol,25-34,Noite,Quarta-feira,4,1,0,4539.24,0
+1799,Heloísa Brito,da Rocha de Costa,Google Ads,Francês,35-44,Noite,Domingo,13,3,1,2744.03,0
+1800,Sra. Isabela Novais,Garcia,Facebook Ads,Inglês Intermediário,18-24,Noite,Quinta-feira,5,4,1,1634.5,1
