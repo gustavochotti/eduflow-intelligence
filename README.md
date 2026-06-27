@@ -1,7 +1,7 @@
 # EduFlow Intelligence
 ### Sistema de Scoring Preditivo de Leads com Assistente de Abordagem por IA Generativa
 
-> Franquias de ensino convertem menos de 2% dos leads captados. O problema raramente é falta de contato — é falta de priorização e contexto. Este sistema resolve os dois.
+> Franquias de ensino convertem menos de 5% dos leads captados. O problema raramente é falta de contato — é falta de priorização e contexto. Este sistema resolve os dois.
 
 ---
 
