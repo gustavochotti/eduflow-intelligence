@@ -9,7 +9,7 @@
 
 [![EduFlow Intelligence — Demo](./assets/thumb_demo.png)](https://www.youtube.com/watch?v=eU8OJLux_hE)
 
-> Clique na imagem para assistir à demonstração completa (2 min).
+> Clique na imagem para assistir à demonstração completa (~2 min).
 
 ---
 
