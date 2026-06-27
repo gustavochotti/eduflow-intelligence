@@ -100,11 +100,11 @@ O script gerador é versionado e determinístico via seed fixo — qualquer pess
 
 O maior risco técnico em projetos de ML com dados mistos (numéricos + categóricos) é o _data leakage_: transformações aplicadas sobre o dataset completo antes da divisão treino/teste contaminam a avaliação do modelo com informação do futuro.
 
-A solução foi encapsular todas as transformações em um `Pipeline` do scikit-learn com `ColumnTransformer`. O pipeline é fitado **apenas nos dados de treino** e aplicado nos dados de teste — garantindo que a avaliação reflita performance real em dados novos. O mesmo objeto serializado é carregado pela API em produção, eliminando discrepância entre treino e serviço.
+A solução foi separar as responsabilidades em dois módulos distintos: `preprocessing.py` encapsula as transformações estatísticas em um `Pipeline` do scikit-learn com `ColumnTransformer` — fitado **apenas nos dados de treino** e aplicado nos dados de teste. `feature_engineering.py` cuida das variáveis derivadas de negócio, que dependem de lógica de domínio e não de estatística, e por isso vivem fora do pipeline sklearn. O mesmo objeto serializado é carregado pela API em produção, eliminando discrepância entre treino e serviço.
 
 **Stack:** `scikit-learn` (`Pipeline`, `ColumnTransformer`, `SimpleImputer`, `OneHotEncoder`, `StandardScaler`)
 
-**Features de negócio criadas:**
+**Features de negócio criadas em `feature_engineering.py`:**
 - `score_engajamento` — combina velocidade de resposta, número de tentativas e interação prévia
 - `is_indicacao` — flag binária que isola o canal de maior conversão histórica
 - `urgencia_estimada` — produto entre dias sem contato e tentativas acumuladas
@@ -133,7 +133,7 @@ Três modelos foram comparados:
 
 Um score de 78% sem contexto não muda o comportamento do vendedor. _"Maria tem 78% de chance porque foi uma indicação direta (+0,31) e respondeu na primeira tentativa (+0,18)"_ muda.
 
-O SHAP (SHapley Additive exPlanations), fundamentado em Teoria dos Jogos, calcula a contribuição marginal de cada feature para cada predição individual. O resultado é injetado diretamente no prompt do LLM na etapa seguinte — o assistente de abordagem não recebe apenas o score, recebe os **argumentos matemáticos** por trás dele.
+O SHAP (SHapley Additive exPlanations), fundamentado em Teoria dos Jogos, calcula a contribuição marginal de cada feature para cada predição individual. Toda a lógica de explicabilidade foi isolada em `shap_explainer.py` — um módulo independente que pode ser chamado tanto pela API quanto por análises offline. O resultado é injetado diretamente no prompt do LLM na etapa seguinte — o assistente de abordagem não recebe apenas o score, recebe os **argumentos matemáticos** por trás dele.
 
 **Stack:** `shap` (`LinearExplainer`, waterfall plots, beeswarm plots)
 
@@ -146,6 +146,8 @@ A API expõe três endpoints:
 - `GET /leads` — retorna a tabela de leads com scores e features SHAP calculados
 - `POST /score` — recebe perfil de lead novo, retorna probabilidade + explicação
 - `POST /script` — monta contexto com perfil + score + SHAP + chama LLM, retorna script de abordagem
+
+A arquitetura interna da API foi dividida em responsabilidades claras: `main.py` define as rotas e orquestra as chamadas, `schemas.py` centraliza todos os modelos Pydantic de request e response — separados do código de rota por decisão de design, facilitando manutenção e testes — e `llm_service.py` isola toda a lógica de comunicação com o LLM, incluindo montagem do contexto e chamada à API do OpenRouter.
 
 O prompt enviado ao LLM é externalizado em `prompts/script_template.txt` — separado do código Python por decisão de arquitetura. Prompts são peças de engenharia que precisam ser versionadas, testadas e iteradas independentemente da lógica da aplicação.
 
@@ -160,34 +162,41 @@ O prompt enviado ao LLM é externalizado em `prompts/script_template.txt` — se
 eduflow-intelligence/
 │
 ├── assets/
-│   ├── thumb_demo.png              # Thumbnail clicável do vídeo de demonstração
+│   ├── thumb_demo.png                  # Thumbnail clicável do vídeo de demonstração
 │   └── screenshots/
-│       ├── visao_gestao.png        # Dashboard — KPIs e distribuição de scores
-│       ├── visao_operacional.png   # Dashboard — tabela de leads por score
-│       └── visao_acao.png          # Dashboard — perfil, SHAP e script gerado
+│       ├── visao_gestao.png            # Dashboard — KPIs e distribuição de scores
+│       ├── visao_operacional.png       # Dashboard — tabela de leads por score
+│       └── visao_acao.png              # Dashboard — perfil, SHAP e script gerado
 │
 ├── src/
-│   ├── data_generation.py          # Gerador de dataset sintético (seed fixo)
-│   ├── preprocessing.py            # ColumnTransformer e features de negócio
-│   ├── model_training.py           # Treino, comparação e serialização do modelo
-│   └── model_evaluation.py         # Métricas, curvas e simulação de impacto
+│   ├── data_generation.py              # Gerador de dataset sintético (seed fixo)
+│   ├── feature_engineering.py          # Features de negócio derivadas do domínio
+│   ├── preprocessing.py                # ColumnTransformer: encoding, scaling, imputation
+│   ├── model_training.py               # Treino, comparação e serialização do modelo
+│   ├── model_evaluation.py             # Métricas, curvas e simulação de impacto
+│   ├── shap_explainer.py               # Explicabilidade isolada: LinearExplainer + plots
+│   ├── llm_service.py                  # Comunicação com OpenRouter: montagem de contexto e chamada
+│   └── create_eda_notebook.py          # Gerador programático do notebook de análise exploratória
 │
 ├── api/
-│   └── main.py                     # FastAPI: /leads, /score, /script
+│   ├── main.py                         # FastAPI: rotas /leads, /score, /script
+│   └── schemas.py                      # Modelos Pydantic de request e response
 │
 ├── dashboard/
-│   └── app.py                      # Streamlit: 3 visões (gestão, operacional, ação)
+│   └── app.py                          # Streamlit: 3 visões (gestão, operacional, ação)
 │
 ├── prompts/
-│   └── script_template.txt         # Template do prompt LLM (versionado separadamente)
+│   └── script_template.txt             # Template do prompt LLM (versionado separadamente)
 │
-├── notebooks/
-│   ├── eda.ipynb                   # Análise exploratória com narrativa de negócio
-│   └── model_evaluation.ipynb      # Avaliação de modelos e simulação de impacto
+├── data/
+│   └── leads_raw.csv                   # Dataset gerado (reproduzível via data_generation.py)
 │
-├── model.pkl                       # Pipeline serializado (preprocessamento + modelo)
-├── leads_raw.csv                   # Dataset gerado (reproduzível via data_generation.py)
-├── .env.example                    # Variáveis de ambiente necessárias (sem valores reais)
+├── models/
+│   ├── model.pkl                       # Pipeline serializado (preprocessamento + modelo)
+│   └── metadata.json                   # Métricas do modelo, threshold e data de treino
+│
+├── .env.example                        # Variáveis de ambiente necessárias (sem valores reais)
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
@@ -251,6 +260,8 @@ python -m streamlit run dashboard/app.py
 ```
 
 Acesse `http://localhost:8501` — o dashboard conecta automaticamente à API.
+
+> Os arquivos `data/leads_raw.csv` e `models/model.pkl` já estão incluídos no repositório. O passo 4 só é necessário se quiser regenerar os dados ou retreinar o modelo do zero.
 
 ---
 
