@@ -269,4 +269,4 @@ Acesse `http://localhost:8501` — o dashboard conecta automaticamente à API.
 
 Construído por alguém que viveu o problema antes de modelá-lo.
 
-Se quiser conversar sobre o projeto, dados, ou como adaptar o sistema para outros contextos de negócio — me encontra no [LinkedIn](#).
+Se quiser conversar sobre o projeto, dados, ou como adaptar o sistema para outros contextos de negócio — me encontra no [LinkedIn](https://www.linkedin.com/in/gustavochotti/).
